@@ -14,10 +14,6 @@ class Kalshi:
         self.market_data = []
 
     def get_market_data(self):
-        self._load_market_data()
-        return self.market_data
-
-    def _load_market_data(self):
         events = self._fetch_events()
         results = []
 
@@ -49,6 +45,7 @@ class Kalshi:
                 )
 
         self.market_data = results
+        return results
 
     def _fetch_events(self):
         params = {"series_ticker": self.series_ticker, "status": self.status_filter}

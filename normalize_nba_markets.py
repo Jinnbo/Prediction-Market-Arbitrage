@@ -1,3 +1,4 @@
+import hashlib
 import json
 import os
 from collections import defaultdict
@@ -176,7 +177,6 @@ class NormalizeNBAMarkets:
             team2 = team_list[1]
 
             # Convert prices from cents (0-100) to decimals (0.0-1.0)
-            # yes_bid -> BUY, yes_ask -> SELL
             team1_buy = (
                 team1["market"]["yes_bid"] / 100.0
                 if team1["market"]["yes_bid"] is not None
@@ -198,11 +198,7 @@ class NormalizeNBAMarkets:
                 else None
             )
 
-            # Format question similar to Polymarket: "Team1 vs. Team2"
-            question = f"{team1['name']} vs. {team2['name']}"
-
-            # Format date (convert from YYYY-MM-DD to Polymarket format if needed)
-            # For now, keep as is or format to match Polymarket's date format
+            question = " vs ".join(sorted([team1["name"], team2["name"]]))
             date_str = game_date if game_date else ""
 
             normalized_entry = {
@@ -223,13 +219,25 @@ class NormalizeNBAMarkets:
             }
 
             normalized.append(normalized_entry)
+            self._create_hashes(normalized)
 
         return normalized
 
     def _normalize_polymarket_markets(self):
+        for market in self.polymarket_markets:
+            if "question" in market:
+                market["question"] = market["question"].replace(" vs. ", " vs ")
+        self._create_hashes(self.polymarket_markets)
         return self.polymarket_markets
 
     def _save_to_json(self, data: list[dict], path: str) -> None:
         with open(path, "w") as f:
             json.dump(data, f, indent=2)
         print(f"Saved {len(data)} markets to {path}")
+
+    def _create_hashes(self, data: list[dict]) -> None:
+        for entry in data:
+            team1, team2 = sorted(entry["question"].split(" vs "))
+            date = entry["date"]
+            key = f"{team1}{team2}{date}"
+            entry["hash"] = hashlib.sha256(key.encode()).hexdigest()

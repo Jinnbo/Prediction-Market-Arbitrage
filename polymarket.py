@@ -15,10 +15,6 @@ class Polymarket:
         self.market_data = []
 
     async def get_market_data(self):
-        await self._load_market_data()
-        return self.market_data
-
-    async def _load_market_data(self):
         async with aiohttp.ClientSession() as session:
             markets = await self._fetch_games(session)
             if not markets:
