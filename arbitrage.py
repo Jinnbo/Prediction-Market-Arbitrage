@@ -18,7 +18,7 @@ async def main():
 
     # Normalize markets
     normalizer = NormalizeNBAMarkets(markets_polymarket, markets_kalshi)
-    normalizer.normalize_markets()
+    normalizer.normalize_and_save_markets()
 
 
 if __name__ == "__main__":

@@ -1,4 +1,6 @@
 import json
+import os
+from collections import defaultdict
 
 
 class NormalizeNBAMarkets:
@@ -126,17 +128,20 @@ class NormalizeNBAMarkets:
         self.polymarket_markets = polymarket_markets
         self.kalshi_markets = kalshi_markets
 
-    def normalize_markets(self):
-        self.normalize_kalshi_markets()
-        self.normalize_polymarket_markets()
+    def normalize_and_save_markets(self, output_dir="data"):
+        os.makedirs(output_dir, exist_ok=True)
+        normalized_kalshi = self._normalize_kalshi_markets()
+        normalized_polymarket = self._normalize_polymarket_markets()
+        self._save_to_json(
+            normalized_kalshi,
+            path=os.path.join(output_dir, "nba_markets_kalshi_normalized.json"),
+        )
+        self._save_to_json(
+            normalized_polymarket,
+            path=os.path.join(output_dir, "nba_markets_polymarket_normalized.json"),
+        )
 
-    def normalize_kalshi_markets(self):
-        """
-        Consolidate Kalshi markets from 2 entries per game to 1 entry per game,
-        matching Polymarket's format with 4 price fields per game.
-        """
-        from collections import defaultdict
-
+    def _normalize_kalshi_markets(self):
         # Group markets by event_title and game_date
         grouped_markets = defaultdict(list)
         for market in self.kalshi_markets:
@@ -219,14 +224,12 @@ class NormalizeNBAMarkets:
 
             normalized.append(normalized_entry)
 
-        self.save_to_json(normalized, path="nba_markets_kalshi_normalized.json")
+        return normalized
 
-    def normalize_polymarket_markets(self):
-        self.save_to_json(
-            self.polymarket_markets, path="nba_markets_polymarket_normalized.json"
-        )
+    def _normalize_polymarket_markets(self):
+        return self.polymarket_markets
 
-    def save_to_json(self, data: list[dict], path: str) -> None:
+    def _save_to_json(self, data: list[dict], path: str) -> None:
         with open(path, "w") as f:
             json.dump(data, f, indent=2)
         print(f"Saved {len(data)} markets to {path}")

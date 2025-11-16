@@ -26,25 +26,25 @@
   {
     "question": "Heat vs. Knicks",
     "date": "2025-11-17",
-    "Heat BUY": 0.4,
+    "Heat BUY": 0.45,
     "Heat SELL": 0.54,
     "Knicks BUY": 0.42,
-    "Knicks SELL": 0.53
+    "Knicks SELL": 0.55
   },
   {
     "question": "Hornets vs. Raptors",
     "date": "2025-11-17",
     "Hornets BUY": 0.25,
     "Hornets SELL": 0.27,
-    "Raptors BUY": 0.64,
+    "Raptors BUY": 0.65,
     "Raptors SELL": 0.81
   },
   {
     "question": "Bucks vs. Cavaliers",
     "date": "2025-11-17",
     "Bucks BUY": 0.26,
-    "Bucks SELL": 0.27,
-    "Cavaliers BUY": 0.65,
+    "Bucks SELL": 0.32,
+    "Cavaliers BUY": 0.6,
     "Cavaliers SELL": 0.76
   },
   {
@@ -59,31 +59,31 @@
     "question": "Pacers vs. Pistons",
     "date": "2025-11-17",
     "Pacers BUY": 0.19,
-    "Pacers SELL": 0.2,
+    "Pacers SELL": 0.21,
     "Pistons BUY": 0.74,
     "Pistons SELL": 0.84
   },
   {
     "question": "Hawks vs. Suns",
     "date": "2025-11-16",
-    "Hawks BUY": 0.5,
-    "Hawks SELL": 0.51,
+    "Hawks BUY": 0.51,
+    "Hawks SELL": 0.52,
     "Suns BUY": 0.5,
-    "Suns SELL": 0.52
+    "Suns SELL": 0.51
   },
   {
     "question": "Mavericks vs. Trail Blazers",
     "date": "2025-11-16",
-    "Mavericks BUY": 0.35,
-    "Mavericks SELL": 0.38,
-    "Trail Blazers BUY": 0.62,
-    "Trail Blazers SELL": 0.65
+    "Mavericks BUY": 0.36,
+    "Mavericks SELL": 0.4,
+    "Trail Blazers BUY": 0.61,
+    "Trail Blazers SELL": 0.64
   },
   {
     "question": "Magic vs. Rockets",
     "date": "2025-11-16",
-    "Magic BUY": 0.25,
-    "Magic SELL": 0.27,
+    "Magic BUY": 0.26,
+    "Magic SELL": 0.29,
     "Rockets BUY": 0.74,
     "Rockets SELL": 0.75
   },
@@ -99,56 +99,56 @@
     "question": "Nets vs. Wizards",
     "date": "2025-11-16",
     "Nets BUY": 0.41,
-    "Nets SELL": 0.45,
-    "Wizards BUY": 0.55,
-    "Wizards SELL": 0.59
+    "Nets SELL": 0.44,
+    "Wizards BUY": 0.56,
+    "Wizards SELL": 0.6
   },
   {
     "question": "Kings vs. Spurs",
     "date": "2025-11-16",
-    "Kings BUY": 0.29,
+    "Kings BUY": 0.28,
     "Kings SELL": 0.31,
-    "Spurs BUY": 0.7,
-    "Spurs SELL": 0.71
+    "Spurs BUY": 0.69,
+    "Spurs SELL": 0.72
   },
   {
     "question": "Celtics vs. Clippers",
     "date": "2025-11-16",
-    "Celtics BUY": 0.66,
+    "Celtics BUY": 0.65,
     "Celtics SELL": 0.69,
-    "Clippers BUY": 0.33,
-    "Clippers SELL": 0.34
+    "Clippers BUY": 0.31,
+    "Clippers SELL": 0.36
   },
   {
     "question": "Bucks vs. Lakers",
     "date": "2025-11-15",
     "Bucks BUY": 0.53,
-    "Bucks SELL": 0.54,
-    "Lakers BUY": 0.46,
+    "Bucks SELL": 0.55,
+    "Lakers BUY": 0.45,
     "Lakers SELL": 0.47
   },
   {
     "question": "Nuggets vs. Timberwolves",
     "date": "2025-11-15",
-    "Nuggets BUY": 0.52,
-    "Nuggets SELL": 0.53,
-    "Timberwolves BUY": 0.48,
+    "Nuggets BUY": 0.5,
+    "Nuggets SELL": 0.51,
+    "Timberwolves BUY": 0.49,
     "Timberwolves SELL": 0.5
   },
   {
     "question": "Pacers vs. Raptors",
     "date": "2025-11-15",
-    "Pacers BUY": 0.25,
-    "Pacers SELL": 0.26,
-    "Raptors BUY": 0.74,
-    "Raptors SELL": 0.75
+    "Pacers BUY": 0.22,
+    "Pacers SELL": 0.24,
+    "Raptors BUY": 0.77,
+    "Raptors SELL": 0.78
   },
   {
     "question": "Hornets vs. Thunder",
     "date": "2025-11-15",
-    "Hornets BUY": 0.14,
-    "Hornets SELL": 0.16,
-    "Thunder BUY": 0.84,
-    "Thunder SELL": 0.86
+    "Hornets BUY": 0.07,
+    "Hornets SELL": 0.09,
+    "Thunder BUY": 0.91,
+    "Thunder SELL": 0.93
   }
 ]
