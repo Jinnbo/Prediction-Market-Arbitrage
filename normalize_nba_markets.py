@@ -219,15 +219,18 @@ class NormalizeNBAMarkets:
             }
 
             normalized.append(normalized_entry)
-            self._create_hashes(normalized)
 
+        normalized = self._create_hash_and_save_as_map(normalized)
         return normalized
 
     def _normalize_polymarket_markets(self):
         for market in self.polymarket_markets:
             if "question" in market:
                 market["question"] = market["question"].replace(" vs. ", " vs ")
-        self._create_hashes(self.polymarket_markets)
+
+        self.polymarket_markets = self._create_hash_and_save_as_map(
+            self.polymarket_markets
+        )
         return self.polymarket_markets
 
     def _save_to_json(self, data: list[dict], path: str) -> None:
@@ -235,9 +238,16 @@ class NormalizeNBAMarkets:
             json.dump(data, f, indent=2)
         print(f"Saved {len(data)} markets to {path}")
 
-    def _create_hashes(self, data: list[dict]) -> None:
+    def _create_hash_and_save_as_map(self, data: list[dict]) -> dict:
         for entry in data:
             team1, team2 = sorted(entry["question"].split(" vs "))
             date = entry["date"]
             key = f"{team1}{team2}{date}"
             entry["hash"] = hashlib.sha256(key.encode()).hexdigest()
+
+        new_map = {}
+
+        for entry in data:
+            new_map[entry["hash"]] = entry
+
+        return new_map
