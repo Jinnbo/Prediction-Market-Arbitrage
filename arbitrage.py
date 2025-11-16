@@ -13,9 +13,7 @@ async def main():
 
     # Polymarket
     nba_polymarket = Polymarket(tag_id="745")
-    await nba_polymarket.load_market_data()
-
-    markets_polymarket = nba_polymarket.get_market_data()
+    markets_polymarket = await nba_polymarket.get_market_data()
     print("Loaded", len(markets_polymarket), "Polymarket markets")
 
     # Normalize markets
