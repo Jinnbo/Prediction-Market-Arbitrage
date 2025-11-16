@@ -200,20 +200,23 @@ class NormalizeNBAMarkets:
 
             question = " vs ".join(sorted([team1["name"], team2["name"]]))
             date_str = game_date if game_date else ""
+            team1_name = team1["name"].replace(" ", "")
+            team2_name = team2["name"].replace(" ", "")
 
             normalized_entry = {
                 "question": question,
                 "date": date_str,
-                f"{team1['name']} BUY": (
+                "platform": "kalshi",
+                f"{team1_name} BUY": (
                     round(team1_buy, 2) if team1_buy is not None else None
                 ),
-                f"{team1['name']} SELL": (
+                f"{team1_name} SELL": (
                     round(team1_sell, 2) if team1_sell is not None else None
                 ),
-                f"{team2['name']} BUY": (
+                f"{team2_name} BUY": (
                     round(team2_buy, 2) if team2_buy is not None else None
                 ),
-                f"{team2['name']} SELL": (
+                f"{team2_name} SELL": (
                     round(team2_sell, 2) if team2_sell is not None else None
                 ),
             }
@@ -227,6 +230,8 @@ class NormalizeNBAMarkets:
         for market in self.polymarket_markets:
             if "question" in market:
                 market["question"] = market["question"].replace(" vs. ", " vs ")
+
+            market["platform"] = "polymarket"
 
         self.polymarket_markets = self._create_hash_and_save_as_map(
             self.polymarket_markets

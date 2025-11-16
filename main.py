@@ -1,5 +1,8 @@
 import asyncio
+import json
 
+import arbitrage
+from arbitrage import ArbitrageCalculator
 from kalshi import Kalshi
 from normalize_nba_markets import NormalizeNBAMarkets
 from polymarket import Polymarket
@@ -20,6 +23,25 @@ async def main():
     normalizer = NormalizeNBAMarkets(markets_polymarket, markets_kalshi)
     normalizer.normalize_and_save_markets()
 
+    # rewrite this later
+    polymarket = None
+    kalshi = None
+    with open("data/nba_markets_polymarket_normalized.json", "r") as f:
+        polymarket = json.load(f)
+    with open("data/nba_markets_kalshi_normalized.json", "r") as f:
+        kalshi = json.load(f)
+
+    # Calculate Opportunity
+    arbitrageCalculator = ArbitrageCalculator(market_1=polymarket, market_2=kalshi)
+    arbitrageCalculator.calculate()
+
 
 if __name__ == "__main__":
     asyncio.run(main())
+
+
+"""
+
+
+
+"""
