@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  arbitrage-bot:
+    build: .
+    container_name: prediction-arbitrage
+    volumes:
+      # Mount data directory to persist market data
+      - ./data:/app/data
+      # Mount source code for development (optional)
+      - .:/app
+    environment:
+      # Add any environment variables if needed
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    # Uncomment for scheduled runs
+    # command: ["python", "main.py"]

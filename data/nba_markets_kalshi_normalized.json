@@ -13,10 +13,10 @@
     "question": "Knicks vs Mavericks",
     "date": "2025-11-19",
     "platform": "kalshi",
-    "Knicks BUY": 0.67,
-    "Knicks SELL": 0.76,
+    "Knicks BUY": 0.66,
+    "Knicks SELL": 0.75,
     "Mavericks BUY": 0.25,
-    "Mavericks SELL": 0.26,
+    "Mavericks SELL": 0.32,
     "hash": "7fedba82f8f09f5ee9a8bc953f98ad774f7fddae6234abd13ede5aff5a2a3a95"
   },
   "48a28a5e2befc04f275adaa5b7979683a754f1f9e061ef3aa11cecbbdf72d835": {
@@ -26,7 +26,7 @@
     "Timberwolves BUY": 0.85,
     "Timberwolves SELL": 0.93,
     "Wizards BUY": 0.1,
-    "Wizards SELL": 0.13,
+    "Wizards SELL": 0.11,
     "hash": "48a28a5e2befc04f275adaa5b7979683a754f1f9e061ef3aa11cecbbdf72d835"
   },
   "0e5f326691b67d1e22443072445a977f9979defb8ad6a1e8481f05f12ebf3c10": {
@@ -53,10 +53,10 @@
     "question": "Heat vs Warriors",
     "date": "2025-11-19",
     "platform": "kalshi",
-    "Heat BUY": 0.4,
-    "Heat SELL": 0.47,
-    "Warriors BUY": 0.45,
-    "Warriors SELL": 0.57,
+    "Heat BUY": 0.39,
+    "Heat SELL": 0.46,
+    "Warriors BUY": 0.47,
+    "Warriors SELL": 0.56,
     "hash": "88432eafba7ac45cb5f93aa7ba302b30b9f0ec75e2991e11071dae8469c84281"
   },
   "618b74b49b0573e02364cde04c15beaa93546599e62dea77eea7d20ee1abd649": {
@@ -66,7 +66,7 @@
     "76ers BUY": 0.51,
     "76ers SELL": 0.58,
     "Raptors BUY": 0.43,
-    "Raptors SELL": 0.49,
+    "Raptors SELL": 0.47,
     "hash": "618b74b49b0573e02364cde04c15beaa93546599e62dea77eea7d20ee1abd649"
   },
   "80594ea6506383c76c211dcc2570cb50fce58e5895887f741c18f6337b11b2f4": {
@@ -74,7 +74,7 @@
     "date": "2025-11-19",
     "platform": "kalshi",
     "Cavaliers BUY": 0.46,
-    "Cavaliers SELL": 0.5,
+    "Cavaliers SELL": 0.49,
     "Rockets BUY": 0.47,
     "Rockets SELL": 0.53,
     "hash": "80594ea6506383c76c211dcc2570cb50fce58e5895887f741c18f6337b11b2f4"
@@ -83,10 +83,10 @@
     "question": "Hornets vs Pacers",
     "date": "2025-11-19",
     "platform": "kalshi",
-    "Hornets BUY": 0.56,
+    "Hornets BUY": 0.57,
     "Hornets SELL": 0.63,
     "Pacers BUY": 0.34,
-    "Pacers SELL": 0.48,
+    "Pacers SELL": 0.44,
     "hash": "9f59acac84c6786b36c13ccf0a74e9b38487d137ebda757f4d4b440c6c2a0874"
   },
   "3130c05b976c04aa3072197cfa6b4c0a9736021989dfb5ed9a6b4fc59a00205b": {
@@ -96,7 +96,7 @@
     "Suns BUY": 0.45,
     "Suns SELL": 0.46,
     "TrailBlazers BUY": 0.54,
-    "TrailBlazers SELL": 0.55,
+    "TrailBlazers SELL": 0.56,
     "hash": "3130c05b976c04aa3072197cfa6b4c0a9736021989dfb5ed9a6b4fc59a00205b"
   },
   "3498982f28c4fbe369fdf48ea7075dfcecd6768153104fc611e114829de8aa21": {
@@ -104,9 +104,9 @@
     "date": "2025-11-18",
     "platform": "kalshi",
     "Grizzlies BUY": 0.3,
-    "Grizzlies SELL": 0.31,
-    "Spurs BUY": 0.69,
-    "Spurs SELL": 0.71,
+    "Grizzlies SELL": 0.32,
+    "Spurs BUY": 0.68,
+    "Spurs SELL": 0.7,
     "hash": "3498982f28c4fbe369fdf48ea7075dfcecd6768153104fc611e114829de8aa21"
   },
   "7493163528845987734152ce433926ccc17c430bef06c38118469c733318c427": {
@@ -114,8 +114,8 @@
     "date": "2025-11-18",
     "platform": "kalshi",
     "Hawks BUY": 0.48,
-    "Hawks SELL": 0.5,
-    "Pistons BUY": 0.5,
+    "Hawks SELL": 0.49,
+    "Pistons BUY": 0.51,
     "Pistons SELL": 0.52,
     "hash": "7493163528845987734152ce433926ccc17c430bef06c38118469c733318c427"
   },
@@ -124,7 +124,7 @@
     "date": "2025-11-18",
     "platform": "kalshi",
     "Celtics BUY": 0.82,
-    "Celtics SELL": 0.84,
+    "Celtics SELL": 0.83,
     "Nets BUY": 0.17,
     "Nets SELL": 0.18,
     "hash": "7d887e6143092d638a755afafe3806c8370fa8b6492886921b6b635d8d73b751"
@@ -136,7 +136,7 @@
     "Magic BUY": 0.39,
     "Magic SELL": 0.4,
     "Warriors BUY": 0.6,
-    "Warriors SELL": 0.61,
+    "Warriors SELL": 0.62,
     "hash": "8a75ec502ca0b894121e146c85bec52984c50bb0c0cfa3c94e8c60464427dc05"
   }
 }
