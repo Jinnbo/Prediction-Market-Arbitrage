@@ -11,10 +11,14 @@ class Polymarket:
     CLOB_PRICE_URL = "https://clob.polymarket.com/price"
 
     def __init__(self, tag_id):
+        """Initialize Polymarket client with tag ID."""
+
         self.tag_id = tag_id
         self.market_data = []
 
     async def get_market_data(self):
+        """Fetch and process market data from Polymarket."""
+
         async with aiohttp.ClientSession() as session:
             markets = await self._fetch_games(session)
             if not markets:
@@ -79,11 +83,15 @@ class Polymarket:
             return self.market_data
 
     async def _fetch_json(self, session, url, params):
+        """Fetch JSON data from URL."""
+
         async with session.get(url, params=params, timeout=30) as resp:
             data = await resp.json()
         return data
 
     async def _fetch_games(self, session):
+        """Fetch games from Polymarket API."""
+
         now = datetime.datetime.utcnow()
         one_week = now + datetime.timedelta(days=7)
 
@@ -101,11 +109,11 @@ class Polymarket:
             return []
 
     async def _fetch_buy_sell_for_token(self, session, question, team, token):
-        # BUY = highest bid (buyers pay this)
+        """Fetch buy and sell prices for a token."""
+
         buy_task = self._fetch_json(
             session, self.CLOB_PRICE_URL, {"token_id": token, "side": "SELL"}
         )
-        # SELL = lowest ask (sellers want this)
         sell_task = self._fetch_json(
             session, self.CLOB_PRICE_URL, {"token_id": token, "side": "BUY"}
         )
@@ -114,12 +122,15 @@ class Polymarket:
         return question, team, buy_json, sell_json
 
     def _save_to_file(self, path="markets_polymarket.json"):
+        """Save market data to JSON file."""
+
         with open(path, "w") as f:
             json.dump(self.market_data, f, indent=2)
         return path
 
     def _utc_to_est(self, utc_date_str):
-        """Convert UTC datetime string to EST"""
+        """Convert UTC datetime string to EST."""
+
         if not utc_date_str:
             return None
 
