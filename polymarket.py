@@ -1,6 +1,8 @@
 import asyncio
 import datetime
 import json
+import logging
+import time
 
 import aiohttp
 from dateutil import tz
@@ -15,6 +17,7 @@ class Polymarket:
 
         self.tag_id = tag_id
         self.market_data = []
+        self.logger = logging.getLogger(self.__class__.__name__)
 
     async def get_market_data(self):
         """Fetch and process market data from Polymarket."""
@@ -43,7 +46,8 @@ class Polymarket:
                     )
 
             # Limit concurrency to avoid overloading server
-            sem = asyncio.Semaphore(8)
+            concurrency_limit = max(1, min(24, len(tasks)))
+            sem = asyncio.Semaphore(concurrency_limit)
 
             async def sem_task(task):
                 async with sem:
@@ -85,9 +89,25 @@ class Polymarket:
     async def _fetch_json(self, session, url, params):
         """Fetch JSON data from URL."""
 
-        async with session.get(url, params=params, timeout=30) as resp:
-            data = await resp.json()
-        return data
+        start = time.perf_counter()
+        try:
+            async with session.get(url, params=params, timeout=30) as resp:
+                data = await resp.json()
+            duration = time.perf_counter() - start
+            self.logger.info(
+                "Polymarket fetch %s in %.2fs params=%s", url, duration, params
+            )
+            return data
+        except Exception as exc:
+            duration = time.perf_counter() - start
+            self.logger.warning(
+                "Polymarket fetch failed in %.2fs url=%s params=%s error=%s",
+                duration,
+                url,
+                params,
+                exc,
+            )
+            raise
 
     async def _fetch_games(self, session):
         """Fetch games from Polymarket API."""

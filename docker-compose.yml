@@ -12,6 +12,17 @@ services:
     environment:
       # Add any environment variables if needed
       - PYTHONUNBUFFERED=1
-    restart: unless-stopped
-    # Uncomment for scheduled runs
+    # Remove restart policy and command to allow interactive use
+    # restart: unless-stopped
     # command: ["python", "main.py"]
+
+  # Optional: Add a service that keeps running for exec commands
+  arbitrage-shell:
+    build: .
+    container_name: prediction-arbitrage-shell
+    volumes:
+      - ./data:/app/data
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: ["tail", "-f", "/dev/null"]  # Keep container running
