@@ -98,13 +98,11 @@ class NormalizeNBAMarkets:
 
     def __init__(self, polymarket_markets, kalshi_markets):
         """Initialize normalizer with Polymarket and Kalshi market data."""
-
         self.polymarket_markets = polymarket_markets
         self.kalshi_markets = kalshi_markets
 
     def normalize_markets(self, output_dir="data", save=True):
         """Normalize and optionally save market data from both platforms."""
-
         os.makedirs(output_dir, exist_ok=True)
         normalized_kalshi = self._normalize_kalshi_markets()
         normalized_polymarket = self._normalize_polymarket_markets()
@@ -123,7 +121,6 @@ class NormalizeNBAMarkets:
 
     def _normalize_kalshi_markets(self):
         """Normalize Kalshi market data to standard format."""
-
         grouped_markets = defaultdict(list)
         for market in self.kalshi_markets:
             key = (market["event_title"], market["game_date"])
@@ -202,7 +199,6 @@ class NormalizeNBAMarkets:
 
     def _normalize_polymarket_markets(self):
         """Normalize Polymarket market data to standard format."""
-
         for market in self.polymarket_markets:
             if "question" in market:
                 market["question"] = market["question"].replace(" vs. ", " vs ")
@@ -216,14 +212,12 @@ class NormalizeNBAMarkets:
 
     def _save_to_json(self, data: list[dict], path: str) -> None:
         """Save data to JSON file."""
-
         with open(path, "w") as f:
             json.dump(data, f, indent=2)
         print(f"Saved {len(data)} markets to {path}")
 
     def _create_hash_and_save_as_map(self, data: list[dict]) -> dict:
         """Create hash for each entry and return as dictionary map."""
-
         for entry in data:
             team1, team2 = sorted(entry["question"].split(" vs "))
             date = entry["date"]

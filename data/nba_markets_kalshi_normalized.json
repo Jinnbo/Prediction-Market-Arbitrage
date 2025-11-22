@@ -1,142 +1,222 @@
 {
-  "66c0295db79c861f12370d3d84272a912784c49607bd7b6e472bfbe02ec99f97": {
-    "question": "Bulls vs Trail Blazers",
-    "date": "2025-11-19",
+  "3dc70eca88ff7915681c623b96c3276487fd49752d2b1843bb014454df2b1b30": {
+    "question": "Kings vs Timberwolves",
+    "date": "2025-11-24",
     "platform": "kalshi",
-    "Bulls BUY": 0.47,
-    "Bulls SELL": 0.56,
-    "TrailBlazers BUY": 0.45,
-    "TrailBlazers SELL": 0.47,
-    "hash": "66c0295db79c861f12370d3d84272a912784c49607bd7b6e472bfbe02ec99f97"
+    "Kings BUY": 0.15,
+    "Kings SELL": 0.22,
+    "Timberwolves BUY": 0.25,
+    "Timberwolves SELL": 0.81,
+    "hash": "3dc70eca88ff7915681c623b96c3276487fd49752d2b1843bb014454df2b1b30"
   },
-  "7fedba82f8f09f5ee9a8bc953f98ad774f7fddae6234abd13ede5aff5a2a3a95": {
-    "question": "Knicks vs Mavericks",
-    "date": "2025-11-19",
+  "97f6d7c3ad44fde3e406736f57fddf62120a5cf5fbe77435e05eac75293a36d3": {
+    "question": "Rockets vs Suns",
+    "date": "2025-11-24",
     "platform": "kalshi",
-    "Knicks BUY": 0.66,
-    "Knicks SELL": 0.75,
-    "Mavericks BUY": 0.25,
-    "Mavericks SELL": 0.32,
-    "hash": "7fedba82f8f09f5ee9a8bc953f98ad774f7fddae6234abd13ede5aff5a2a3a95"
+    "Rockets BUY": 0.52,
+    "Rockets SELL": 0.65,
+    "Suns BUY": 0.23,
+    "Suns SELL": 0.37,
+    "hash": "97f6d7c3ad44fde3e406736f57fddf62120a5cf5fbe77435e05eac75293a36d3"
   },
-  "48a28a5e2befc04f275adaa5b7979683a754f1f9e061ef3aa11cecbbdf72d835": {
-    "question": "Timberwolves vs Wizards",
-    "date": "2025-11-19",
+  "3d753a1997bdd7d027ce7973a4dda21ca5af74efa55898961dc59b47c3fabb44": {
+    "question": "Bucks vs Trail Blazers",
+    "date": "2025-11-24",
     "platform": "kalshi",
-    "Timberwolves BUY": 0.85,
-    "Timberwolves SELL": 0.93,
-    "Wizards BUY": 0.1,
-    "Wizards SELL": 0.11,
-    "hash": "48a28a5e2befc04f275adaa5b7979683a754f1f9e061ef3aa11cecbbdf72d835"
+    "Bucks BUY": 0.4,
+    "Bucks SELL": 0.59,
+    "TrailBlazers BUY": 0.36,
+    "TrailBlazers SELL": 0.55,
+    "hash": "3d753a1997bdd7d027ce7973a4dda21ca5af74efa55898961dc59b47c3fabb44"
   },
-  "0e5f326691b67d1e22443072445a977f9979defb8ad6a1e8481f05f12ebf3c10": {
-    "question": "Kings vs Thunder",
-    "date": "2025-11-19",
+  "299e43a7a9927d11a42d6d2b310bda76fb7765d09ecb29782c3c677c386df062": {
+    "question": "Grizzlies vs Nuggets",
+    "date": "2025-11-24",
     "platform": "kalshi",
-    "Kings BUY": 0.07,
-    "Kings SELL": 0.09,
-    "Thunder BUY": 0.91,
-    "Thunder SELL": 0.94,
-    "hash": "0e5f326691b67d1e22443072445a977f9979defb8ad6a1e8481f05f12ebf3c10"
+    "Grizzlies BUY": 0.27,
+    "Grizzlies SELL": 0.29,
+    "Nuggets BUY": 0.7,
+    "Nuggets SELL": 0.72,
+    "hash": "299e43a7a9927d11a42d6d2b310bda76fb7765d09ecb29782c3c677c386df062"
   },
-  "bd4a302aa0dedfc198e613fc6169484e044d0f81cc09009843243d6ddd36af7f": {
-    "question": "Nuggets vs Pelicans",
-    "date": "2025-11-19",
+  "ac6a3bac8fb6815a742bae64b72b3be29bf6d66e185096196479b946a0a66c86": {
+    "question": "Bulls vs Pelicans",
+    "date": "2025-11-24",
     "platform": "kalshi",
-    "Nuggets BUY": 0.89,
-    "Nuggets SELL": 0.91,
-    "Pelicans BUY": 0.06,
-    "Pelicans SELL": 0.11,
-    "hash": "bd4a302aa0dedfc198e613fc6169484e044d0f81cc09009843243d6ddd36af7f"
+    "Bulls BUY": 0.48,
+    "Bulls SELL": 0.71,
+    "Pelicans BUY": 0.23,
+    "Pelicans SELL": 0.35,
+    "hash": "ac6a3bac8fb6815a742bae64b72b3be29bf6d66e185096196479b946a0a66c86"
   },
-  "88432eafba7ac45cb5f93aa7ba302b30b9f0ec75e2991e11071dae8469c84281": {
-    "question": "Heat vs Warriors",
-    "date": "2025-11-19",
+  "bf8b969b43237aecde253acaaaedc04b75cf2d7599c5953bd1e4b840c050544b": {
+    "question": "Knicks vs Nets",
+    "date": "2025-11-24",
     "platform": "kalshi",
-    "Heat BUY": 0.39,
-    "Heat SELL": 0.46,
-    "Warriors BUY": 0.47,
-    "Warriors SELL": 0.56,
-    "hash": "88432eafba7ac45cb5f93aa7ba302b30b9f0ec75e2991e11071dae8469c84281"
+    "Knicks BUY": 0.61,
+    "Knicks SELL": 0.83,
+    "Nets BUY": 0.13,
+    "Nets SELL": 0.16,
+    "hash": "bf8b969b43237aecde253acaaaedc04b75cf2d7599c5953bd1e4b840c050544b"
   },
-  "618b74b49b0573e02364cde04c15beaa93546599e62dea77eea7d20ee1abd649": {
-    "question": "76ers vs Raptors",
-    "date": "2025-11-19",
+  "cf0b13baa4221f62728cc419a75ebcfd49f30fd1b3cf7ed2309027208054234c": {
+    "question": "Heat vs Mavericks",
+    "date": "2025-11-24",
     "platform": "kalshi",
-    "76ers BUY": 0.51,
-    "76ers SELL": 0.58,
+    "Heat BUY": 0.61,
+    "Heat SELL": 0.79,
+    "Mavericks BUY": 0.2,
+    "Mavericks SELL": 0.27,
+    "hash": "cf0b13baa4221f62728cc419a75ebcfd49f30fd1b3cf7ed2309027208054234c"
+  },
+  "cad160ef9a80518eb4f525c74fc2bf43395916d5ef8bdd4eb7a943aeef25fa4c": {
+    "question": "Pacers vs Pistons",
+    "date": "2025-11-24",
+    "platform": "kalshi",
+    "Pacers BUY": 0.22,
+    "Pacers SELL": 0.27,
+    "Pistons BUY": 0.53,
+    "Pistons SELL": 0.75,
+    "hash": "cad160ef9a80518eb4f525c74fc2bf43395916d5ef8bdd4eb7a943aeef25fa4c"
+  },
+  "0b7ef9ef20f9787e6de5e2f148861df4bb781ab33650ff4fa82c9054524ae123": {
+    "question": "Cavaliers vs Raptors",
+    "date": "2025-11-24",
+    "platform": "kalshi",
+    "Cavaliers BUY": 0.45,
+    "Cavaliers SELL": 0.51,
     "Raptors BUY": 0.43,
-    "Raptors SELL": 0.47,
-    "hash": "618b74b49b0573e02364cde04c15beaa93546599e62dea77eea7d20ee1abd649"
+    "Raptors SELL": 0.55,
+    "hash": "0b7ef9ef20f9787e6de5e2f148861df4bb781ab33650ff4fa82c9054524ae123"
   },
-  "80594ea6506383c76c211dcc2570cb50fce58e5895887f741c18f6337b11b2f4": {
-    "question": "Cavaliers vs Rockets",
-    "date": "2025-11-19",
+  "d5f298dc2e3e198f1cf6abf62b5cd9dcfbd36de717841da2990533db4febcc4f": {
+    "question": "Spurs vs Suns",
+    "date": "2025-11-23",
     "platform": "kalshi",
-    "Cavaliers BUY": 0.46,
-    "Cavaliers SELL": 0.49,
-    "Rockets BUY": 0.47,
-    "Rockets SELL": 0.53,
-    "hash": "80594ea6506383c76c211dcc2570cb50fce58e5895887f741c18f6337b11b2f4"
+    "Spurs BUY": 0.44,
+    "Spurs SELL": 0.46,
+    "Suns BUY": 0.54,
+    "Suns SELL": 0.57,
+    "hash": "d5f298dc2e3e198f1cf6abf62b5cd9dcfbd36de717841da2990533db4febcc4f"
   },
-  "9f59acac84c6786b36c13ccf0a74e9b38487d137ebda757f4d4b440c6c2a0874": {
-    "question": "Hornets vs Pacers",
-    "date": "2025-11-19",
+  "e97f755e75508d96c11cf1884e869284cc73244d6e1b5c229df629dea41ad789": {
+    "question": "Thunder vs Trail Blazers",
+    "date": "2025-11-23",
     "platform": "kalshi",
-    "Hornets BUY": 0.57,
-    "Hornets SELL": 0.63,
-    "Pacers BUY": 0.34,
-    "Pacers SELL": 0.44,
-    "hash": "9f59acac84c6786b36c13ccf0a74e9b38487d137ebda757f4d4b440c6c2a0874"
+    "Thunder BUY": 0.86,
+    "Thunder SELL": 0.88,
+    "TrailBlazers BUY": 0.13,
+    "TrailBlazers SELL": 0.14,
+    "hash": "e97f755e75508d96c11cf1884e869284cc73244d6e1b5c229df629dea41ad789"
   },
-  "3130c05b976c04aa3072197cfa6b4c0a9736021989dfb5ed9a6b4fc59a00205b": {
-    "question": "Suns vs Trail Blazers",
-    "date": "2025-11-18",
+  "4dc4742426cd93e32e98252fe629ffdcd9d4ebab4bf2e75dbec50c5afc0e9534": {
+    "question": "Celtics vs Magic",
+    "date": "2025-11-23",
     "platform": "kalshi",
-    "Suns BUY": 0.45,
-    "Suns SELL": 0.46,
-    "TrailBlazers BUY": 0.54,
-    "TrailBlazers SELL": 0.56,
-    "hash": "3130c05b976c04aa3072197cfa6b4c0a9736021989dfb5ed9a6b4fc59a00205b"
+    "Celtics BUY": 0.62,
+    "Celtics SELL": 0.63,
+    "Magic BUY": 0.37,
+    "Magic SELL": 0.39,
+    "hash": "4dc4742426cd93e32e98252fe629ffdcd9d4ebab4bf2e75dbec50c5afc0e9534"
   },
-  "3498982f28c4fbe369fdf48ea7075dfcecd6768153104fc611e114829de8aa21": {
-    "question": "Grizzlies vs Spurs",
-    "date": "2025-11-18",
+  "45667b3093da3df4f441a9c1f6177847c4120d99657b10972ac8782564c0088c": {
+    "question": "Cavaliers vs Clippers",
+    "date": "2025-11-23",
     "platform": "kalshi",
-    "Grizzlies BUY": 0.3,
-    "Grizzlies SELL": 0.32,
-    "Spurs BUY": 0.68,
-    "Spurs SELL": 0.7,
-    "hash": "3498982f28c4fbe369fdf48ea7075dfcecd6768153104fc611e114829de8aa21"
+    "Cavaliers BUY": 0.79,
+    "Cavaliers SELL": 0.81,
+    "Clippers BUY": 0.21,
+    "Clippers SELL": 0.23,
+    "hash": "45667b3093da3df4f441a9c1f6177847c4120d99657b10972ac8782564c0088c"
   },
-  "7493163528845987734152ce433926ccc17c430bef06c38118469c733318c427": {
-    "question": "Hawks vs Pistons",
-    "date": "2025-11-18",
+  "fc8b5cc1630c8778068abe0fb7cea6fece198536b1f577cfb797ef7a60ef9662": {
+    "question": "Hawks vs Hornets",
+    "date": "2025-11-23",
     "platform": "kalshi",
-    "Hawks BUY": 0.48,
-    "Hawks SELL": 0.49,
-    "Pistons BUY": 0.51,
-    "Pistons SELL": 0.52,
-    "hash": "7493163528845987734152ce433926ccc17c430bef06c38118469c733318c427"
+    "Hawks BUY": 0.74,
+    "Hawks SELL": 0.75,
+    "Hornets BUY": 0.25,
+    "Hornets SELL": 0.28,
+    "hash": "fc8b5cc1630c8778068abe0fb7cea6fece198536b1f577cfb797ef7a60ef9662"
   },
-  "7d887e6143092d638a755afafe3806c8370fa8b6492886921b6b635d8d73b751": {
-    "question": "Celtics vs Nets",
-    "date": "2025-11-18",
+  "9fb68278ce025dce734b596c1bfafa5412ddf1f6adfb09e3cf6746be8199cec3": {
+    "question": "Nets vs Raptors",
+    "date": "2025-11-23",
     "platform": "kalshi",
-    "Celtics BUY": 0.82,
-    "Celtics SELL": 0.83,
-    "Nets BUY": 0.17,
-    "Nets SELL": 0.18,
-    "hash": "7d887e6143092d638a755afafe3806c8370fa8b6492886921b6b635d8d73b751"
+    "Nets BUY": 0.15,
+    "Nets SELL": 0.17,
+    "Raptors BUY": 0.84,
+    "Raptors SELL": 0.85,
+    "hash": "9fb68278ce025dce734b596c1bfafa5412ddf1f6adfb09e3cf6746be8199cec3"
   },
-  "8a75ec502ca0b894121e146c85bec52984c50bb0c0cfa3c94e8c60464427dc05": {
-    "question": "Magic vs Warriors",
-    "date": "2025-11-18",
+  "cdbb22629293b3b7796715df6c866bb406714fc542f3f83e9b34d9770780126e": {
+    "question": "76ers vs Heat",
+    "date": "2025-11-23",
     "platform": "kalshi",
-    "Magic BUY": 0.39,
-    "Magic SELL": 0.4,
-    "Warriors BUY": 0.6,
-    "Warriors SELL": 0.62,
-    "hash": "8a75ec502ca0b894121e146c85bec52984c50bb0c0cfa3c94e8c60464427dc05"
+    "76ers BUY": 0.49,
+    "76ers SELL": 0.52,
+    "Heat BUY": 0.5,
+    "Heat SELL": 0.51,
+    "hash": "cdbb22629293b3b7796715df6c866bb406714fc542f3f83e9b34d9770780126e"
+  },
+  "e36fbe65c129edd4f7795c7d2f3156f3ac0e8b0b8e7288787851504eb4c77d38": {
+    "question": "Kings vs Nuggets",
+    "date": "2025-11-22",
+    "platform": "kalshi",
+    "Kings BUY": 0.16,
+    "Kings SELL": 0.17,
+    "Nuggets BUY": 0.83,
+    "Nuggets SELL": 0.84,
+    "hash": "e36fbe65c129edd4f7795c7d2f3156f3ac0e8b0b8e7288787851504eb4c77d38"
+  },
+  "12236ec7c7c4f47ac62aa7bbb81aa816b7aea99645481a83e6f31be4a59349af": {
+    "question": "Grizzlies vs Mavericks",
+    "date": "2025-11-22",
+    "platform": "kalshi",
+    "Grizzlies BUY": 0.48,
+    "Grizzlies SELL": 0.49,
+    "Mavericks BUY": 0.5,
+    "Mavericks SELL": 0.52,
+    "hash": "12236ec7c7c4f47ac62aa7bbb81aa816b7aea99645481a83e6f31be4a59349af"
+  },
+  "3d986a1315add6ed2fbebed8988a9e0e445ad476f433f45e1e58738e23819826": {
+    "question": "Bulls vs Wizards",
+    "date": "2025-11-22",
+    "platform": "kalshi",
+    "Bulls BUY": 0.84,
+    "Bulls SELL": 0.86,
+    "Wizards BUY": 0.14,
+    "Wizards SELL": 0.15,
+    "hash": "3d986a1315add6ed2fbebed8988a9e0e445ad476f433f45e1e58738e23819826"
+  },
+  "da0e203e67a0d1442fd5ba4cc27837cf3410a0178c1d394e767091f041f20200": {
+    "question": "Bucks vs Pistons",
+    "date": "2025-11-22",
+    "platform": "kalshi",
+    "Bucks BUY": 0.24,
+    "Bucks SELL": 0.25,
+    "Pistons BUY": 0.75,
+    "Pistons SELL": 0.76,
+    "hash": "da0e203e67a0d1442fd5ba4cc27837cf3410a0178c1d394e767091f041f20200"
+  },
+  "61e3b32a7417db96065fecb478693057dbd48a5cce054b709e07bbaebe275d57": {
+    "question": "Hawks vs Pelicans",
+    "date": "2025-11-22",
+    "platform": "kalshi",
+    "Hawks BUY": 0.8,
+    "Hawks SELL": 0.81,
+    "Pelicans BUY": 0.19,
+    "Pelicans SELL": 0.2,
+    "hash": "61e3b32a7417db96065fecb478693057dbd48a5cce054b709e07bbaebe275d57"
+  },
+  "d32af662b6b7a89b0fc45a246fdef4c1e0139d4da0d65a3f4ec261539d326bea": {
+    "question": "Knicks vs Magic",
+    "date": "2025-11-22",
+    "platform": "kalshi",
+    "Knicks BUY": 0.48,
+    "Knicks SELL": 0.49,
+    "Magic BUY": 0.5,
+    "Magic SELL": 0.51,
+    "hash": "d32af662b6b7a89b0fc45a246fdef4c1e0139d4da0d65a3f4ec261539d326bea"
   }
 }
