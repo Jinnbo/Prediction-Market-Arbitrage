@@ -87,11 +87,11 @@ class Polymarket:
                         if buy_json.get("price")
                         else None
                     )
-                    market_data[f"{team} SELL"] = (
-                        float(sell_json.get("price", 0))
-                        if sell_json.get("price")
-                        else None
-                    )
+                    # market_data[f"{team} SELL"] = (
+                    #     float(sell_json.get("price", 0))
+                    #     if sell_json.get("price")
+                    #     else None
+                    # )
 
             elapsed_time = time.time() - start_time
             logger.info(

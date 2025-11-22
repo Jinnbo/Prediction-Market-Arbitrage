@@ -96,6 +96,10 @@ class NormalizeNBAMarkets:
         "Washington": "Wizards",
     }
 
+    KALSHI_BASE_NBA_URL = (
+        "https://kalshi.com/markets/kxnbagame/professional-basketball-game/"
+    )
+
     def __init__(self, polymarket_markets, kalshi_markets):
         """Initialize normalizer with Polymarket and Kalshi market data."""
         self.polymarket_markets = polymarket_markets
@@ -149,21 +153,11 @@ class NormalizeNBAMarkets:
             team2 = team_list[1]
 
             team1_buy = (
-                team1["market"]["yes_bid"] / 100.0
-                if team1["market"]["yes_bid"] is not None
-                else None
-            )
-            team1_sell = (
                 team1["market"]["yes_ask"] / 100.0
                 if team1["market"]["yes_ask"] is not None
                 else None
             )
             team2_buy = (
-                team2["market"]["yes_bid"] / 100.0
-                if team2["market"]["yes_bid"] is not None
-                else None
-            )
-            team2_sell = (
                 team2["market"]["yes_ask"] / 100.0
                 if team2["market"]["yes_ask"] is not None
                 else None
@@ -181,15 +175,10 @@ class NormalizeNBAMarkets:
                 f"{team1_name} BUY": (
                     round(team1_buy, 2) if team1_buy is not None else None
                 ),
-                f"{team1_name} SELL": (
-                    round(team1_sell, 2) if team1_sell is not None else None
-                ),
                 f"{team2_name} BUY": (
                     round(team2_buy, 2) if team2_buy is not None else None
                 ),
-                f"{team2_name} SELL": (
-                    round(team2_sell, 2) if team2_sell is not None else None
-                ),
+                f"kalshi link": f"{self.KALSHI_BASE_NBA_URL}{'-'.join(market['market_ticker'].split('-')[:2])}",
             }
 
             normalized.append(normalized_entry)
