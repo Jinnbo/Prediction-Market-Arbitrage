@@ -1,3 +1,5 @@
+"""Kalshi API client for fetching prediction market data."""
+
 import asyncio
 import logging
 import time

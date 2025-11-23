@@ -1,3 +1,5 @@
+"""Main entry point for the prediction market arbitrage script."""
+
 import asyncio
 import logging
 import time

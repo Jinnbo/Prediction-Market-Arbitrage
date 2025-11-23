@@ -1,3 +1,5 @@
+"""Polymarket API client for fetching prediction market data."""
+
 import asyncio
 import datetime
 import json
@@ -166,7 +168,9 @@ class Polymarket:
             logger.error("Failed to fetch buy price for token %s: %s", token, buy_json)
             buy_json = {}
         if isinstance(sell_json, Exception):
-            logger.error("Failed to fetch sell price for token %s: %s", token, sell_json)
+            logger.error(
+                "Failed to fetch sell price for token %s: %s", token, sell_json
+            )
             sell_json = {}
 
         elapsed_time = time.time() - start_time

@@ -1,3 +1,5 @@
+"""Normalizes NBA market data from different prediction market platforms."""
+
 import hashlib
 import json
 import os
@@ -6,6 +8,7 @@ from typing import Any
 
 
 class NormalizeNBAMarkets:
+    """Normalizes NBA market data from different prediction market platforms."""
 
     TEAM_NAME_MAP = {
         # Atlanta
@@ -185,7 +188,10 @@ class NormalizeNBAMarkets:
                 f"{team2_name} BUY": (
                     round(team2_buy, 2) if team2_buy is not None else None
                 ),
-                f"kalshi link": f"{self.KALSHI_BASE_NBA_URL}{'-'.join(market['market_ticker'].split('-')[:2])}",
+                "kalshi link": (
+                    f"{self.KALSHI_BASE_NBA_URL}"
+                    f"{'-'.join(market['market_ticker'].split('-')[:2])}"
+                ),
             }
 
             normalized.append(normalized_entry)
@@ -208,7 +214,7 @@ class NormalizeNBAMarkets:
 
     def _save_to_json(self, data: list[dict], path: str) -> None:
         """Save data to JSON file."""
-        with open(path, "w") as f:
+        with open(path, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2)
         print(f"Saved {len(data)} markets to {path}")
 

@@ -1,3 +1,5 @@
+"""Arbitrage calculator for prediction market opportunities."""
+
 from typing import Any
 
 
