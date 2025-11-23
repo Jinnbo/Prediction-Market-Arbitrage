@@ -1,9 +1,7 @@
 import asyncio
-import json
 import logging
 import time
 
-import arbitrage
 from arbitrage import ArbitrageCalculator
 from kalshi import Kalshi
 from normalize_nba_markets import NormalizeNBAMarkets
@@ -32,8 +30,8 @@ async def main():
         nba_kalshi.get_market_data(), nba_polymarket.get_market_data()
     )
 
-    logger.info(f"Loaded {len(markets_kalshi)} Kalshi markets")
-    logger.info(f"Loaded {len(markets_polymarket)} Polymarket markets")
+    logger.info("Loaded %d Kalshi markets", len(markets_kalshi))
+    logger.info("Loaded %d Polymarket markets", len(markets_polymarket))
 
     # Normalize markets
     logger.info("Normalizing markets...")
@@ -42,11 +40,11 @@ async def main():
 
     # Calculate Opportunity
     logger.info("Calculating arbitrage opportunities...")
-    arbitrageCalculator = ArbitrageCalculator(market_1=polymarket, market_2=kalshi)
-    arbitrageCalculator.calculate()
+    arbitrage_calculator = ArbitrageCalculator(market_1=polymarket, market_2=kalshi)
+    arbitrage_calculator.calculate()
 
     script_elapsed_time = time.time() - script_start_time
-    logger.info(f"Script completed successfully in {script_elapsed_time:.2f} seconds")
+    logger.info("Script completed successfully in %.2f seconds", script_elapsed_time)
 
 
 if __name__ == "__main__":

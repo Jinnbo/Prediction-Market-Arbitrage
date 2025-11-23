@@ -1,10 +1,11 @@
 import asyncio
-import json
 import logging
 import time
-from datetime import datetime
+from typing import Any
 
 import aiohttp
+
+from utils import parse_date, save_to_json
 
 logger = logging.getLogger(__name__)
 
@@ -13,22 +14,22 @@ class Kalshi:
     BASE_EVENTS_URL = "https://api.elections.kalshi.com/trade-api/v2/events"
     BASE_MARKETS_URL = "https://api.elections.kalshi.com/trade-api/v2/markets"
 
-    def __init__(self, series_ticker):
+    def __init__(self, series_ticker: str) -> None:
         """Initialize Kalshi client with series ticker."""
         self.series_ticker = series_ticker
         self.status_filter = "open"
         self.market_data = []
 
-    async def get_market_data(self):
+    async def get_market_data(self) -> list[dict[str, Any]]:
         """Fetch and process market data from events."""
         start_time = time.time()
         logger.info(
-            f"Starting Kalshi market data fetch for series: {self.series_ticker}"
+            "Starting Kalshi market data fetch for series: %s", self.series_ticker
         )
 
         async with aiohttp.ClientSession() as session:
             events = await self._fetch_events(session)
-            logger.info(f"Fetched {len(events)} events from Kalshi")
+            logger.info("Fetched %d events from Kalshi", len(events))
 
             # Fetch markets for all events concurrently
             tasks = [
@@ -42,7 +43,9 @@ class Kalshi:
                 markets_result = markets_results[i]
                 if isinstance(markets_result, Exception):
                     logger.error(
-                        f"Failed to fetch markets for event {event['event_ticker']}: {markets_result}"
+                        "Failed to fetch markets for event %s: %s",
+                        event["event_ticker"],
+                        markets_result,
                     )
                     continue
 
@@ -56,7 +59,7 @@ class Kalshi:
                     game_date = None
                     if len(parts) >= 2:
                         date_segment = parts[1][:7]
-                        game_date = self._parse_date(date_segment)
+                        game_date = parse_date(date_segment)
 
                     results.append(
                         {
@@ -72,17 +75,21 @@ class Kalshi:
 
         elapsed_time = time.time() - start_time
         logger.info(
-            f"Kalshi market data fetch completed in {elapsed_time:.2f} seconds. Loaded {len(results)} markets"
+            "Kalshi market data fetch completed in %.2f seconds. Loaded %d markets",
+            elapsed_time,
+            len(results),
         )
         self.market_data = results
-        self._save_to_json()
+        save_to_json(self.market_data, "data/nba_markets_kalshi.json")
         return results
 
-    async def _fetch_events(self, session):
+    async def _fetch_events(
+        self, session: aiohttp.ClientSession
+    ) -> list[dict[str, Any]]:
         """Fetch open events from Kalshi API."""
         start_time = time.time()
         params = {"series_ticker": self.series_ticker, "status": self.status_filter}
-        logger.debug(f"Fetching events from Kalshi with params: {params}")
+        logger.debug("Fetching events from Kalshi with params: %s", params)
 
         try:
             async with session.get(
@@ -93,22 +100,26 @@ class Kalshi:
                 elapsed_time = time.time() - start_time
                 events = data.get("events", [])
                 logger.debug(
-                    f"Fetched {len(events)} events in {elapsed_time:.2f} seconds"
+                    "Fetched %d events in %.2f seconds", len(events), elapsed_time
                 )
                 return events
         except Exception as e:
             elapsed_time = time.time() - start_time
             logger.error(
-                f"Failed to fetch events from Kalshi after {elapsed_time:.2f} seconds: {e}"
+                "Failed to fetch events from Kalshi after %.2f seconds: %s",
+                elapsed_time,
+                e,
             )
             raise
 
-    async def _fetch_markets_for_event(self, session, event_ticker):
+    async def _fetch_markets_for_event(
+        self, session: aiohttp.ClientSession, event_ticker: str
+    ) -> list[dict[str, Any]]:
         """Fetch markets for a specific event."""
 
         start_time = time.time()
         params = {"event_ticker": event_ticker}
-        logger.debug(f"Fetching markets for event: {event_ticker}")
+        logger.debug("Fetching markets for event: %s", event_ticker)
 
         try:
             async with session.get(
@@ -119,25 +130,18 @@ class Kalshi:
                 elapsed_time = time.time() - start_time
                 markets = data.get("markets", [])
                 logger.debug(
-                    f"Fetched {len(markets)} markets for event {event_ticker} in {elapsed_time:.2f} seconds"
+                    "Fetched %d markets for event %s in %.2f seconds",
+                    len(markets),
+                    event_ticker,
+                    elapsed_time,
                 )
                 return markets
         except Exception as e:
             elapsed_time = time.time() - start_time
             logger.error(
-                f"Failed to fetch markets for event {event_ticker} after {elapsed_time:.2f} seconds: {e}"
+                "Failed to fetch markets for event %s after %.2f seconds: %s",
+                event_ticker,
+                elapsed_time,
+                e,
             )
             raise
-
-    def _parse_date(self, segment):
-        """Parse date string from ticker segment."""
-        year = 2000 + int(segment[:2])
-        month_str = segment[2:5]
-        day = int(segment[5:7])
-        month = datetime.strptime(month_str, "%b").month
-        return f"{year:04d}-{month:02d}-{day:02d}"
-
-    def _save_to_json(self, path="data/nba_markets_kalshi.json"):
-        """Save market data to JSON file."""
-        with open(path, "w") as f:
-            json.dump(self.market_data, f, indent=2)

@@ -2,6 +2,7 @@ import hashlib
 import json
 import os
 from collections import defaultdict
+from typing import Any
 
 
 class NormalizeNBAMarkets:
@@ -100,12 +101,18 @@ class NormalizeNBAMarkets:
         "https://kalshi.com/markets/kxnbagame/professional-basketball-game/"
     )
 
-    def __init__(self, polymarket_markets, kalshi_markets):
+    def __init__(
+        self,
+        polymarket_markets: list[dict[str, Any]],
+        kalshi_markets: list[dict[str, Any]],
+    ) -> None:
         """Initialize normalizer with Polymarket and Kalshi market data."""
         self.polymarket_markets = polymarket_markets
         self.kalshi_markets = kalshi_markets
 
-    def normalize_markets(self, output_dir="data", save=True):
+    def normalize_markets(
+        self, output_dir: str = "data", save: bool = True
+    ) -> tuple[dict[str, dict[str, Any]], dict[str, dict[str, Any]]]:
         """Normalize and optionally save market data from both platforms."""
         os.makedirs(output_dir, exist_ok=True)
         normalized_kalshi = self._normalize_kalshi_markets()
@@ -123,7 +130,7 @@ class NormalizeNBAMarkets:
 
         return normalized_kalshi, normalized_polymarket
 
-    def _normalize_kalshi_markets(self):
+    def _normalize_kalshi_markets(self) -> dict[str, dict[str, Any]]:
         """Normalize Kalshi market data to standard format."""
         grouped_markets = defaultdict(list)
         for market in self.kalshi_markets:
@@ -186,7 +193,7 @@ class NormalizeNBAMarkets:
         normalized = self._create_hash_and_save_as_map(normalized)
         return normalized
 
-    def _normalize_polymarket_markets(self):
+    def _normalize_polymarket_markets(self) -> dict[str, dict[str, Any]]:
         """Normalize Polymarket market data to standard format."""
         for market in self.polymarket_markets:
             if "question" in market:

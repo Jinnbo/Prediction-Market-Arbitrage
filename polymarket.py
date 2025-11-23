@@ -3,9 +3,11 @@ import datetime
 import json
 import logging
 import time
+from typing import Any
 
 import aiohttp
-from dateutil import tz
+
+from utils import save_to_json, utc_to_est
 
 logger = logging.getLogger(__name__)
 
@@ -14,15 +16,15 @@ class Polymarket:
     GAMMA_MARKET_URL = "https://gamma-api.polymarket.com/markets"
     CLOB_PRICE_URL = "https://clob.polymarket.com/price"
 
-    def __init__(self, tag_id):
+    def __init__(self, tag_id: str) -> None:
         """Initialize Polymarket client with tag ID."""
         self.tag_id = tag_id
         self.market_data = []
 
-    async def get_market_data(self):
+    async def get_market_data(self) -> list[dict[str, Any]]:
         """Fetch and process market data from Polymarket."""
         start_time = time.time()
-        logger.info(f"Starting Polymarket market data fetch for tag_id: {self.tag_id}")
+        logger.info("Starting Polymarket market data fetch for tag_id: %s", self.tag_id)
 
         async with aiohttp.ClientSession() as session:
             markets = await self._fetch_games(session)
@@ -31,7 +33,7 @@ class Polymarket:
                 self.market_data = []
                 return []
 
-            logger.info(f"Fetched {len(markets)} markets from Polymarket")
+            logger.info("Fetched %d markets from Polymarket", len(markets))
 
             tasks = []
             questions = []
@@ -58,7 +60,7 @@ class Polymarket:
                     return await task
 
             logger.debug(
-                f"Fetching prices for {len(tasks)} tokens with concurrency limit of 8"
+                "Fetching prices for %d tokens with concurrency limit of 8", len(tasks)
             )
             results = await asyncio.gather(
                 *[sem_task(t) for t in tasks], return_exceptions=True
@@ -71,7 +73,7 @@ class Polymarket:
                     slug = market.get("slug", "")
                     market_entry = {
                         "question": question,
-                        "date": self._utc_to_est(market.get("endDate")),
+                        "date": utc_to_est(market.get("endDate")),
                     }
                     if slug:
                         market_entry["slug"] = slug
@@ -80,7 +82,7 @@ class Polymarket:
             failed_count = 0
             for r in results:
                 if isinstance(r, Exception):
-                    logger.error(f"Request failed: {r}")
+                    logger.error("Request failed: %s", r)
                     failed_count += 1
                     continue
                 question, team, buy_json, sell_json = r
@@ -94,31 +96,38 @@ class Polymarket:
 
             elapsed_time = time.time() - start_time
             logger.info(
-                f"Polymarket market data fetch completed in {elapsed_time:.2f} seconds. Loaded {len(question_to_market)} markets ({failed_count} requests failed)"
+                "Polymarket market data fetch completed in %.2f seconds. Loaded %d markets (%d requests failed)",
+                elapsed_time,
+                len(question_to_market),
+                failed_count,
             )
             self.market_data = list(question_to_market.values())
-            self._save_to_json()
+            save_to_json(self.market_data, "data/nba_markets_polymarket.json")
             return self.market_data
 
-    async def _fetch_json(self, session, url, params):
+    async def _fetch_json(
+        self, session: aiohttp.ClientSession, url: str, params: dict[str, Any]
+    ) -> dict[str, Any]:
         """Fetch JSON data from URL."""
         start_time = time.time()
-        logger.debug(f"Fetching from {url} with params: {params}")
+        logger.debug("Fetching from %s with params: %s", url, params)
         try:
             async with session.get(url, params=params, timeout=30) as resp:
                 resp.raise_for_status()
                 data = await resp.json()
                 elapsed_time = time.time() - start_time
-                logger.debug(f"Fetched from {url} in {elapsed_time:.2f} seconds")
+                logger.debug("Fetched from %s in %.2f seconds", url, elapsed_time)
                 return data
         except Exception as e:
             elapsed_time = time.time() - start_time
             logger.error(
-                f"Failed to fetch from {url} after {elapsed_time:.2f} seconds: {e}"
+                "Failed to fetch from %s after %.2f seconds: %s", url, elapsed_time, e
             )
             raise
 
-    async def _fetch_games(self, session):
+    async def _fetch_games(
+        self, session: aiohttp.ClientSession
+    ) -> list[dict[str, Any]]:
         """Fetch games from Polymarket API."""
         now = datetime.datetime.utcnow()
         one_week = now + datetime.timedelta(days=7)
@@ -133,10 +142,12 @@ class Polymarket:
         try:
             return await self._fetch_json(session, self.GAMMA_MARKET_URL, query_string)
         except Exception as e:
-            logger.error(f"Failed to fetch games: {e}")
+            logger.error("Failed to fetch games: %s", e)
             return []
 
-    async def _fetch_buy_sell_for_token(self, session, question, team, token):
+    async def _fetch_buy_sell_for_token(
+        self, session: aiohttp.ClientSession, question: str, team: str, token: str
+    ) -> tuple[str, str, dict[str, Any], dict[str, Any]]:
         """Fetch buy and sell prices for a token."""
         start_time = time.time()
         buy_task = self._fetch_json(
@@ -152,31 +163,17 @@ class Polymarket:
 
         # Handle exceptions from individual tasks
         if isinstance(buy_json, Exception):
-            logger.error(f"Failed to fetch buy price for token {token}: {buy_json}")
+            logger.error("Failed to fetch buy price for token %s: %s", token, buy_json)
             buy_json = {}
         if isinstance(sell_json, Exception):
-            logger.error(f"Failed to fetch sell price for token {token}: {sell_json}")
+            logger.error("Failed to fetch sell price for token %s: %s", token, sell_json)
             sell_json = {}
 
         elapsed_time = time.time() - start_time
         logger.debug(
-            f"Fetched prices for token {token} ({team}) in {elapsed_time:.2f} seconds"
+            "Fetched prices for token %s (%s) in %.2f seconds",
+            token,
+            team,
+            elapsed_time,
         )
         return question, team, buy_json, sell_json
-
-    def _save_to_json(self, path="data/nba_markets_polymarket.json"):
-        """Save market data to JSON file."""
-        with open(path, "w") as f:
-            json.dump(self.market_data, f, indent=2)
-
-    def _utc_to_est(self, utc_date_str):
-        """Convert UTC datetime string to EST."""
-        if not utc_date_str:
-            return None
-
-        utc_dt = datetime.datetime.fromisoformat(utc_date_str.replace("Z", "+00:00"))
-
-        eastern = tz.gettz("America/New_York")
-        est_dt = utc_dt.astimezone(eastern)
-
-        return est_dt.strftime("%Y-%m-%d")
