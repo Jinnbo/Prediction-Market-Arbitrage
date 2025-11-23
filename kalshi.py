@@ -75,6 +75,7 @@ class Kalshi:
             f"Kalshi market data fetch completed in {elapsed_time:.2f} seconds. Loaded {len(results)} markets"
         )
         self.market_data = results
+        self._save_to_json()
         return results
 
     async def _fetch_events(self, session):
@@ -136,8 +137,7 @@ class Kalshi:
         month = datetime.strptime(month_str, "%b").month
         return f"{year:04d}-{month:02d}-{day:02d}"
 
-    def _save_to_file(self, path="markets_kalshi.json"):
+    def _save_to_json(self, path="data/nba_markets_kalshi.json"):
         """Save market data to JSON file."""
         with open(path, "w") as f:
             json.dump(self.market_data, f, indent=2)
-        return path

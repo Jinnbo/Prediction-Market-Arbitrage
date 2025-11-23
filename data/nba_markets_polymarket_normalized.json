@@ -1,15 +1,8 @@
 {
-  "61e3b32a7417db96065fecb478693057dbd48a5cce054b709e07bbaebe275d57": {
-    "question": "Hawks vs Pelicans",
-    "date": "2025-11-22",
-    "Hawks BUY": 0.81,
-    "Pelicans BUY": 0.2,
-    "platform": "polymarket",
-    "hash": "61e3b32a7417db96065fecb478693057dbd48a5cce054b709e07bbaebe275d57"
-  },
   "3d986a1315add6ed2fbebed8988a9e0e445ad476f433f45e1e58738e23819826": {
     "question": "Wizards vs Bulls",
     "date": "2025-11-22",
+    "slug": "nba-was-chi-2025-11-22",
     "Wizards BUY": 0.16,
     "Bulls BUY": 0.85,
     "platform": "polymarket",
@@ -18,22 +11,25 @@
   "da0e203e67a0d1442fd5ba4cc27837cf3410a0178c1d394e767091f041f20200": {
     "question": "Pistons vs Bucks",
     "date": "2025-11-22",
-    "Pistons BUY": null,
-    "Bucks BUY": 0.25,
+    "slug": "nba-det-mil-2025-11-22",
+    "Pistons BUY": 0.77,
+    "Bucks BUY": 0.24,
     "platform": "polymarket",
     "hash": "da0e203e67a0d1442fd5ba4cc27837cf3410a0178c1d394e767091f041f20200"
   },
   "12236ec7c7c4f47ac62aa7bbb81aa816b7aea99645481a83e6f31be4a59349af": {
     "question": "Grizzlies vs Mavericks",
     "date": "2025-11-22",
-    "Grizzlies BUY": 0.5,
-    "Mavericks BUY": 0.51,
+    "slug": "nba-mem-dal-2025-11-22",
+    "Grizzlies BUY": 0.51,
+    "Mavericks BUY": 0.5,
     "platform": "polymarket",
     "hash": "12236ec7c7c4f47ac62aa7bbb81aa816b7aea99645481a83e6f31be4a59349af"
   },
   "e36fbe65c129edd4f7795c7d2f3156f3ac0e8b0b8e7288787851504eb4c77d38": {
     "question": "Kings vs Nuggets",
     "date": "2025-11-22",
+    "slug": "nba-sac-den-2025-11-22",
     "Kings BUY": 0.17,
     "Nuggets BUY": 0.84,
     "platform": "polymarket",
@@ -42,15 +38,17 @@
   "cdbb22629293b3b7796715df6c866bb406714fc542f3f83e9b34d9770780126e": {
     "question": "Heat vs 76ers",
     "date": "2025-11-23",
-    "Heat BUY": 0.51,
-    "76ers BUY": 0.5,
+    "slug": "nba-mia-phi-2025-11-23",
+    "Heat BUY": 0.49,
+    "76ers BUY": 0.52,
     "platform": "polymarket",
     "hash": "cdbb22629293b3b7796715df6c866bb406714fc542f3f83e9b34d9770780126e"
   },
   "fc8b5cc1630c8778068abe0fb7cea6fece198536b1f577cfb797ef7a60ef9662": {
     "question": "Hornets vs Hawks",
     "date": "2025-11-23",
-    "Hornets BUY": 0.26,
+    "slug": "nba-cha-atl-2025-11-23",
+    "Hornets BUY": 0.27,
     "Hawks BUY": 0.75,
     "platform": "polymarket",
     "hash": "fc8b5cc1630c8778068abe0fb7cea6fece198536b1f577cfb797ef7a60ef9662"
@@ -58,62 +56,70 @@
   "4dc4742426cd93e32e98252fe629ffdcd9d4ebab4bf2e75dbec50c5afc0e9534": {
     "question": "Magic vs Celtics",
     "date": "2025-11-23",
-    "Magic BUY": 0.36,
-    "Celtics BUY": 0.65,
+    "slug": "nba-orl-bos-2025-11-23",
+    "Magic BUY": 0.42,
+    "Celtics BUY": 0.63,
     "platform": "polymarket",
     "hash": "4dc4742426cd93e32e98252fe629ffdcd9d4ebab4bf2e75dbec50c5afc0e9534"
   },
   "45667b3093da3df4f441a9c1f6177847c4120d99657b10972ac8782564c0088c": {
     "question": "Clippers vs Cavaliers",
     "date": "2025-11-23",
-    "Clippers BUY": 0.21,
-    "Cavaliers BUY": 0.8,
+    "slug": "nba-lac-cle-2025-11-23",
+    "Clippers BUY": 0.24,
+    "Cavaliers BUY": 0.77,
     "platform": "polymarket",
     "hash": "45667b3093da3df4f441a9c1f6177847c4120d99657b10972ac8782564c0088c"
   },
   "9fb68278ce025dce734b596c1bfafa5412ddf1f6adfb09e3cf6746be8199cec3": {
     "question": "Nets vs Raptors",
     "date": "2025-11-23",
-    "Nets BUY": 0.15,
-    "Raptors BUY": 0.87,
+    "slug": "nba-bkn-tor-2025-11-23",
+    "Nets BUY": 0.16,
+    "Raptors BUY": 0.86,
     "platform": "polymarket",
     "hash": "9fb68278ce025dce734b596c1bfafa5412ddf1f6adfb09e3cf6746be8199cec3"
   },
   "e97f755e75508d96c11cf1884e869284cc73244d6e1b5c229df629dea41ad789": {
     "question": "Trail Blazers vs Thunder",
     "date": "2025-11-23",
-    "TrailBlazers BUY": 0.12,
-    "Thunder BUY": 0.89,
+    "slug": "nba-por-okc-2025-11-23",
+    "TrailBlazers BUY": 0.11,
+    "Thunder BUY": 0.9,
     "platform": "polymarket",
     "hash": "e97f755e75508d96c11cf1884e869284cc73244d6e1b5c229df629dea41ad789"
   },
   "d5f298dc2e3e198f1cf6abf62b5cd9dcfbd36de717841da2990533db4febcc4f": {
     "question": "Spurs vs Suns",
     "date": "2025-11-23",
-    "Spurs BUY": 0.45,
-    "Suns BUY": 0.56,
+    "slug": "nba-sas-phx-2025-11-23",
+    "Spurs BUY": 0.44,
+    "Suns BUY": 0.57,
     "platform": "polymarket",
     "hash": "d5f298dc2e3e198f1cf6abf62b5cd9dcfbd36de717841da2990533db4febcc4f"
   },
   "80e5e23d630f56451527c3e809878a0a4da798aafd1f1e26777eca3f07e6e09a": {
     "question": "Lakers vs Jazz",
     "date": "2025-11-23",
-    "Lakers BUY": 0.8,
-    "Jazz BUY": 0.22,
+    "slug": "nba-lal-uta-2025-11-23",
+    "Lakers BUY": 0.78,
+    "Jazz BUY": 0.24,
     "platform": "polymarket",
     "hash": "80e5e23d630f56451527c3e809878a0a4da798aafd1f1e26777eca3f07e6e09a"
   },
   "cad160ef9a80518eb4f525c74fc2bf43395916d5ef8bdd4eb7a943aeef25fa4c": {
     "question": "Pistons vs Pacers",
     "date": "2025-11-24",
-    "Pistons BUY": 0.77,
-    "Pacers BUY": 0.25,
+    "slug": "nba-det-ind-2025-11-24",
+    "Pistons BUY": 0.75,
+    "Pacers BUY": 0.29,
     "platform": "polymarket",
     "hash": "cad160ef9a80518eb4f525c74fc2bf43395916d5ef8bdd4eb7a943aeef25fa4c"
   },
   "0b7ef9ef20f9787e6de5e2f148861df4bb781ab33650ff4fa82c9054524ae123": {
     "question": "Cavaliers vs Raptors",
     "date": "2025-11-24",
+    "slug": "nba-cle-tor-2025-11-24",
     "Cavaliers BUY": 0.49,
     "Raptors BUY": 0.54,
     "platform": "polymarket",
@@ -122,6 +128,7 @@
   "bf8b969b43237aecde253acaaaedc04b75cf2d7599c5953bd1e4b840c050544b": {
     "question": "Knicks vs Nets",
     "date": "2025-11-24",
+    "slug": "nba-nyk-bkn-2025-11-24",
     "Knicks BUY": 0.87,
     "Nets BUY": 0.15,
     "platform": "polymarket",
@@ -130,6 +137,7 @@
   "cf0b13baa4221f62728cc419a75ebcfd49f30fd1b3cf7ed2309027208054234c": {
     "question": "Mavericks vs Heat",
     "date": "2025-11-24",
+    "slug": "nba-dal-mia-2025-11-24",
     "Mavericks BUY": 0.25,
     "Heat BUY": 0.77,
     "platform": "polymarket",
@@ -138,7 +146,8 @@
   "299e43a7a9927d11a42d6d2b310bda76fb7765d09ecb29782c3c677c386df062": {
     "question": "Nuggets vs Grizzlies",
     "date": "2025-11-24",
-    "Nuggets BUY": 0.79,
+    "slug": "nba-den-mem-2025-11-24",
+    "Nuggets BUY": 0.76,
     "Grizzlies BUY": 0.27,
     "platform": "polymarket",
     "hash": "299e43a7a9927d11a42d6d2b310bda76fb7765d09ecb29782c3c677c386df062"
@@ -146,17 +155,28 @@
   "3d753a1997bdd7d027ce7973a4dda21ca5af74efa55898961dc59b47c3fabb44": {
     "question": "Trail Blazers vs Bucks",
     "date": "2025-11-24",
-    "TrailBlazers BUY": 0.52,
-    "Bucks BUY": 0.57,
+    "slug": "nba-por-mil-2025-11-24",
+    "TrailBlazers BUY": 0.53,
+    "Bucks BUY": 0.5,
     "platform": "polymarket",
     "hash": "3d753a1997bdd7d027ce7973a4dda21ca5af74efa55898961dc59b47c3fabb44"
   },
   "ac6a3bac8fb6815a742bae64b72b3be29bf6d66e185096196479b946a0a66c86": {
     "question": "Bulls vs Pelicans",
     "date": "2025-11-24",
+    "slug": "nba-chi-nop-2025-11-24",
     "Bulls BUY": 0.71,
     "Pelicans BUY": 0.33,
     "platform": "polymarket",
     "hash": "ac6a3bac8fb6815a742bae64b72b3be29bf6d66e185096196479b946a0a66c86"
+  },
+  "97f6d7c3ad44fde3e406736f57fddf62120a5cf5fbe77435e05eac75293a36d3": {
+    "question": "Rockets vs Suns",
+    "date": "2025-11-24",
+    "slug": "nba-hou-phx-2025-11-24",
+    "Rockets BUY": 0.65,
+    "Suns BUY": 0.36,
+    "platform": "polymarket",
+    "hash": "97f6d7c3ad44fde3e406736f57fddf62120a5cf5fbe77435e05eac75293a36d3"
   }
 }

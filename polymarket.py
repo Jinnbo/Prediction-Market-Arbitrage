@@ -68,10 +68,14 @@ class Polymarket:
             for market in markets:
                 question = market.get("question", "")
                 if question:
-                    question_to_market[question] = {
+                    slug = market.get("slug", "")
+                    market_entry = {
                         "question": question,
                         "date": self._utc_to_est(market.get("endDate")),
                     }
+                    if slug:
+                        market_entry["slug"] = slug
+                    question_to_market[question] = market_entry
 
             failed_count = 0
             for r in results:
@@ -87,17 +91,13 @@ class Polymarket:
                         if buy_json.get("price")
                         else None
                     )
-                    # market_data[f"{team} SELL"] = (
-                    #     float(sell_json.get("price", 0))
-                    #     if sell_json.get("price")
-                    #     else None
-                    # )
 
             elapsed_time = time.time() - start_time
             logger.info(
                 f"Polymarket market data fetch completed in {elapsed_time:.2f} seconds. Loaded {len(question_to_market)} markets ({failed_count} requests failed)"
             )
             self.market_data = list(question_to_market.values())
+            self._save_to_json()
             return self.market_data
 
     async def _fetch_json(self, session, url, params):
@@ -164,11 +164,10 @@ class Polymarket:
         )
         return question, team, buy_json, sell_json
 
-    def _save_to_file(self, path="markets_polymarket.json"):
+    def _save_to_json(self, path="data/nba_markets_polymarket.json"):
         """Save market data to JSON file."""
         with open(path, "w") as f:
             json.dump(self.market_data, f, indent=2)
-        return path
 
     def _utc_to_est(self, utc_date_str):
         """Convert UTC datetime string to EST."""
