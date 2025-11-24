@@ -1,21 +1,219 @@
 [
   {
+    "event_title": "San Jose vs Colorado",
+    "market_ticker": "KXNHLGAME-25NOV26SJCOL-SJ",
+    "game_date": "2025-11-26",
+    "yes_bid": 10,
+    "yes_ask": 34,
+    "no_bid": 66,
+    "no_ask": 90
+  },
+  {
+    "event_title": "San Jose vs Colorado",
+    "market_ticker": "KXNHLGAME-25NOV26SJCOL-COL",
+    "game_date": "2025-11-26",
+    "yes_bid": 11,
+    "yes_ask": 78,
+    "no_bid": 22,
+    "no_ask": 89
+  },
+  {
+    "event_title": "Minnesota vs Chicago",
+    "market_ticker": "KXNHLGAME-25NOV26MINCHI-MIN",
+    "game_date": "2025-11-26",
+    "yes_bid": 10,
+    "yes_ask": 54,
+    "no_bid": 46,
+    "no_ask": 90
+  },
+  {
+    "event_title": "Minnesota vs Chicago",
+    "market_ticker": "KXNHLGAME-25NOV26MINCHI-CHI",
+    "game_date": "2025-11-26",
+    "yes_bid": 10,
+    "yes_ask": 55,
+    "no_bid": 45,
+    "no_ask": 90
+  },
+  {
+    "event_title": "Winnipeg vs Washington",
+    "market_ticker": "KXNHLGAME-25NOV26WPGWSH-WSH",
+    "game_date": "2025-11-26",
+    "yes_bid": 11,
+    "yes_ask": 57,
+    "no_bid": 43,
+    "no_ask": 89
+  },
+  {
+    "event_title": "Winnipeg vs Washington",
+    "market_ticker": "KXNHLGAME-25NOV26WPGWSH-WPG",
+    "game_date": "2025-11-26",
+    "yes_bid": 10,
+    "yes_ask": 52,
+    "no_bid": 48,
+    "no_ask": 90
+  },
+  {
+    "event_title": "Toronto vs Columbus",
+    "market_ticker": "KXNHLGAME-25NOV26TORCBJ-TOR",
+    "game_date": "2025-11-26",
+    "yes_bid": 11,
+    "yes_ask": 50,
+    "no_bid": 50,
+    "no_ask": 89
+  },
+  {
+    "event_title": "Toronto vs Columbus",
+    "market_ticker": "KXNHLGAME-25NOV26TORCBJ-CBJ",
+    "game_date": "2025-11-26",
+    "yes_bid": 11,
+    "yes_ask": 60,
+    "no_bid": 40,
+    "no_ask": 89
+  },
+  {
+    "event_title": "St. Louis vs New Jersey",
+    "market_ticker": "KXNHLGAME-25NOV26STLNJ-STL",
+    "game_date": "2025-11-26",
+    "yes_bid": 10,
+    "yes_ask": 39,
+    "no_bid": 61,
+    "no_ask": 90
+  },
+  {
+    "event_title": "St. Louis vs New Jersey",
+    "market_ticker": "KXNHLGAME-25NOV26STLNJ-NJ",
+    "game_date": "2025-11-26",
+    "yes_bid": 11,
+    "yes_ask": 73,
+    "no_bid": 27,
+    "no_ask": 89
+  },
+  {
+    "event_title": "Philadelphia vs Florida",
+    "market_ticker": "KXNHLGAME-25NOV26PHIFLA-PHI",
+    "game_date": "2025-11-26",
+    "yes_bid": 10,
+    "yes_ask": 40,
+    "no_bid": 60,
+    "no_ask": 90
+  },
+  {
+    "event_title": "Philadelphia vs Florida",
+    "market_ticker": "KXNHLGAME-25NOV26PHIFLA-FLA",
+    "game_date": "2025-11-26",
+    "yes_bid": 11,
+    "yes_ask": 68,
+    "no_bid": 32,
+    "no_ask": 89
+  },
+  {
+    "event_title": "New York R vs Carolina",
+    "market_ticker": "KXNHLGAME-25NOV26NYRCAR-NYR",
+    "game_date": "2025-11-26",
+    "yes_bid": 10,
+    "yes_ask": 42,
+    "no_bid": 58,
+    "no_ask": 90
+  },
+  {
+    "event_title": "New York R vs Carolina",
+    "market_ticker": "KXNHLGAME-25NOV26NYRCAR-CAR",
+    "game_date": "2025-11-26",
+    "yes_bid": 11,
+    "yes_ask": 68,
+    "no_bid": 32,
+    "no_ask": 89
+  },
+  {
+    "event_title": "Nashville vs Detroit",
+    "market_ticker": "KXNHLGAME-25NOV26NSHDET-NSH",
+    "game_date": "2025-11-26",
+    "yes_bid": 10,
+    "yes_ask": 42,
+    "no_bid": 58,
+    "no_ask": 90
+  },
+  {
+    "event_title": "Nashville vs Detroit",
+    "market_ticker": "KXNHLGAME-25NOV26NSHDET-DET",
+    "game_date": "2025-11-26",
+    "yes_bid": 11,
+    "yes_ask": 68,
+    "no_bid": 32,
+    "no_ask": 89
+  },
+  {
+    "event_title": "Calgary vs Tampa Bay",
+    "market_ticker": "KXNHLGAME-25NOV26CGYTB-TB",
+    "game_date": "2025-11-26",
+    "yes_bid": 11,
+    "yes_ask": 71,
+    "no_bid": 29,
+    "no_ask": 89
+  },
+  {
+    "event_title": "Calgary vs Tampa Bay",
+    "market_ticker": "KXNHLGAME-25NOV26CGYTB-CGY",
+    "game_date": "2025-11-26",
+    "yes_bid": 10,
+    "yes_ask": 34,
+    "no_bid": 66,
+    "no_ask": 90
+  },
+  {
+    "event_title": "Buffalo vs Pittsburgh",
+    "market_ticker": "KXNHLGAME-25NOV26BUFPIT-PIT",
+    "game_date": "2025-11-26",
+    "yes_bid": 57,
+    "yes_ask": 65,
+    "no_bid": 35,
+    "no_ask": 43
+  },
+  {
+    "event_title": "Buffalo vs Pittsburgh",
+    "market_ticker": "KXNHLGAME-25NOV26BUFPIT-BUF",
+    "game_date": "2025-11-26",
+    "yes_bid": 11,
+    "yes_ask": 46,
+    "no_bid": 54,
+    "no_ask": 89
+  },
+  {
+    "event_title": "Boston vs New York I",
+    "market_ticker": "KXNHLGAME-25NOV26BOSNYI-NYI",
+    "game_date": "2025-11-26",
+    "yes_bid": 11,
+    "yes_ask": 62,
+    "no_bid": 38,
+    "no_ask": 89
+  },
+  {
+    "event_title": "Boston vs New York I",
+    "market_ticker": "KXNHLGAME-25NOV26BOSNYI-BOS",
+    "game_date": "2025-11-26",
+    "yes_bid": 11,
+    "yes_ask": 48,
+    "no_bid": 52,
+    "no_ask": 89
+  },
+  {
     "event_title": "Dallas vs Edmonton",
     "market_ticker": "KXNHLGAME-25NOV25DALEDM-EDM",
     "game_date": "2025-11-25",
-    "yes_bid": 50,
+    "yes_bid": 51,
     "yes_ask": 52,
     "no_bid": 48,
-    "no_ask": 50
+    "no_ask": 49
   },
   {
     "event_title": "Dallas vs Edmonton",
     "market_ticker": "KXNHLGAME-25NOV25DALEDM-DAL",
     "game_date": "2025-11-25",
-    "yes_bid": 48,
+    "yes_bid": 49,
     "yes_ask": 51,
     "no_bid": 49,
-    "no_ask": 52
+    "no_ask": 51
   },
   {
     "event_title": "Vegas vs Utah",
@@ -58,8 +256,8 @@
     "market_ticker": "KXNHLGAME-25NOV24FLANSH-NSH",
     "game_date": "2025-11-24",
     "yes_bid": 41,
-    "yes_ask": 43,
-    "no_bid": 57,
+    "yes_ask": 42,
+    "no_bid": 58,
     "no_ask": 59
   },
   {
@@ -139,8 +337,8 @@
     "market_ticker": "KXNHLGAME-25NOV24CBJWSH-CBJ",
     "game_date": "2025-11-24",
     "yes_bid": 39,
-    "yes_ask": 40,
-    "no_bid": 60,
+    "yes_ask": 41,
+    "no_bid": 59,
     "no_ask": 61
   }
 ]

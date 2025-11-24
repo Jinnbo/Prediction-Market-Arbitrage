@@ -3,7 +3,7 @@
     "question": "Pistons vs. Pacers",
     "date": "2025-11-24",
     "slug": "nba-det-ind-2025-11-24",
-    "Pistons BUY": 0.8,
+    "Pistons BUY": null,
     "Pacers BUY": 0.21
   },
   {
@@ -17,8 +17,8 @@
     "question": "Knicks vs. Nets",
     "date": "2025-11-24",
     "slug": "nba-nyk-bkn-2025-11-24",
-    "Knicks BUY": 0.87,
-    "Nets BUY": 0.14
+    "Knicks BUY": null,
+    "Nets BUY": null
   },
   {
     "question": "Mavericks vs. Heat",
@@ -52,43 +52,43 @@
     "question": "Rockets vs. Suns",
     "date": "2025-11-24",
     "slug": "nba-hou-phx-2025-11-24",
-    "Rockets BUY": 0.68,
-    "Suns BUY": 0.33
+    "Rockets BUY": 0.67,
+    "Suns BUY": 0.34
   },
   {
     "question": "Jazz vs. Warriors",
     "date": "2025-11-24",
     "slug": "nba-uta-gsw-2025-11-24",
     "Jazz BUY": 0.14,
-    "Warriors BUY": 0.87
+    "Warriors BUY": 0.88
   },
   {
     "question": "Timberwolves vs. Kings",
     "date": "2025-11-24",
     "slug": "nba-min-sac-2025-11-24",
-    "Timberwolves BUY": 0.79,
+    "Timberwolves BUY": 0.8,
     "Kings BUY": 0.22
   },
   {
     "question": "Hawks vs. Wizards",
     "date": "2025-11-25",
     "slug": "nba-atl-was-2025-11-25",
-    "Hawks BUY": 0.85,
-    "Wizards BUY": 0.21
+    "Hawks BUY": 0.84,
+    "Wizards BUY": 0.23
   },
   {
     "question": "Magic vs. 76ers",
     "date": "2025-11-25",
     "slug": "nba-orl-phi-2025-11-25",
-    "Magic BUY": 0.51,
+    "Magic BUY": 0.49,
     "76ers BUY": 0.53
   },
   {
     "question": "Clippers vs. Lakers",
     "date": "2025-11-25",
     "slug": "nba-lac-lal-2025-11-25",
-    "Clippers BUY": 0.25,
-    "Lakers BUY": 0.77
+    "Clippers BUY": 0.27,
+    "Lakers BUY": 0.74
   },
   {
     "question": "Pistons vs. Celtics",
@@ -122,8 +122,8 @@
     "question": "Timberwolves vs. Thunder",
     "date": "2025-11-26",
     "slug": "nba-min-okc-2025-11-26",
-    "Timberwolves BUY": 0.25,
-    "Thunder BUY": 0.78
+    "Timberwolves BUY": 0.16,
+    "Thunder BUY": 0.89
   },
   {
     "question": "Grizzlies vs. Pelicans",
@@ -137,6 +137,6 @@
     "date": "2025-11-26",
     "slug": "nba-hou-gsw-2025-11-26",
     "Rockets BUY": 0.55,
-    "Warriors BUY": 0.46
+    "Warriors BUY": 0.48
   }
 ]

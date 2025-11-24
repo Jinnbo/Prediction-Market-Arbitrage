@@ -10,8 +10,8 @@
     "question": "Flyers vs. Lightning",
     "date": "2025-11-24",
     "slug": "nhl-phi-tb-2025-11-24",
-    "Flyers BUY": 0.38,
-    "Lightning BUY": 0.63
+    "Flyers BUY": 0.39,
+    "Lightning BUY": 0.62
   },
   {
     "question": "Blues vs. Rangers",
@@ -25,7 +25,7 @@
     "date": "2025-11-24",
     "slug": "nhl-det-nj-2025-11-24",
     "RedWings BUY": 0.45,
-    "Devils BUY": 0.56
+    "Devils BUY": null
   },
   {
     "question": "Panthers vs. Predators",
@@ -74,7 +74,7 @@
     "date": "2025-11-26",
     "slug": "nhl-cal-tb-2025-11-26",
     "Flames BUY": 0.33,
-    "Lightning BUY": 0.71
+    "Lightning BUY": 0.7
   },
   {
     "question": "Jets vs. Capitals",
@@ -88,7 +88,7 @@
     "date": "2025-11-26",
     "slug": "nhl-buf-pit-2025-11-26",
     "Sabres BUY": 0.44,
-    "Penguins BUY": 0.64
+    "Penguins BUY": 0.63
   },
   {
     "question": "Bruins vs. Islanders",
@@ -101,14 +101,14 @@
     "question": "Blues vs. Devils",
     "date": "2025-11-26",
     "slug": "nhl-stl-nj-2025-11-26",
-    "Blues BUY": 0.34,
-    "Devils BUY": 0.73
+    "Blues BUY": 0.37,
+    "Devils BUY": 0.72
   },
   {
     "question": "Rangers vs. Hurricanes",
     "date": "2025-11-26",
     "slug": "nhl-nyr-car-2025-11-26",
-    "Rangers BUY": 0.41,
+    "Rangers BUY": 0.4,
     "Hurricanes BUY": 0.66
   },
   {
@@ -116,7 +116,7 @@
     "date": "2025-11-26",
     "slug": "nhl-nsh-det-2025-11-26",
     "Predators BUY": 0.4,
-    "RedWings BUY": 0.67
+    "RedWings BUY": 0.66
   },
   {
     "question": "Wild vs. Blackhawks",
@@ -129,8 +129,8 @@
     "question": "Sharks vs. Avalanche",
     "date": "2025-11-26",
     "slug": "nhl-sj-col-2025-11-26",
-    "Sharks BUY": 0.25,
-    "Avalanche BUY": 0.79
+    "Sharks BUY": 0.32,
+    "Avalanche BUY": 0.76
   },
   {
     "question": "Canadiens vs. Utah",

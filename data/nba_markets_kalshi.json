@@ -4,35 +4,35 @@
     "market_ticker": "KXNBAGAME-25NOV25LACLAL-LAL",
     "game_date": "2025-11-25",
     "yes_bid": 74,
-    "yes_ask": 77,
-    "no_bid": 23,
+    "yes_ask": 75,
+    "no_bid": 25,
     "no_ask": 26
   },
   {
     "event_title": "Los Angeles C vs Los Angeles L",
     "market_ticker": "KXNBAGAME-25NOV25LACLAL-LAC",
     "game_date": "2025-11-25",
-    "yes_bid": 24,
-    "yes_ask": 26,
-    "no_bid": 74,
-    "no_ask": 76
+    "yes_bid": 25,
+    "yes_ask": 28,
+    "no_bid": 72,
+    "no_ask": 75
   },
   {
     "event_title": "Orlando vs Philadelphia",
     "market_ticker": "KXNBAGAME-25NOV25ORLPHI-PHI",
     "game_date": "2025-11-25",
-    "yes_bid": 49,
-    "yes_ask": 53,
-    "no_bid": 47,
-    "no_ask": 51
+    "yes_bid": 50,
+    "yes_ask": 51,
+    "no_bid": 49,
+    "no_ask": 50
   },
   {
     "event_title": "Orlando vs Philadelphia",
     "market_ticker": "KXNBAGAME-25NOV25ORLPHI-ORL",
     "game_date": "2025-11-25",
     "yes_bid": 50,
-    "yes_ask": 52,
-    "no_bid": 48,
+    "yes_ask": 51,
+    "no_bid": 49,
     "no_ask": 50
   },
   {
@@ -67,8 +67,8 @@
     "market_ticker": "KXNBAGAME-25NOV24UTAGSW-GSW",
     "game_date": "2025-11-24",
     "yes_bid": 86,
-    "yes_ask": 87,
-    "no_bid": 13,
+    "yes_ask": 88,
+    "no_bid": 12,
     "no_ask": 14
   },
   {
@@ -93,10 +93,10 @@
     "event_title": "Houston vs Phoenix",
     "market_ticker": "KXNBAGAME-25NOV24HOUPHX-PHX",
     "game_date": "2025-11-24",
-    "yes_bid": 32,
-    "yes_ask": 34,
-    "no_bid": 66,
-    "no_ask": 68
+    "yes_bid": 33,
+    "yes_ask": 35,
+    "no_bid": 65,
+    "no_ask": 67
   },
   {
     "event_title": "Houston vs Phoenix",
@@ -193,18 +193,18 @@
     "market_ticker": "KXNBAGAME-25NOV24DALMIA-DAL",
     "game_date": "2025-11-24",
     "yes_bid": 25,
-    "yes_ask": 26,
-    "no_bid": 74,
+    "yes_ask": 27,
+    "no_bid": 73,
     "no_ask": 75
   },
   {
     "event_title": "Detroit vs Indiana",
     "market_ticker": "KXNBAGAME-25NOV24DETIND-IND",
     "game_date": "2025-11-24",
-    "yes_bid": 19,
+    "yes_bid": 20,
     "yes_ask": 21,
     "no_bid": 79,
-    "no_ask": 81
+    "no_ask": 80
   },
   {
     "event_title": "Detroit vs Indiana",
@@ -219,10 +219,10 @@
     "event_title": "Cleveland vs Toronto",
     "market_ticker": "KXNBAGAME-25NOV24CLETOR-TOR",
     "game_date": "2025-11-24",
-    "yes_bid": 47,
+    "yes_bid": 46,
     "yes_ask": 48,
     "no_bid": 52,
-    "no_ask": 53
+    "no_ask": 54
   },
   {
     "event_title": "Cleveland vs Toronto",

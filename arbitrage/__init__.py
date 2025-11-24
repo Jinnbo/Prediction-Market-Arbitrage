@@ -1,5 +1,5 @@
 """Arbitrage calculation module."""
 
-from .arbitrage_nba import ArbitrageNBACalculator
+from .arbitrage_sports import ArbitrageSportsCalculator
 
-__all__ = ["ArbitrageNBACalculator"]
+__all__ = ["ArbitrageSportsCalculator"]

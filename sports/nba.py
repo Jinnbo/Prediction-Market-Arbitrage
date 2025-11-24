@@ -4,7 +4,7 @@ import asyncio
 import logging
 import time
 
-from arbitrage import ArbitrageNBACalculator
+from arbitrage import ArbitrageSportsCalculator
 from kalshi import Kalshi
 from normalize import NormalizeSportsMarket
 from polymarket import Polymarket
@@ -15,33 +15,42 @@ logger = logging.getLogger(__name__)
 
 async def nba():
     """NBA arbitrage calculator."""
-    script_start_time = time.time()
-
     # Initialize clients
     nba_kalshi = Kalshi(series_ticker="KXNBAGAME", market="nba")
     nba_polymarket = Polymarket(tag_id="745", market="nba")
 
-    # while True:
+    while True:
+        script_start_time = time.time()
 
-    # Fetch market data concurrently
-    logger.info("Fetching market data from Kalshi and Polymarket concurrently...")
-    markets_kalshi, markets_polymarket = await asyncio.gather(
-        nba_kalshi.get_market_data(), nba_polymarket.get_market_data()
-    )
+        # Fetch market data concurrently
+        logger.info("Fetching market data from Kalshi and Polymarket concurrently...")
+        markets_kalshi, markets_polymarket = await asyncio.gather(
+            nba_kalshi.get_market_data(), nba_polymarket.get_market_data()
+        )
 
-    logger.info("Loaded %d Kalshi markets", len(markets_kalshi))
-    logger.info("Loaded %d Polymarket markets", len(markets_polymarket))
+        logger.info("Loaded %d Kalshi markets", len(markets_kalshi))
+        logger.info("Loaded %d Polymarket markets", len(markets_polymarket))
 
-    # Normalize markets
-    logger.info("Normalizing markets...")
-    nba_normalizer = NormalizeSportsMarket(markets_polymarket, markets_kalshi)
-    kalshi, polymarket = nba_normalizer.normalize_markets()
+        # Normalize markets
+        logger.info("Normalizing markets...")
+        nba_normalizer = NormalizeSportsMarket(
+            polymarket_markets=markets_polymarket,
+            kalshi_markets=markets_kalshi,
+            sport="nba",
+        )
+        kalshi, polymarket = nba_normalizer.normalize_markets()
 
-    # Calculate Opportunity
-    logger.info("Calculating arbitrage opportunities...")
-    arbitrage_calculator = ArbitrageNBACalculator(market_1=polymarket, market_2=kalshi)
-    truncate_table("nba")
-    arbitrage_calculator.calculate()
+        # Calculate Arbitrage
+        logger.info("Calculating arbitrage opportunities...")
+        arbitrage_calculator = ArbitrageSportsCalculator(
+            kalshi_markets=kalshi,
+            polymarket_markets=polymarket,
+            sport="nba",
+        )
+        truncate_table("nba")
+        arbitrage_calculator.calculate()
 
-    script_elapsed_time = time.time() - script_start_time
-    logger.info("Script completed successfully in %.2f seconds", script_elapsed_time)
+        script_elapsed_time = time.time() - script_start_time
+        logger.info(
+            "Script completed successfully in %.2f seconds", script_elapsed_time
+        )

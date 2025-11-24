@@ -6,24 +6,48 @@ import os
 from collections import defaultdict
 from typing import Any
 
-from .constants import NBA_KALSHI_BASE_URL, NBA_TEAM_MAPPING, POLYMARKET_URL
+from .constants import (
+    NBA_KALSHI_BASE_URL,
+    NBA_TEAM_MAPPING,
+    NHL_KALSHI_BASE_URL,
+    NHL_TEAM_MAPPING,
+    POLYMARKET_URL,
+)
+
+SPORT_CONFIG: dict[str, dict[str, Any]] = {
+    "nba": {
+        "team_map": NBA_TEAM_MAPPING,
+        "kalshi_url": NBA_KALSHI_BASE_URL,
+        "polymarket_url": POLYMARKET_URL,
+        "output_prefix": "nba",
+    },
+    "nhl": {
+        "team_map": NHL_TEAM_MAPPING,
+        "kalshi_url": NHL_KALSHI_BASE_URL,
+        "polymarket_url": POLYMARKET_URL,
+        "output_prefix": "nhl",
+    },
+}
 
 
 class NormalizeSportsMarket:
     """Normalizes sports market data from different prediction market platforms."""
 
-    TEAM_NAME_MAP = NBA_TEAM_MAPPING
-    KALSHI_BASE_NBA_URL = NBA_KALSHI_BASE_URL
-    POLYMARKET_BASE_NBA_URL = POLYMARKET_URL
-
     def __init__(
         self,
         polymarket_markets: list[dict[str, Any]],
         kalshi_markets: list[dict[str, Any]],
+        sport: str,
     ) -> None:
         """Initialize normalizer with Polymarket and Kalshi market data."""
         self.polymarket_markets = polymarket_markets
         self.kalshi_markets = kalshi_markets
+        self.sport = sport
+        config = SPORT_CONFIG[sport]
+        self.team_name_map = config["team_map"]
+        self.kalshi_base_url = config["kalshi_url"]
+        self.polymarket_base_url = config["polymarket_url"]
+        self.output_prefix = config.get("output_prefix", sport)
 
     def normalize_markets(
         self, output_dir: str = "data", save: bool = True
@@ -36,11 +60,16 @@ class NormalizeSportsMarket:
         if save:
             self._save_to_json(
                 normalized_kalshi,
-                path=os.path.join(output_dir, "nba_markets_kalshi_normalized.json"),
+                path=os.path.join(
+                    output_dir, f"{self.output_prefix}_markets_kalshi_normalized.json"
+                ),
             )
             self._save_to_json(
                 normalized_polymarket,
-                path=os.path.join(output_dir, "nba_markets_polymarket_normalized.json"),
+                path=os.path.join(
+                    output_dir,
+                    f"{self.output_prefix}_markets_polymarket_normalized.json",
+                ),
             )
 
         return normalized_kalshi, normalized_polymarket
@@ -63,8 +92,8 @@ class NormalizeSportsMarket:
                 ticker = market["market_ticker"]
                 team_abbr = ticker.split("-")[-1] if "-" in ticker else None
 
-                if team_abbr and team_abbr in self.TEAM_NAME_MAP:
-                    team_name = self.TEAM_NAME_MAP[team_abbr]
+                if team_abbr and team_abbr in self.team_name_map:
+                    team_name = self.team_name_map[team_abbr]
                     teams[team_abbr] = {"name": team_name, "market": market}
 
             if len(teams) != 2:
@@ -101,7 +130,7 @@ class NormalizeSportsMarket:
                     round(team2_buy, 2) if team2_buy is not None else None
                 ),
                 "kalshi link": (
-                    f"{self.KALSHI_BASE_NBA_URL}"
+                    f"{self.kalshi_base_url}"
                     f"{'-'.join(market['market_ticker'].split('-')[:2])}"
                 ),
             }
@@ -118,9 +147,7 @@ class NormalizeSportsMarket:
                 market["question"] = market["question"].replace(" vs. ", " vs ")
 
             market["platform"] = "polymarket"
-            market["polymarket link"] = (
-                f"{self.POLYMARKET_BASE_NBA_URL}{market['slug']}"
-            )
+            market["polymarket link"] = f"{self.polymarket_base_url}{market['slug']}"
 
         self.polymarket_markets = self._create_hash_and_save_as_map(
             self.polymarket_markets

@@ -3,8 +3,8 @@
     "question": "Clippers vs Lakers",
     "date": "2025-11-25",
     "platform": "kalshi",
-    "Clippers BUY": 0.26,
-    "Lakers BUY": 0.77,
+    "Clippers BUY": 0.28,
+    "Lakers BUY": 0.75,
     "kalshi link": "https://kalshi.com/markets/kxnbagame/professional-basketball-game/KXNBAGAME-25NOV25LACLAL",
     "hash": "9911678452bd2a7c85d0b54b84b23691e0b2276de02d30156c6294aafb661fad"
   },
@@ -12,8 +12,8 @@
     "question": "76ers vs Magic",
     "date": "2025-11-25",
     "platform": "kalshi",
-    "76ers BUY": 0.53,
-    "Magic BUY": 0.52,
+    "76ers BUY": 0.51,
+    "Magic BUY": 0.51,
     "kalshi link": "https://kalshi.com/markets/kxnbagame/professional-basketball-game/KXNBAGAME-25NOV25ORLPHI",
     "hash": "a819d047150237510597b2eef14d3143fb04e72785f5dce10b6a29ff43bf376e"
   },
@@ -40,7 +40,7 @@
     "date": "2025-11-24",
     "platform": "kalshi",
     "Rockets BUY": 0.68,
-    "Suns BUY": 0.34,
+    "Suns BUY": 0.35,
     "kalshi link": "https://kalshi.com/markets/kxnbagame/professional-basketball-game/KXNBAGAME-25NOV24HOUPHX",
     "hash": "97f6d7c3ad44fde3e406736f57fddf62120a5cf5fbe77435e05eac75293a36d3"
   },
@@ -85,7 +85,7 @@
     "date": "2025-11-24",
     "platform": "kalshi",
     "Heat BUY": 0.75,
-    "Mavericks BUY": 0.26,
+    "Mavericks BUY": 0.27,
     "kalshi link": "https://kalshi.com/markets/kxnbagame/professional-basketball-game/KXNBAGAME-25NOV24DALMIA",
     "hash": "cf0b13baa4221f62728cc419a75ebcfd49f30fd1b3cf7ed2309027208054234c"
   },

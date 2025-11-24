@@ -1,3 +1,8 @@
+"""Constants"""
+
+POLYMARKET_URL = "https://polymarket.com/event/"
+
+
 NBA_TEAM_MAPPING = {
     # Atlanta
     "ATL": "Hawks",
@@ -88,8 +93,121 @@ NBA_TEAM_MAPPING = {
     "Washington": "Wizards",
 }
 
+
+NHL_TEAM_MAPPING = {
+    # Anaheim
+    "ANA": "Ducks",
+    "Anaheim": "Ducks",
+    # Arizona
+    "ARI": "Coyotes",
+    "Arizona": "Coyotes",
+    # Boston
+    "BOS": "Bruins",
+    "Boston": "Bruins",
+    # Buffalo
+    "BUF": "Sabres",
+    "Buffalo": "Sabres",
+    # Calgary
+    "CAL": "Flames",
+    "CGY": "Flames",
+    "Calgary": "Flames",
+    # Carolina
+    "CAR": "Hurricanes",
+    "Carolina": "Hurricanes",
+    # Chicago
+    "CHI": "Blackhawks",
+    "Chicago": "Blackhawks",
+    # Colorado
+    "COL": "Avalanche",
+    "Colorado": "Avalanche",
+    # Columbus
+    "CBJ": "Blue Jackets",
+    "Columbus": "Blue Jackets",
+    "BlueJackets": "Blue Jackets",
+    # Dallas
+    "DAL": "Stars",
+    "Dallas": "Stars",
+    # Detroit
+    "DET": "Red Wings",
+    "Detroit": "Red Wings",
+    "RedWings": "Red Wings",
+    # Edmonton
+    "EDM": "Oilers",
+    "Edmonton": "Oilers",
+    # Florida
+    "FLA": "Panthers",
+    "Florida": "Panthers",
+    # Los Angeles Kings
+    "LA": "Kings",
+    "LAK": "Kings",
+    "Los Angeles": "Kings",
+    # Minnesota
+    "MIN": "Wild",
+    "Minnesota": "Wild",
+    # Montreal
+    "MON": "Canadiens",
+    "MTL": "Canadiens",
+    "Montreal": "Canadiens",
+    # Nashville
+    "NSH": "Predators",
+    "Nashville": "Predators",
+    # New Jersey
+    "NJ": "Devils",
+    "NJD": "Devils",
+    "New Jersey": "Devils",
+    # New York Islanders
+    "NYI": "Islanders",
+    # New York Rangers
+    "NYR": "Rangers",
+    # Ottawa
+    "OTT": "Senators",
+    "Ottawa": "Senators",
+    # Philadelphia
+    "PHI": "Flyers",
+    "Philadelphia": "Flyers",
+    # Pittsburgh
+    "PIT": "Penguins",
+    "Pittsburgh": "Penguins",
+    # San Jose
+    "SJ": "Sharks",
+    "SJS": "Sharks",
+    "San Jose": "Sharks",
+    # Seattle
+    "SEA": "Kraken",
+    "Seattle": "Kraken",
+    # St. Louis
+    "STL": "Blues",
+    "St. Louis": "Blues",
+    # Tampa Bay
+    "TB": "Lightning",
+    "TBL": "Lightning",
+    "Tampa": "Lightning",
+    "Tampa Bay": "Lightning",
+    # Toronto
+    "TOR": "Maple Leafs",
+    "Toronto": "Maple Leafs",
+    "MapleLeafs": "Maple Leafs",
+    # Utah
+    "UTA": "Utah",
+    "Utah": "Utah",
+    # Vancouver
+    "VAN": "Canucks",
+    "Vancouver": "Canucks",
+    # Vegas
+    "VGK": "Golden Knights",
+    "Vegas": "Golden Knights",
+    "GoldenKnights": "Golden Knights",
+    # Washington
+    "WSH": "Capitals",
+    "Washington": "Capitals",
+    # Winnipeg
+    "WPG": "Jets",
+    "Winnipeg": "Jets",
+}
+
+
 NBA_KALSHI_BASE_URL = (
     "https://kalshi.com/markets/kxnbagame/professional-basketball-game/"
 )
 
-POLYMARKET_URL = "https://polymarket.com/event/"
+NHL_KALSHI_BASE_URL = "https://kalshi.com/markets/kxnhlgame/nhl-game/"
