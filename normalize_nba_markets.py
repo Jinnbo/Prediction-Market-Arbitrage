@@ -103,6 +103,7 @@ class NormalizeNBAMarkets:
     KALSHI_BASE_NBA_URL = (
         "https://kalshi.com/markets/kxnbagame/professional-basketball-game/"
     )
+    POLYMARKET_BASE_NBA_URL = "https://polymarket.com/event/"
 
     def __init__(
         self,
@@ -206,6 +207,9 @@ class NormalizeNBAMarkets:
                 market["question"] = market["question"].replace(" vs. ", " vs ")
 
             market["platform"] = "polymarket"
+            market["polymarket link"] = (
+                f"{self.POLYMARKET_BASE_NBA_URL}{market['slug']}"
+            )
 
         self.polymarket_markets = self._create_hash_and_save_as_map(
             self.polymarket_markets

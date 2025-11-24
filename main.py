@@ -8,8 +8,8 @@ from arbitrage import ArbitrageCalculator
 from kalshi import Kalshi
 from normalize_nba_markets import NormalizeNBAMarkets
 from polymarket import Polymarket
+from supabase import truncate_table
 
-# Configure logging
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
@@ -26,6 +26,9 @@ async def main():
     nba_kalshi = Kalshi(series_ticker="KXNBAGAME")
     nba_polymarket = Polymarket(tag_id="745")
 
+    # while True:
+
+    truncate_table("nba")
     # Fetch market data concurrently
     logger.info("Fetching market data from Kalshi and Polymarket concurrently...")
     markets_kalshi, markets_polymarket = await asyncio.gather(

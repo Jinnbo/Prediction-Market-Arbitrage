@@ -4,6 +4,7 @@ import logging
 import os
 from typing import Any
 
+from supabase import write_nba_to_supabase
 from utils import save_to_json
 
 logger = logging.getLogger(__name__)
@@ -206,18 +207,22 @@ class ArbitrageCalculator:
                 elif "kalshi link" in market_2_data:
                     kalshi_link = market_2_data["kalshi link"]
 
-                # Create keys with team names and platforms (uppercase)
-                team1_platform_upper = team1_platform.upper()
-                team2_platform_upper = team2_platform.upper()
+                polymarket_link = None
+                if "polymarket link" in market_1_data:
+                    polymarket_link = market_1_data["polymarket link"]
+                elif "polymarket link" in market_2_data:
+                    polymarket_link = market_2_data["polymarket link"]
 
                 opportunity = {
                     "question": question,
                     "date": market_1_data.get("date") or market_2_data.get("date"),
-                    f"{team1_name} BUY {team1_platform_upper}": round(team1_price, 2),
-                    f"{team2_name} BUY {team2_platform_upper}": round(team2_price, 2),
+                    "kalshi": f"{team1_name}|{team1_price}",
+                    "polymarket": f"{team2_name}|{team2_price}",
                     "profit": round(profit, 4),
                     "kalshi_link": kalshi_link,
+                    "polymarket_link": polymarket_link,
                 }
+                write_nba_to_supabase(opportunity)
                 opportunities.append(opportunity)
 
         # Sort by profit (descending) - most profitable first
