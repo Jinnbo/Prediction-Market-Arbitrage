@@ -17,6 +17,9 @@ async def nhl():
 
     # Initialize clients
     nhl_kalshi = Kalshi(series_ticker="KXNHLGAME", market="nhl")
+    nhl_polymarket = Polymarket(tag_id="899", market="nhl")
 
     # Fetch market data
-    nhl_markets = await nhl_kalshi.get_market_data()
+    markets_kalshi, markets_polymarket = await asyncio.gather(
+        nhl_kalshi.get_market_data(), nhl_polymarket.get_market_data()
+    )

@@ -18,7 +18,7 @@ class Kalshi:
     BASE_EVENTS_URL = "https://api.elections.kalshi.com/trade-api/v2/events"
     BASE_MARKETS_URL = "https://api.elections.kalshi.com/trade-api/v2/markets"
 
-    def __init__(self, series_ticker: str, market="nba") -> None:
+    def __init__(self, series_ticker: str, market: str) -> None:
         """Initialize Kalshi client with series ticker."""
         self.series_ticker = series_ticker
         self.status_filter = "open"

@@ -1,5 +1,5 @@
 """Market normalization module."""
 
-from .normalize_nba_markets import NormalizeNBAMarkets
+from .normalize_sports_market import NormalizeSportsMarket
 
-__all__ = ["NormalizeNBAMarkets"]
+__all__ = ["NormalizeSportsMarket"]

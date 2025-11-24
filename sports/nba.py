@@ -6,7 +6,7 @@ import time
 
 from arbitrage import ArbitrageNBACalculator
 from kalshi import Kalshi
-from normalize import NormalizeNBAMarkets
+from normalize import NormalizeSportsMarket
 from polymarket import Polymarket
 from supabase import truncate_table
 
@@ -19,7 +19,7 @@ async def nba():
 
     # Initialize clients
     nba_kalshi = Kalshi(series_ticker="KXNBAGAME", market="nba")
-    nba_polymarket = Polymarket(tag_id="745")
+    nba_polymarket = Polymarket(tag_id="745", market="nba")
 
     # while True:
 
@@ -34,7 +34,7 @@ async def nba():
 
     # Normalize markets
     logger.info("Normalizing markets...")
-    nba_normalizer = NormalizeNBAMarkets(markets_polymarket, markets_kalshi)
+    nba_normalizer = NormalizeSportsMarket(markets_polymarket, markets_kalshi)
     kalshi, polymarket = nba_normalizer.normalize_markets()
 
     # Calculate Opportunity

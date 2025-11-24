@@ -3,28 +3,28 @@
     "event_title": "Los Angeles C vs Los Angeles L",
     "market_ticker": "KXNBAGAME-25NOV25LACLAL-LAL",
     "game_date": "2025-11-25",
-    "yes_bid": 69,
-    "yes_ask": 74,
-    "no_bid": 26,
-    "no_ask": 31
+    "yes_bid": 74,
+    "yes_ask": 77,
+    "no_bid": 23,
+    "no_ask": 26
   },
   {
     "event_title": "Los Angeles C vs Los Angeles L",
     "market_ticker": "KXNBAGAME-25NOV25LACLAL-LAC",
     "game_date": "2025-11-25",
-    "yes_bid": 26,
-    "yes_ask": 31,
-    "no_bid": 69,
-    "no_ask": 74
+    "yes_bid": 24,
+    "yes_ask": 26,
+    "no_bid": 74,
+    "no_ask": 76
   },
   {
     "event_title": "Orlando vs Philadelphia",
     "market_ticker": "KXNBAGAME-25NOV25ORLPHI-PHI",
     "game_date": "2025-11-25",
-    "yes_bid": 48,
-    "yes_ask": 54,
-    "no_bid": 46,
-    "no_ask": 52
+    "yes_bid": 49,
+    "yes_ask": 53,
+    "no_bid": 47,
+    "no_ask": 51
   },
   {
     "event_title": "Orlando vs Philadelphia",
@@ -39,28 +39,28 @@
     "event_title": "Atlanta vs Washington",
     "market_ticker": "KXNBAGAME-25NOV25ATLWAS-WAS",
     "game_date": "2025-11-25",
-    "yes_bid": 24,
-    "yes_ask": 30,
-    "no_bid": 70,
-    "no_ask": 76
+    "yes_bid": 17,
+    "yes_ask": 19,
+    "no_bid": 81,
+    "no_ask": 83
   },
   {
     "event_title": "Atlanta vs Washington",
     "market_ticker": "KXNBAGAME-25NOV25ATLWAS-ATL",
     "game_date": "2025-11-25",
-    "yes_bid": 71,
-    "yes_ask": 75,
-    "no_bid": 25,
-    "no_ask": 29
+    "yes_bid": 83,
+    "yes_ask": 85,
+    "no_bid": 15,
+    "no_ask": 17
   },
   {
     "event_title": "Utah vs Golden State",
     "market_ticker": "KXNBAGAME-25NOV24UTAGSW-UTA",
     "game_date": "2025-11-24",
-    "yes_bid": 15,
-    "yes_ask": 17,
-    "no_bid": 83,
-    "no_ask": 85
+    "yes_bid": 14,
+    "yes_ask": 15,
+    "no_bid": 85,
+    "no_ask": 86
   },
   {
     "event_title": "Utah vs Golden State",
@@ -75,10 +75,10 @@
     "event_title": "Minnesota vs Sacramento",
     "market_ticker": "KXNBAGAME-25NOV24MINSAC-SAC",
     "game_date": "2025-11-24",
-    "yes_bid": 20,
-    "yes_ask": 21,
-    "no_bid": 79,
-    "no_ask": 80
+    "yes_bid": 21,
+    "yes_ask": 23,
+    "no_bid": 77,
+    "no_ask": 79
   },
   {
     "event_title": "Minnesota vs Sacramento",
@@ -93,50 +93,95 @@
     "event_title": "Houston vs Phoenix",
     "market_ticker": "KXNBAGAME-25NOV24HOUPHX-PHX",
     "game_date": "2025-11-24",
-    "yes_bid": 38,
-    "yes_ask": 39,
-    "no_bid": 61,
-    "no_ask": 62
+    "yes_bid": 32,
+    "yes_ask": 34,
+    "no_bid": 66,
+    "no_ask": 68
   },
   {
     "event_title": "Houston vs Phoenix",
     "market_ticker": "KXNBAGAME-25NOV24HOUPHX-HOU",
     "game_date": "2025-11-24",
-    "yes_bid": 62,
-    "yes_ask": 65,
-    "no_bid": 35,
-    "no_ask": 38
+    "yes_bid": 67,
+    "yes_ask": 68,
+    "no_bid": 32,
+    "no_ask": 33
   },
   {
     "event_title": "Portland vs Milwaukee",
     "market_ticker": "KXNBAGAME-25NOV24PORMIL-POR",
     "game_date": "2025-11-24",
-    "yes_bid": 47,
-    "yes_ask": 49,
-    "no_bid": 51,
-    "no_ask": 53
+    "yes_bid": 45,
+    "yes_ask": 47,
+    "no_bid": 53,
+    "no_ask": 55
   },
   {
     "event_title": "Portland vs Milwaukee",
     "market_ticker": "KXNBAGAME-25NOV24PORMIL-MIL",
     "game_date": "2025-11-24",
-    "yes_bid": 51,
-    "yes_ask": 54,
-    "no_bid": 46,
-    "no_ask": 49
+    "yes_bid": 53,
+    "yes_ask": 55,
+    "no_bid": 45,
+    "no_ask": 47
   },
   {
     "event_title": "Denver vs Memphis",
     "market_ticker": "KXNBAGAME-25NOV24DENMEM-MEM",
     "game_date": "2025-11-24",
-    "yes_bid": 27,
-    "yes_ask": 28,
-    "no_bid": 72,
-    "no_ask": 73
+    "yes_bid": 25,
+    "yes_ask": 26,
+    "no_bid": 74,
+    "no_ask": 75
   },
   {
     "event_title": "Denver vs Memphis",
     "market_ticker": "KXNBAGAME-25NOV24DENMEM-DEN",
+    "game_date": "2025-11-24",
+    "yes_bid": 74,
+    "yes_ask": 76,
+    "no_bid": 24,
+    "no_ask": 26
+  },
+  {
+    "event_title": "Chicago vs New Orleans",
+    "market_ticker": "KXNBAGAME-25NOV24CHINOP-NOP",
+    "game_date": "2025-11-24",
+    "yes_bid": 32,
+    "yes_ask": 34,
+    "no_bid": 66,
+    "no_ask": 68
+  },
+  {
+    "event_title": "Chicago vs New Orleans",
+    "market_ticker": "KXNBAGAME-25NOV24CHINOP-CHI",
+    "game_date": "2025-11-24",
+    "yes_bid": 67,
+    "yes_ask": 68,
+    "no_bid": 32,
+    "no_ask": 33
+  },
+  {
+    "event_title": "New York K vs Brooklyn",
+    "market_ticker": "KXNBAGAME-25NOV24NYKBKN-NYK",
+    "game_date": "2025-11-24",
+    "yes_bid": 86,
+    "yes_ask": 87,
+    "no_bid": 13,
+    "no_ask": 14
+  },
+  {
+    "event_title": "New York K vs Brooklyn",
+    "market_ticker": "KXNBAGAME-25NOV24NYKBKN-BKN",
+    "game_date": "2025-11-24",
+    "yes_bid": 13,
+    "yes_ask": 14,
+    "no_bid": 86,
+    "no_ask": 87
+  },
+  {
+    "event_title": "Dallas vs Miami",
+    "market_ticker": "KXNBAGAME-25NOV24DALMIA-MIA",
     "game_date": "2025-11-24",
     "yes_bid": 74,
     "yes_ask": 75,
@@ -144,58 +189,13 @@
     "no_ask": 26
   },
   {
-    "event_title": "Chicago vs New Orleans",
-    "market_ticker": "KXNBAGAME-25NOV24CHINOP-NOP",
-    "game_date": "2025-11-24",
-    "yes_bid": 33,
-    "yes_ask": 35,
-    "no_bid": 65,
-    "no_ask": 67
-  },
-  {
-    "event_title": "Chicago vs New Orleans",
-    "market_ticker": "KXNBAGAME-25NOV24CHINOP-CHI",
-    "game_date": "2025-11-24",
-    "yes_bid": 65,
-    "yes_ask": 68,
-    "no_bid": 32,
-    "no_ask": 35
-  },
-  {
-    "event_title": "New York K vs Brooklyn",
-    "market_ticker": "KXNBAGAME-25NOV24NYKBKN-NYK",
-    "game_date": "2025-11-24",
-    "yes_bid": 83,
-    "yes_ask": 85,
-    "no_bid": 15,
-    "no_ask": 17
-  },
-  {
-    "event_title": "New York K vs Brooklyn",
-    "market_ticker": "KXNBAGAME-25NOV24NYKBKN-BKN",
-    "game_date": "2025-11-24",
-    "yes_bid": 15,
-    "yes_ask": 17,
-    "no_bid": 83,
-    "no_ask": 85
-  },
-  {
-    "event_title": "Dallas vs Miami",
-    "market_ticker": "KXNBAGAME-25NOV24DALMIA-MIA",
-    "game_date": "2025-11-24",
-    "yes_bid": 73,
-    "yes_ask": 76,
-    "no_bid": 24,
-    "no_ask": 27
-  },
-  {
     "event_title": "Dallas vs Miami",
     "market_ticker": "KXNBAGAME-25NOV24DALMIA-DAL",
     "game_date": "2025-11-24",
-    "yes_bid": 27,
-    "yes_ask": 28,
-    "no_bid": 72,
-    "no_ask": 73
+    "yes_bid": 25,
+    "yes_ask": 26,
+    "no_bid": 74,
+    "no_ask": 75
   },
   {
     "event_title": "Detroit vs Indiana",
@@ -210,99 +210,27 @@
     "event_title": "Detroit vs Indiana",
     "market_ticker": "KXNBAGAME-25NOV24DETIND-DET",
     "game_date": "2025-11-24",
-    "yes_bid": 80,
-    "yes_ask": 82,
-    "no_bid": 18,
-    "no_ask": 20
+    "yes_bid": 79,
+    "yes_ask": 80,
+    "no_bid": 20,
+    "no_ask": 21
   },
   {
     "event_title": "Cleveland vs Toronto",
     "market_ticker": "KXNBAGAME-25NOV24CLETOR-TOR",
     "game_date": "2025-11-24",
-    "yes_bid": 49,
-    "yes_ask": 51,
-    "no_bid": 49,
-    "no_ask": 51
+    "yes_bid": 47,
+    "yes_ask": 48,
+    "no_bid": 52,
+    "no_ask": 53
   },
   {
     "event_title": "Cleveland vs Toronto",
     "market_ticker": "KXNBAGAME-25NOV24CLETOR-CLE",
     "game_date": "2025-11-24",
-    "yes_bid": 50,
-    "yes_ask": 53,
-    "no_bid": 47,
-    "no_ask": 50
-  },
-  {
-    "event_title": "San Antonio vs Phoenix",
-    "market_ticker": "KXNBAGAME-25NOV23SASPHX-SAS",
-    "game_date": "2025-11-23",
-    "yes_bid": 57,
-    "yes_ask": 58,
-    "no_bid": 42,
-    "no_ask": 43
-  },
-  {
-    "event_title": "San Antonio vs Phoenix",
-    "market_ticker": "KXNBAGAME-25NOV23SASPHX-PHX",
-    "game_date": "2025-11-23",
-    "yes_bid": 41,
-    "yes_ask": 43,
-    "no_bid": 57,
-    "no_ask": 59
-  },
-  {
-    "event_title": "Los Angeles L vs Utah",
-    "market_ticker": "KXNBAGAME-25NOV23LALUTA-UTA",
-    "game_date": "2025-11-23",
-    "yes_bid": 21,
-    "yes_ask": 22,
-    "no_bid": 78,
-    "no_ask": 79
-  },
-  {
-    "event_title": "Los Angeles L vs Utah",
-    "market_ticker": "KXNBAGAME-25NOV23LALUTA-LAL",
-    "game_date": "2025-11-23",
-    "yes_bid": 76,
-    "yes_ask": 77,
-    "no_bid": 23,
-    "no_ask": 24
-  },
-  {
-    "event_title": "Portland vs Oklahoma City",
-    "market_ticker": "KXNBAGAME-25NOV23POROKC-POR",
-    "game_date": "2025-11-23",
-    "yes_bid": 0,
-    "yes_ask": 1,
-    "no_bid": 99,
-    "no_ask": 100
-  },
-  {
-    "event_title": "Portland vs Oklahoma City",
-    "market_ticker": "KXNBAGAME-25NOV23POROKC-OKC",
-    "game_date": "2025-11-23",
-    "yes_bid": 99,
-    "yes_ask": 100,
-    "no_bid": 0,
-    "no_ask": 1
-  },
-  {
-    "event_title": "Brooklyn vs Toronto",
-    "market_ticker": "KXNBAGAME-25NOV23BKNTOR-TOR",
-    "game_date": "2025-11-23",
-    "yes_bid": 99,
-    "yes_ask": 100,
-    "no_bid": 0,
-    "no_ask": 1
-  },
-  {
-    "event_title": "Brooklyn vs Toronto",
-    "market_ticker": "KXNBAGAME-25NOV23BKNTOR-BKN",
-    "game_date": "2025-11-23",
-    "yes_bid": 0,
-    "yes_ask": 1,
-    "no_bid": 99,
-    "no_ask": 100
+    "yes_bid": 52,
+    "yes_ask": 54,
+    "no_bid": 46,
+    "no_ask": 48
   }
 ]

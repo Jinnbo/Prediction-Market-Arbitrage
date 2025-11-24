@@ -15,13 +15,16 @@ logger = logging.getLogger(__name__)
 
 
 class Polymarket:
+    """Polymarket Client"""
+
     GAMMA_MARKET_URL = "https://gamma-api.polymarket.com/markets"
     CLOB_PRICE_URL = "https://clob.polymarket.com/price"
 
-    def __init__(self, tag_id: str) -> None:
+    def __init__(self, tag_id: str, market: str) -> None:
         """Initialize Polymarket client with tag ID."""
         self.tag_id = tag_id
         self.market_data = []
+        self.market = market
 
     async def get_market_data(self) -> list[dict[str, Any]]:
         """Fetch and process market data from Polymarket."""
@@ -104,7 +107,9 @@ class Polymarket:
                 failed_count,
             )
             self.market_data = list(question_to_market.values())
-            save_to_json(self.market_data, "data/nba_markets_polymarket.json")
+            save_to_json(
+                self.market_data, f"data/{self.market}_markets_polymarket.json"
+            )
             return self.market_data
 
     async def _fetch_json(
