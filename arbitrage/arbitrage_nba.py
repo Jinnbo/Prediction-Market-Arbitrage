@@ -10,7 +10,7 @@ from utils import save_to_json
 logger = logging.getLogger(__name__)
 
 
-class ArbitrageCalculator:
+class ArbitrageNBACalculator:
     def __init__(
         self, market_1: dict[str, dict[str, Any]], market_2: dict[str, dict[str, Any]]
     ) -> None:

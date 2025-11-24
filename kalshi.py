@@ -13,14 +13,17 @@ logger = logging.getLogger(__name__)
 
 
 class Kalshi:
+    """Kalshi Client"""
+
     BASE_EVENTS_URL = "https://api.elections.kalshi.com/trade-api/v2/events"
     BASE_MARKETS_URL = "https://api.elections.kalshi.com/trade-api/v2/markets"
 
-    def __init__(self, series_ticker: str) -> None:
+    def __init__(self, series_ticker: str, market="nba") -> None:
         """Initialize Kalshi client with series ticker."""
         self.series_ticker = series_ticker
         self.status_filter = "open"
         self.market_data = []
+        self.market = market
 
     async def get_market_data(self) -> list[dict[str, Any]]:
         """Fetch and process market data from events."""
@@ -82,7 +85,7 @@ class Kalshi:
             len(results),
         )
         self.market_data = results
-        save_to_json(self.market_data, "data/nba_markets_kalshi.json")
+        save_to_json(self.market_data, f"data/{self.market}_markets_kalshi.json")
         return results
 
     async def _fetch_events(
