@@ -13,8 +13,8 @@
     "question": "Flyers vs Lightning",
     "date": "2025-11-24",
     "slug": "nhl-phi-tb-2025-11-24",
-    "Flyers BUY": 0.39,
-    "Lightning BUY": 0.62,
+    "Flyers BUY": 0.4,
+    "Lightning BUY": 0.61,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/nhl-phi-tb-2025-11-24",
     "hash": "b5eb62a5193f7d514f1749439db9103efc33e83388aaca06038cf83181ec7ae1"
@@ -34,7 +34,7 @@
     "date": "2025-11-24",
     "slug": "nhl-det-nj-2025-11-24",
     "RedWings BUY": 0.45,
-    "Devils BUY": null,
+    "Devils BUY": 0.56,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/nhl-det-nj-2025-11-24",
     "hash": "1e9ea2b68d94bf325e48d07dca9958a84bdfa3b4895b8fef905d1b9dd32d3673"
@@ -183,7 +183,7 @@
     "question": "Sharks vs Avalanche",
     "date": "2025-11-26",
     "slug": "nhl-sj-col-2025-11-26",
-    "Sharks BUY": 0.32,
+    "Sharks BUY": 0.3,
     "Avalanche BUY": 0.76,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/nhl-sj-col-2025-11-26",

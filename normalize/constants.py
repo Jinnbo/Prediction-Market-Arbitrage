@@ -211,3 +211,120 @@ NBA_KALSHI_BASE_URL = (
 )
 
 NHL_KALSHI_BASE_URL = "https://kalshi.com/markets/kxnhlgame/nhl-game/"
+
+
+NFL_TEAM_MAPPING = {
+    # Arizona
+    "ARI": "Cardinals",
+    "Arizona": "Cardinals",
+    # Atlanta
+    "ATL": "Falcons",
+    "Atlanta": "Falcons",
+    # Baltimore
+    "BAL": "Ravens",
+    "Baltimore": "Ravens",
+    # Buffalo
+    "BUF": "Bills",
+    "Buffalo": "Bills",
+    # Carolina
+    "CAR": "Panthers",
+    "Carolina": "Panthers",
+    # Chicago
+    "CHI": "Bears",
+    "Chicago": "Bears",
+    # Cincinnati
+    "CIN": "Bengals",
+    "Cincinnati": "Bengals",
+    # Cleveland
+    "CLE": "Browns",
+    "Cleveland": "Browns",
+    # Dallas
+    "DAL": "Cowboys",
+    "Dallas": "Cowboys",
+    # Denver
+    "DEN": "Broncos",
+    "Denver": "Broncos",
+    # Detroit
+    "DET": "Lions",
+    "Detroit": "Lions",
+    # Green Bay
+    "GB": "Packers",
+    "Green Bay": "Packers",
+    "GreenBay": "Packers",
+    # Houston
+    "HOU": "Texans",
+    "Houston": "Texans",
+    # Indianapolis
+    "IND": "Colts",
+    "Indianapolis": "Colts",
+    # Jacksonville
+    "JAX": "Jaguars",
+    "Jacksonville": "Jaguars",
+    # Kansas City
+    "KC": "Chiefs",
+    "Kansas City": "Chiefs",
+    "KansasCity": "Chiefs",
+    # Las Vegas
+    "LV": "Raiders",
+    "Las Vegas": "Raiders",
+    "LasVegas": "Raiders",
+    "OAK": "Raiders",  # Legacy abbreviation
+    "Oakland": "Raiders",  # Legacy name
+    # Los Angeles Chargers
+    "LAC": "Chargers",
+    "Los Angeles C": "Chargers",
+    "Los Angeles Chargers": "Chargers",
+    # Los Angeles Rams
+    "LAR": "Rams",
+    "LA": "Rams",
+    "Los Angeles R": "Rams",
+    "Los Angeles Rams": "Rams",
+    # Miami
+    "MIA": "Dolphins",
+    "Miami": "Dolphins",
+    # Minnesota
+    "MIN": "Vikings",
+    "Minnesota": "Vikings",
+    # New England
+    "NE": "Patriots",
+    "New England": "Patriots",
+    "NewEngland": "Patriots",
+    # New Orleans
+    "NO": "Saints",
+    "New Orleans": "Saints",
+    "NewOrleans": "Saints",
+    # New York Giants
+    "NYG": "Giants",
+    "New York G": "Giants",
+    # New York Jets
+    "NYJ": "Jets",
+    "New York J": "Jets",
+    # Philadelphia
+    "PHI": "Eagles",
+    "Philadelphia": "Eagles",
+    # Pittsburgh
+    "PIT": "Steelers",
+    "Pittsburgh": "Steelers",
+    # San Francisco
+    "SF": "49ers",
+    "San Francisco": "49ers",
+    "SanFrancisco": "49ers",
+    # Seattle
+    "SEA": "Seahawks",
+    "Seattle": "Seahawks",
+    # Tampa Bay
+    "TB": "Buccaneers",
+    "Tampa Bay": "Buccaneers",
+    "TampaBay": "Buccaneers",
+    "Tampa": "Buccaneers",
+    # Tennessee
+    "TEN": "Titans",
+    "Tennessee": "Titans",
+    # Washington
+    "WAS": "Commanders",
+    "Washington": "Commanders",
+    "WSH": "Commanders",  # Alternative abbreviation
+}
+
+
+NFL_KALSHI_BASE_URL = "https://kalshi.com/markets/kxnflgame/professional-football-game/"

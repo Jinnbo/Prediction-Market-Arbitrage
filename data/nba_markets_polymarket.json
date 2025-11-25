@@ -1,100 +1,30 @@
 [
   {
-    "question": "Pistons vs. Pacers",
-    "date": "2025-11-24",
-    "slug": "nba-det-ind-2025-11-24",
-    "Pistons BUY": null,
-    "Pacers BUY": 0.21
-  },
-  {
-    "question": "Cavaliers vs. Raptors",
-    "date": "2025-11-24",
-    "slug": "nba-cle-tor-2025-11-24",
-    "Cavaliers BUY": 0.53,
-    "Raptors BUY": 0.48
-  },
-  {
-    "question": "Knicks vs. Nets",
-    "date": "2025-11-24",
-    "slug": "nba-nyk-bkn-2025-11-24",
-    "Knicks BUY": null,
-    "Nets BUY": null
-  },
-  {
-    "question": "Mavericks vs. Heat",
-    "date": "2025-11-24",
-    "slug": "nba-dal-mia-2025-11-24",
-    "Mavericks BUY": 0.26,
-    "Heat BUY": 0.75
-  },
-  {
-    "question": "Nuggets vs. Grizzlies",
-    "date": "2025-11-24",
-    "slug": "nba-den-mem-2025-11-24",
-    "Nuggets BUY": 0.75,
-    "Grizzlies BUY": 0.26
-  },
-  {
-    "question": "Trail Blazers vs. Bucks",
-    "date": "2025-11-24",
-    "slug": "nba-por-mil-2025-11-24",
-    "TrailBlazers BUY": 0.47,
-    "Bucks BUY": 0.54
-  },
-  {
-    "question": "Bulls vs. Pelicans",
-    "date": "2025-11-24",
-    "slug": "nba-chi-nop-2025-11-24",
-    "Bulls BUY": 0.67,
-    "Pelicans BUY": 0.34
-  },
-  {
-    "question": "Rockets vs. Suns",
-    "date": "2025-11-24",
-    "slug": "nba-hou-phx-2025-11-24",
-    "Rockets BUY": 0.67,
-    "Suns BUY": 0.34
-  },
-  {
-    "question": "Jazz vs. Warriors",
-    "date": "2025-11-24",
-    "slug": "nba-uta-gsw-2025-11-24",
-    "Jazz BUY": 0.14,
-    "Warriors BUY": 0.88
-  },
-  {
-    "question": "Timberwolves vs. Kings",
-    "date": "2025-11-24",
-    "slug": "nba-min-sac-2025-11-24",
-    "Timberwolves BUY": 0.8,
-    "Kings BUY": 0.22
-  },
-  {
     "question": "Hawks vs. Wizards",
     "date": "2025-11-25",
     "slug": "nba-atl-was-2025-11-25",
-    "Hawks BUY": 0.84,
-    "Wizards BUY": 0.23
+    "Hawks BUY": 0.82,
+    "Wizards BUY": 0.19
   },
   {
     "question": "Magic vs. 76ers",
     "date": "2025-11-25",
     "slug": "nba-orl-phi-2025-11-25",
-    "Magic BUY": 0.49,
-    "76ers BUY": 0.53
+    "Magic BUY": 0.54,
+    "76ers BUY": 0.47
   },
   {
     "question": "Clippers vs. Lakers",
     "date": "2025-11-25",
     "slug": "nba-lac-lal-2025-11-25",
-    "Clippers BUY": 0.27,
-    "Lakers BUY": 0.74
+    "Clippers BUY": 0.31,
+    "Lakers BUY": 0.7
   },
   {
     "question": "Pistons vs. Celtics",
     "date": "2025-11-26",
     "slug": "nba-det-bos-2025-11-26",
-    "Pistons BUY": 0.67,
+    "Pistons BUY": 0.68,
     "Celtics BUY": 0.34
   },
   {
@@ -102,41 +32,111 @@
     "date": "2025-11-26",
     "slug": "nba-nyk-cha-2025-11-26",
     "Knicks BUY": 0.75,
-    "Hornets BUY": 0.33
+    "Hornets BUY": 0.26
   },
   {
     "question": "Bucks vs. Heat",
     "date": "2025-11-26",
     "slug": "nba-mil-mia-2025-11-26",
-    "Bucks BUY": 0.36,
-    "Heat BUY": 0.69
+    "Bucks BUY": 0.28,
+    "Heat BUY": 0.75
   },
   {
     "question": "Pacers vs. Raptors",
     "date": "2025-11-26",
     "slug": "nba-ind-tor-2025-11-26",
-    "Pacers BUY": 0.17,
-    "Raptors BUY": 0.86
+    "Pacers BUY": 0.18,
+    "Raptors BUY": 0.84
   },
   {
     "question": "Timberwolves vs. Thunder",
     "date": "2025-11-26",
     "slug": "nba-min-okc-2025-11-26",
-    "Timberwolves BUY": 0.16,
-    "Thunder BUY": 0.89
+    "Timberwolves BUY": 0.2,
+    "Thunder BUY": 0.81
   },
   {
     "question": "Grizzlies vs. Pelicans",
     "date": "2025-11-26",
     "slug": "nba-mem-nop-2025-11-26",
-    "Grizzlies BUY": 0.56,
-    "Pelicans BUY": 0.51
+    "Grizzlies BUY": 0.6,
+    "Pelicans BUY": 0.42
   },
   {
     "question": "Rockets vs. Warriors",
     "date": "2025-11-26",
     "slug": "nba-hou-gsw-2025-11-26",
-    "Rockets BUY": 0.55,
+    "Rockets BUY": 0.54,
     "Warriors BUY": 0.48
+  },
+  {
+    "question": "Spurs vs. Trail Blazers",
+    "date": "2025-11-26",
+    "slug": "nba-sas-por-2025-11-26",
+    "Spurs BUY": 0.52,
+    "TrailBlazers BUY": 0.52
+  },
+  {
+    "question": "Suns vs. Kings",
+    "date": "2025-11-26",
+    "slug": "nba-phx-sac-2025-11-26",
+    "Suns BUY": 0.62,
+    "Kings BUY": 0.39
+  },
+  {
+    "question": "Cavaliers vs. Hawks",
+    "date": "2025-11-28",
+    "slug": "nba-cle-atl-2025-11-28",
+    "Cavaliers BUY": 0.57,
+    "Hawks BUY": 0.49
+  },
+  {
+    "question": "76ers vs. Nets",
+    "date": "2025-11-28",
+    "slug": "nba-phi-bkn-2025-11-28",
+    "76ers BUY": 0.86,
+    "Nets BUY": 0.33
+  },
+  {
+    "question": "Bulls vs. Hornets",
+    "date": "2025-11-28",
+    "slug": "nba-chi-cha-2025-11-28",
+    "Bulls BUY": 0.67,
+    "Hornets BUY": 0.39
+  },
+  {
+    "question": "Magic vs. Pistons",
+    "date": "2025-11-28",
+    "slug": "nba-orl-det-2025-11-28",
+    "Magic BUY": 0.35,
+    "Pistons BUY": 0.68
+  },
+  {
+    "question": "Wizards vs. Pacers",
+    "date": "2025-11-28",
+    "slug": "nba-was-ind-2025-11-28",
+    "Wizards BUY": 0.45,
+    "Pacers BUY": 0.6
+  },
+  {
+    "question": "Bucks vs. Knicks",
+    "date": "2025-11-28",
+    "slug": "nba-mil-nyk-2025-11-28",
+    "Bucks BUY": 0.45,
+    "Knicks BUY": 0.7
+  },
+  {
+    "question": "Suns vs. Thunder",
+    "date": "2025-11-28",
+    "slug": "nba-phx-okc-2025-11-28",
+    "Suns BUY": 0.16,
+    "Thunder BUY": 0.89
+  },
+  {
+    "question": "Spurs vs. Nuggets",
+    "date": "2025-11-28",
+    "slug": "nba-sas-den-2025-11-28",
+    "Spurs BUY": 0.25,
+    "Nuggets BUY": 0.83
   }
 ]

@@ -137,17 +137,27 @@ class Polymarket:
     ) -> list[dict[str, Any]]:
         """Fetch games from Polymarket API."""
         now = datetime.datetime.utcnow()
-        one_week = now + datetime.timedelta(days=7)
+        three_weeks = now + datetime.timedelta(days=21)
 
         query_string = {
             "end_date_min": now.isoformat() + "Z",
-            "end_date_max": one_week.isoformat() + "Z",
+            "end_date_max": three_weeks.isoformat() + "Z",
             "sports_market_types": "moneyline",
             "tag_id": self.tag_id,
+            "limit": 100,
         }
 
         try:
-            return await self._fetch_json(session, self.GAMMA_MARKET_URL, query_string)
+            markets = await self._fetch_json(
+                session, self.GAMMA_MARKET_URL, query_string
+            )
+            # Filter to only include open, tradeable markets
+            markets = [
+                m
+                for m in markets
+                if not m.get("closed", False) and m.get("acceptingOrders", True)
+            ]
+            return markets
         except Exception as e:
             logger.error("Failed to fetch games: %s", e)
             return []

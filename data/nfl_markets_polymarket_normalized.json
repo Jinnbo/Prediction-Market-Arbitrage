@@ -1,0 +1,292 @@
+{
+  "c97c3c965de448fc01d85734512b689baac795870ca26926093915d9383449d4": {
+    "question": "Bears vs Eagles",
+    "date": "2025-11-28",
+    "slug": "nfl-chi-phi-2025-11-28",
+    "Bears BUY": 0.27,
+    "Eagles BUY": 0.74,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-chi-phi-2025-11-28",
+    "hash": "c97c3c965de448fc01d85734512b689baac795870ca26926093915d9383449d4"
+  },
+  "a1f462e7d0756dc2d3c1ace46a92fd0e5356efca48477934466833efe2254b9d": {
+    "question": "Chiefs vs Cowboys",
+    "date": "2025-11-27",
+    "slug": "nfl-kc-dal-2025-11-27",
+    "Chiefs BUY": 0.62,
+    "Cowboys BUY": 0.39,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-kc-dal-2025-11-27",
+    "hash": "a1f462e7d0756dc2d3c1ace46a92fd0e5356efca48477934466833efe2254b9d"
+  },
+  "1cfe06bd22deb22f986822873b8cf477e1e84d9b4ccfb49a8dadfda53516f513": {
+    "question": "Packers vs Lions",
+    "date": "2025-11-27",
+    "slug": "nfl-gb-det-2025-11-27",
+    "Packers BUY": null,
+    "Lions BUY": 0.58,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-gb-det-2025-11-27",
+    "hash": "1cfe06bd22deb22f986822873b8cf477e1e84d9b4ccfb49a8dadfda53516f513"
+  },
+  "51d3ee1a677675359bb088786c416cd0e1f2dbc4e403dd6904f1c495c5370932": {
+    "question": "Bengals vs Ravens",
+    "date": "2025-11-27",
+    "slug": "nfl-cin-bal-2025-11-27",
+    "Bengals BUY": 0.28,
+    "Ravens BUY": 0.74,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-cin-bal-2025-11-27",
+    "hash": "51d3ee1a677675359bb088786c416cd0e1f2dbc4e403dd6904f1c495c5370932"
+  },
+  "8a180d6356ac6b4a68a4b720cfd970354f72f64b43ba1a17121a56cf2143f66c": {
+    "question": "LAR vs Panthers",
+    "date": "2025-11-30",
+    "slug": "nfl-lar-car-2025-11-30",
+    "LAR BUY": 0.94,
+    "Panthers BUY": 0.94,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-lar-car-2025-11-30",
+    "hash": "8a180d6356ac6b4a68a4b720cfd970354f72f64b43ba1a17121a56cf2143f66c"
+  },
+  "c700dc2e8dae1ee619011e774e0ba7730d015695badc72be01853ef7c0417a3a": {
+    "question": "49ers vs Browns",
+    "date": "2025-11-30",
+    "slug": "nfl-sf-cle-2025-11-30",
+    "49ers BUY": 0.75,
+    "Browns BUY": 0.45,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-sf-cle-2025-11-30",
+    "hash": "c700dc2e8dae1ee619011e774e0ba7730d015695badc72be01853ef7c0417a3a"
+  },
+  "96aa4d641e458fc32b685451d15efca74d71312d7caff7bfcf8bd83045de2524": {
+    "question": "Texans vs Colts",
+    "date": "2025-11-30",
+    "slug": "nfl-hou-ind-2025-11-30",
+    "Texans BUY": 0.33,
+    "Colts BUY": 0.68,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-hou-ind-2025-11-30",
+    "hash": "96aa4d641e458fc32b685451d15efca74d71312d7caff7bfcf8bd83045de2524"
+  },
+  "d35104a839ae21668e7898ca812c433ab9bd04f5387733ddc5b342b2a5700606": {
+    "question": "Saints vs Dolphins",
+    "date": "2025-11-30",
+    "slug": "nfl-no-mia-2025-11-30",
+    "Saints BUY": 0.29,
+    "Dolphins BUY": 0.72,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-no-mia-2025-11-30",
+    "hash": "d35104a839ae21668e7898ca812c433ab9bd04f5387733ddc5b342b2a5700606"
+  },
+  "8d7a4b6e111dbd471096e02c1689f66b9ea99b5dbb652e3b5b16f96a0097bdae": {
+    "question": "Falcons vs Jets",
+    "date": "2025-11-30",
+    "slug": "nfl-atl-nyj-2025-11-30",
+    "Falcons BUY": 0.57,
+    "Jets BUY": 0.45,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-atl-nyj-2025-11-30",
+    "hash": "8d7a4b6e111dbd471096e02c1689f66b9ea99b5dbb652e3b5b16f96a0097bdae"
+  },
+  "415f5c931a764c6a0d2d9640b6e83f8ca0d047a05e571a15431cbd19917c0db9": {
+    "question": "Cardinals vs Buccaneers",
+    "date": "2025-11-30",
+    "slug": "nfl-ari-tb-2025-11-30",
+    "Cardinals BUY": 0.4,
+    "Buccaneers BUY": 0.9,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-ari-tb-2025-11-30",
+    "hash": "415f5c931a764c6a0d2d9640b6e83f8ca0d047a05e571a15431cbd19917c0db9"
+  },
+  "6d8068ada24ca229cf58848b5b83bfdd5d06e7d5df84f554e91e0e7e436d4738": {
+    "question": "Jaguars vs Titans",
+    "date": "2025-11-30",
+    "slug": "nfl-jax-ten-2025-11-30",
+    "Jaguars BUY": 0.75,
+    "Titans BUY": 0.26,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-jax-ten-2025-11-30",
+    "hash": "6d8068ada24ca229cf58848b5b83bfdd5d06e7d5df84f554e91e0e7e436d4738"
+  },
+  "6d2819395d9810424d9c720e79ed672ce19bab3805f5fb573ece3c1234f9c7cd": {
+    "question": "Vikings vs Seahawks",
+    "date": "2025-11-30",
+    "slug": "nfl-min-sea-2025-11-30",
+    "Vikings BUY": 0.18,
+    "Seahawks BUY": 0.83,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-min-sea-2025-11-30",
+    "hash": "6d2819395d9810424d9c720e79ed672ce19bab3805f5fb573ece3c1234f9c7cd"
+  },
+  "7ceddf5075a30ef784abf8326ab5baa592f486e277068ccea362a80f42fef0e0": {
+    "question": "Raiders vs Chargers",
+    "date": "2025-11-30",
+    "slug": "nfl-lv-lac-2025-11-30",
+    "Raiders BUY": 0.2,
+    "Chargers BUY": 0.82,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-lv-lac-2025-11-30",
+    "hash": "7ceddf5075a30ef784abf8326ab5baa592f486e277068ccea362a80f42fef0e0"
+  },
+  "956fa7cf87f631c8d2d91440c6f2c0354e9a695f884e626d964c074b4506f610": {
+    "question": "Bills vs Steelers",
+    "date": "2025-11-30",
+    "slug": "nfl-buf-pit-2025-11-30",
+    "Bills BUY": 0.66,
+    "Steelers BUY": 0.36,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-buf-pit-2025-11-30",
+    "hash": "956fa7cf87f631c8d2d91440c6f2c0354e9a695f884e626d964c074b4506f610"
+  },
+  "bf221bf5c34b8cd930aa78b852f78f771f3b2642596f2f76bb505bdfa44d166b": {
+    "question": "Broncos vs Commanders",
+    "date": "2025-11-30",
+    "slug": "nfl-den-was-2025-11-30",
+    "Broncos BUY": 0.74,
+    "Commanders BUY": 0.27,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-den-was-2025-11-30",
+    "hash": "bf221bf5c34b8cd930aa78b852f78f771f3b2642596f2f76bb505bdfa44d166b"
+  },
+  "b1785fbf7c9b33f717075391c9c8c09e184dbdb834617d871f60a10b4618a043": {
+    "question": "Giants vs Patriots",
+    "date": "2025-12-01",
+    "slug": "nfl-nyg-ne-2025-12-01",
+    "Giants BUY": 0.24,
+    "Patriots BUY": 0.78,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-nyg-ne-2025-12-01",
+    "hash": "b1785fbf7c9b33f717075391c9c8c09e184dbdb834617d871f60a10b4618a043"
+  },
+  "27da9f72a67d604e4a56c10ee9e23092f62b293a8326de2598be8d094beb8779": {
+    "question": "Cowboys vs Lions",
+    "date": "2025-12-04",
+    "slug": "nfl-dal-det-2025-12-04",
+    "Cowboys BUY": 0.5,
+    "Lions BUY": 0.67,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-dal-det-2025-12-04",
+    "hash": "27da9f72a67d604e4a56c10ee9e23092f62b293a8326de2598be8d094beb8779"
+  },
+  "39670be6f9ed43f855bca9fa91558a7328eb1a84869645ce9b9382c2a72a3d39": {
+    "question": "Seahawks vs Falcons",
+    "date": "2025-12-07",
+    "slug": "nfl-sea-atl-2025-12-07",
+    "Seahawks BUY": 0.94,
+    "Falcons BUY": 0.5,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-sea-atl-2025-12-07",
+    "hash": "39670be6f9ed43f855bca9fa91558a7328eb1a84869645ce9b9382c2a72a3d39"
+  },
+  "3a41db6f7228b16c974e513602810dd96d51736bc7d71dcb357847a990089d07": {
+    "question": "Steelers vs Ravens",
+    "date": "2025-12-07",
+    "slug": "nfl-pit-bal-2025-12-07",
+    "Steelers BUY": 0.97,
+    "Ravens BUY": 0.87,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-pit-bal-2025-12-07",
+    "hash": "3a41db6f7228b16c974e513602810dd96d51736bc7d71dcb357847a990089d07"
+  },
+  "d9ff4da694a873eb6f737ae5bad4bf806509bc8d79110c505feb529a59412c44": {
+    "question": "Titans vs Browns",
+    "date": "2025-12-07",
+    "slug": "nfl-ten-cle-2025-12-07",
+    "Titans BUY": 0.58,
+    "Browns BUY": 0.73,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-ten-cle-2025-12-07",
+    "hash": "d9ff4da694a873eb6f737ae5bad4bf806509bc8d79110c505feb529a59412c44"
+  },
+  "1a395f7c8ccaf734cf3dc4bb582dacd2fa490eb387b5d7ca85af09e91d1e107d": {
+    "question": "Bears vs Packers",
+    "date": "2025-12-07",
+    "slug": "nfl-chi-gb-2025-12-07",
+    "Bears BUY": 0.6,
+    "Packers BUY": 0.73,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-chi-gb-2025-12-07",
+    "hash": "1a395f7c8ccaf734cf3dc4bb582dacd2fa490eb387b5d7ca85af09e91d1e107d"
+  },
+  "8af9af9e6341760aa03843d26ee909a2dffed5a464bf156751bc5351de762779": {
+    "question": "Colts vs Jaguars",
+    "date": "2025-12-07",
+    "slug": "nfl-ind-jax-2025-12-07",
+    "Colts BUY": 0.94,
+    "Jaguars BUY": 0.46,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-ind-jax-2025-12-07",
+    "hash": "8af9af9e6341760aa03843d26ee909a2dffed5a464bf156751bc5351de762779"
+  },
+  "02a1f224b77c5925eb32e04f16db66e09894947fad6777c256193c7abb9e9fe4": {
+    "question": "Commanders vs Vikings",
+    "date": "2025-12-07",
+    "slug": "nfl-was-min-2025-12-07",
+    "Commanders BUY": 0.88,
+    "Vikings BUY": 0.85,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-was-min-2025-12-07",
+    "hash": "02a1f224b77c5925eb32e04f16db66e09894947fad6777c256193c7abb9e9fe4"
+  },
+  "b37b1263b1f2a84f0f24feab238450f01f8289d99ecd766e08245221923d9393": {
+    "question": "Dolphins vs Jets",
+    "date": "2025-12-07",
+    "slug": "nfl-mia-nyj-2025-12-07",
+    "Dolphins BUY": 0.98,
+    "Jets BUY": 0.6,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-mia-nyj-2025-12-07",
+    "hash": "b37b1263b1f2a84f0f24feab238450f01f8289d99ecd766e08245221923d9393"
+  },
+  "3f5398dddb69e4e4a69d8bfaebb9560f66845f79f9d230f05dafa311e6ba743f": {
+    "question": "Saints vs Buccaneers",
+    "date": "2025-12-07",
+    "slug": "nfl-no-tb-2025-12-07",
+    "Saints BUY": 0.6,
+    "Buccaneers BUY": 0.63,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-no-tb-2025-12-07",
+    "hash": "3f5398dddb69e4e4a69d8bfaebb9560f66845f79f9d230f05dafa311e6ba743f"
+  },
+  "adcb9f9ed9eb163fa14844321d91d8c3b7e572ffb31fa1945a68b54d2500f5a3": {
+    "question": "Broncos vs Raiders",
+    "date": "2025-12-07",
+    "slug": "nfl-den-lv-2025-12-07",
+    "Broncos BUY": 0.98,
+    "Raiders BUY": 0.48,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-den-lv-2025-12-07",
+    "hash": "adcb9f9ed9eb163fa14844321d91d8c3b7e572ffb31fa1945a68b54d2500f5a3"
+  },
+  "2a56e8267b00e0bf0aa6caa5e4b65d1729d2ebde3416278866df13b3ad01582f": {
+    "question": "LAR vs Cardinals",
+    "date": "2025-12-07",
+    "slug": "nfl-lar-ari-2025-12-07",
+    "LAR BUY": 0.87,
+    "Cardinals BUY": 0.9,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-lar-ari-2025-12-07",
+    "hash": "2a56e8267b00e0bf0aa6caa5e4b65d1729d2ebde3416278866df13b3ad01582f"
+  },
+  "23d70de1d150d95fb3f6692d1c555673583a243b7b3e842b926f091aa9320dde": {
+    "question": "Bengals vs Bills",
+    "date": "2025-12-07",
+    "slug": "nfl-cin-buf-2025-12-07",
+    "Bengals BUY": 0.6,
+    "Bills BUY": 0.64,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-cin-buf-2025-12-07",
+    "hash": "23d70de1d150d95fb3f6692d1c555673583a243b7b3e842b926f091aa9320dde"
+  },
+  "93039a4be9ac2d15ce900ee21fc0fa27cb1d27e46baa05a304f3005d5cb9bc80": {
+    "question": "Texans vs Chiefs",
+    "date": "2025-12-07",
+    "slug": "nfl-hou-kc-2025-12-07",
+    "Texans BUY": 0.65,
+    "Chiefs BUY": 0.69,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nfl-hou-kc-2025-12-07",
+    "hash": "93039a4be9ac2d15ce900ee21fc0fa27cb1d27e46baa05a304f3005d5cb9bc80"
+  }
+}

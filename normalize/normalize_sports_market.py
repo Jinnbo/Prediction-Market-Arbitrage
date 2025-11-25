@@ -9,6 +9,8 @@ from typing import Any
 from .constants import (
     NBA_KALSHI_BASE_URL,
     NBA_TEAM_MAPPING,
+    NFL_KALSHI_BASE_URL,
+    NFL_TEAM_MAPPING,
     NHL_KALSHI_BASE_URL,
     NHL_TEAM_MAPPING,
     POLYMARKET_URL,
@@ -26,6 +28,12 @@ SPORT_CONFIG: dict[str, dict[str, Any]] = {
         "kalshi_url": NHL_KALSHI_BASE_URL,
         "polymarket_url": POLYMARKET_URL,
         "output_prefix": "nhl",
+    },
+    "nfl": {
+        "team_map": NFL_TEAM_MAPPING,
+        "kalshi_url": NFL_KALSHI_BASE_URL,
+        "polymarket_url": POLYMARKET_URL,
+        "output_prefix": "nfl",
     },
 }
 

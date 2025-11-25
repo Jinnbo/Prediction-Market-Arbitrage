@@ -27,6 +27,24 @@
     "polymarket_link": "https://polymarket.com/event/nhl-dal-edm-2025-11-25"
   },
   {
+    "question": "Flyers vs Lightning",
+    "date": "2025-11-24",
+    "kalshi": "Flyers|0.41",
+    "polymarket": "Lightning|0.61",
+    "profit": -0.02,
+    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV24PHITB",
+    "polymarket_link": "https://polymarket.com/event/nhl-phi-tb-2025-11-24"
+  },
+  {
+    "question": "Devils vs Red Wings",
+    "date": "2025-11-24",
+    "kalshi": "Devils|0.57",
+    "polymarket": "RedWings|0.45",
+    "profit": -0.02,
+    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV24DETNJ",
+    "polymarket_link": "https://polymarket.com/event/nhl-det-nj-2025-11-24"
+  },
+  {
     "question": "Kings vs Senators",
     "date": "2025-11-24",
     "kalshi": "Kings|0.59",
@@ -90,15 +108,6 @@
     "polymarket_link": "https://polymarket.com/event/nhl-bos-nyi-2025-11-26"
   },
   {
-    "question": "Blues vs Devils",
-    "date": "2025-11-26",
-    "kalshi": "Blues|0.36",
-    "polymarket": "Devils|0.72",
-    "profit": -0.08,
-    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26STLNJ",
-    "polymarket_link": "https://polymarket.com/event/nhl-stl-nj-2025-11-26"
-  },
-  {
     "question": "Blue Jackets vs Maple Leafs",
     "date": "2025-11-26",
     "kalshi": "BlueJackets|0.6",
@@ -106,6 +115,15 @@
     "profit": -0.08,
     "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26TORCBJ",
     "polymarket_link": "https://polymarket.com/event/nhl-tor-cbj-2025-11-26"
+  },
+  {
+    "question": "Avalanche vs Sharks",
+    "date": "2025-11-26",
+    "kalshi": "Avalanche|0.78",
+    "polymarket": "Sharks|0.3",
+    "profit": -0.08,
+    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26SJCOL",
+    "polymarket_link": "https://polymarket.com/event/nhl-sj-col-2025-11-26"
   },
   {
     "question": "Predators vs Red Wings",
@@ -126,12 +144,12 @@
     "polymarket_link": "https://polymarket.com/event/nhl-buf-pit-2025-11-26"
   },
   {
-    "question": "Avalanche vs Sharks",
+    "question": "Blues vs Devils",
     "date": "2025-11-26",
-    "kalshi": "Avalanche|0.78",
-    "polymarket": "Sharks|0.32",
-    "profit": -0.1,
-    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26SJCOL",
-    "polymarket_link": "https://polymarket.com/event/nhl-sj-col-2025-11-26"
+    "kalshi": "Blues|0.39",
+    "polymarket": "Devils|0.72",
+    "profit": -0.11,
+    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26STLNJ",
+    "polymarket_link": "https://polymarket.com/event/nhl-stl-nj-2025-11-26"
   }
 ]

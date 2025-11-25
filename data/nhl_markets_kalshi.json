@@ -4,8 +4,8 @@
     "market_ticker": "KXNHLGAME-25NOV26SJCOL-SJ",
     "game_date": "2025-11-26",
     "yes_bid": 10,
-    "yes_ask": 34,
-    "no_bid": 66,
+    "yes_ask": 32,
+    "no_bid": 68,
     "no_ask": 90
   },
   {
@@ -85,8 +85,8 @@
     "market_ticker": "KXNHLGAME-25NOV26STLNJ-NJ",
     "game_date": "2025-11-26",
     "yes_bid": 11,
-    "yes_ask": 73,
-    "no_bid": 27,
+    "yes_ask": 72,
+    "no_bid": 28,
     "no_ask": 89
   },
   {
@@ -291,10 +291,10 @@
     "event_title": "Philadelphia vs Tampa Bay",
     "market_ticker": "KXNHLGAME-25NOV24PHITB-TB",
     "game_date": "2025-11-24",
-    "yes_bid": 60,
+    "yes_bid": 59,
     "yes_ask": 61,
     "no_bid": 39,
-    "no_ask": 40
+    "no_ask": 41
   },
   {
     "event_title": "Philadelphia vs Tampa Bay",
