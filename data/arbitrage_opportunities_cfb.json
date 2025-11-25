@@ -1,0 +1,137 @@
+[
+  {
+    "question": "LSU vs Oklahoma",
+    "date": "2025-11-29",
+    "kalshi": "LSU|0.22",
+    "polymarket": "Oklahoma|0.77",
+    "profit": 0.01,
+    "kalshi_link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29LSUOKLA",
+    "polymarket_link": "https://polymarket.com/event/cfb-lsu-okl-2025-11-29"
+  },
+  {
+    "question": "Kansas vs Utah",
+    "date": "2025-11-28",
+    "kalshi": "Kansas|0.2",
+    "polymarket": "Utah|0.81",
+    "profit": -0.01,
+    "kalshi_link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV28UTAHKU",
+    "polymarket_link": "https://polymarket.com/event/cfb-utah-kan-2025-11-28"
+  },
+  {
+    "question": "Miami vs Pittsburgh",
+    "date": "2025-11-29",
+    "kalshi": "Miami|0.71",
+    "polymarket": "Pittsburgh|0.3",
+    "profit": -0.01,
+    "kalshi_link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29MIAPITT",
+    "polymarket_link": "https://polymarket.com/event/cfb-mia-pitt-2025-11-29"
+  },
+  {
+    "question": "Oregon vs Washington",
+    "date": "2025-11-29",
+    "kalshi": "Oregon|0.71",
+    "polymarket": "Washington|0.3",
+    "profit": -0.01,
+    "kalshi_link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29OREWASH",
+    "polymarket_link": "https://polymarket.com/event/cfb-ore-wash-2025-11-29"
+  },
+  {
+    "question": "Hawaii vs Wyoming",
+    "date": "2025-11-29",
+    "kalshi": "Hawaii|0.74",
+    "polymarket": "Wyoming|0.27",
+    "profit": -0.01,
+    "kalshi_link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29WYOHAW",
+    "polymarket_link": "https://polymarket.com/event/cfb-wyom-hawaii-2025-11-29"
+  },
+  {
+    "question": "Buffalo vs Ohio",
+    "date": "2025-11-28",
+    "kalshi": "Buffalo|0.3",
+    "polymarket": "Ohio|0.71",
+    "profit": -0.01,
+    "kalshi_link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV28OHIOBUFF",
+    "polymarket_link": "https://polymarket.com/event/cfb-ohio-buf-2025-11-28"
+  },
+  {
+    "question": "Kentucky vs Louisville",
+    "date": "2025-11-29",
+    "kalshi": "Kentucky|0.43",
+    "polymarket": "Louisville|0.59",
+    "profit": -0.02,
+    "kalshi_link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29UKLOU",
+    "polymarket_link": "https://polymarket.com/event/cfb-uk-lou-2025-11-29"
+  },
+  {
+    "question": "Illinois vs Northwestern",
+    "date": "2025-11-29",
+    "kalshi": "Illinois|0.7",
+    "polymarket": "Northwestern|0.32",
+    "profit": -0.02,
+    "kalshi_link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29NWILL",
+    "polymarket_link": "https://polymarket.com/event/cfb-nw-ill-2025-11-29"
+  },
+  {
+    "question": "Arkansas vs Missouri",
+    "date": "2025-11-29",
+    "kalshi": "Arkansas|0.44",
+    "polymarket": "Missouri|0.58",
+    "profit": -0.02,
+    "kalshi_link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29MIZZARK",
+    "polymarket_link": "https://polymarket.com/event/cfb-missr-ark-2025-11-29"
+  },
+  {
+    "question": "Memphis vs Navy",
+    "date": "2025-11-27",
+    "kalshi": "Memphis|0.65",
+    "polymarket": "Navy|0.37",
+    "profit": -0.02,
+    "kalshi_link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV27NAVYMEM",
+    "polymarket_link": "https://polymarket.com/event/cfb-navy-mphs-2025-11-27"
+  },
+  {
+    "question": "Alabama vs Auburn",
+    "date": "2025-11-29",
+    "kalshi": "Alabama|0.69",
+    "polymarket": "Auburn|0.33",
+    "profit": -0.02,
+    "kalshi_link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29ALAAUB",
+    "polymarket_link": "https://polymarket.com/event/cfb-ala-aubrn-2025-11-29"
+  },
+  {
+    "question": "Tennessee vs Vanderbilt",
+    "date": "2025-11-29",
+    "kalshi": "Tennessee|0.58",
+    "polymarket": "Vanderbilt|0.44",
+    "profit": -0.02,
+    "kalshi_link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29VANTENN",
+    "polymarket_link": "https://polymarket.com/event/cfb-vand-tenn-2025-11-29"
+  },
+  {
+    "question": "BYU vs UCF",
+    "date": "2025-11-29",
+    "kalshi": "BYU|0.92",
+    "polymarket": "UCF|0.1",
+    "profit": -0.02,
+    "kalshi_link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29UCFBYU",
+    "polymarket_link": "https://polymarket.com/event/cfb-ucf-byu-2025-11-29"
+  },
+  {
+    "question": "Baylor vs Houston",
+    "date": "2025-11-29",
+    "kalshi": "Baylor|0.57",
+    "polymarket": "Houston|0.46",
+    "profit": -0.03,
+    "kalshi_link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29HOUBAY",
+    "polymarket_link": "https://polymarket.com/event/cfb-hou-bayl-2025-11-29"
+  },
+  {
+    "question": "UCLA vs USC",
+    "date": "2025-11-29",
+    "kalshi": "UCLA|0.08",
+    "polymarket": "USC|0.95",
+    "profit": -0.03,
+    "kalshi_link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29UCLAUSC",
+    "polymarket_link": "https://polymarket.com/event/cfb-ucla-usc-2025-11-29"
+  }
+]

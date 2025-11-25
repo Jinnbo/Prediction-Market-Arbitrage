@@ -7,6 +7,8 @@ from collections import defaultdict
 from typing import Any
 
 from .constants import (
+    CFB_KALSHI_BASE_URL,
+    CFB_TEAM_MAPPING,
     NBA_KALSHI_BASE_URL,
     NBA_TEAM_MAPPING,
     NFL_KALSHI_BASE_URL,
@@ -34,6 +36,12 @@ SPORT_CONFIG: dict[str, dict[str, Any]] = {
         "kalshi_url": NFL_KALSHI_BASE_URL,
         "polymarket_url": POLYMARKET_URL,
         "output_prefix": "nfl",
+    },
+    "cfb": {
+        "team_map": CFB_TEAM_MAPPING,
+        "kalshi_url": CFB_KALSHI_BASE_URL,
+        "polymarket_url": POLYMARKET_URL,
+        "output_prefix": "cfb",
     },
 }
 

@@ -1,0 +1,471 @@
+[
+  {
+    "question": "Bowling vs. UMass",
+    "date": "2025-11-25",
+    "slug": "cfb-bowlgr-umass-2025-11-25",
+    "Bowling BUY": null,
+    "UMass BUY": 0.16
+  },
+  {
+    "question": "Western Michigan vs. Eastern Michigan",
+    "date": "2025-11-25",
+    "slug": "cfb-wmich-emich-2025-11-25",
+    "WesternMichigan BUY": 0.73,
+    "EasternMichigan BUY": 0.29
+  },
+  {
+    "question": "Navy vs. Memphis",
+    "date": "2025-11-27",
+    "slug": "cfb-navy-mphs-2025-11-27",
+    "Navy BUY": 0.37,
+    "Memphis BUY": 0.66
+  },
+  {
+    "question": "Iowa vs. Nebraska Cornhuskers",
+    "date": "2025-11-28",
+    "slug": "cfb-iowa-nebr-2025-11-28",
+    "Iowa BUY": 0.7,
+    "NebraskaCornhuskers BUY": 0.32
+  },
+  {
+    "question": "Indiana vs. Purdue Boilermakers",
+    "date": "2025-11-28",
+    "slug": "cfb-ind-pur-2025-11-28",
+    "Indiana BUY": 0.976,
+    "PurdueBoilermakers BUY": 0.039
+  },
+  {
+    "question": "Texas A&M vs. Texas",
+    "date": "2025-11-28",
+    "slug": "cfb-txam-tx-2025-11-28",
+    "TexasA&M BUY": 0.57,
+    "Texas BUY": 0.46
+  },
+  {
+    "question": "Ole Miss vs. Mississippi State",
+    "date": "2025-11-28",
+    "slug": "cfb-miss-mspst-2025-11-28",
+    "OleMiss BUY": 0.73,
+    "MississippiState BUY": 0.3
+  },
+  {
+    "question": "Georgia vs. Georgia Tech",
+    "date": "2025-11-28",
+    "slug": "cfb-ga-gtech-2025-11-28",
+    "Georgia BUY": 0.84,
+    "GeorgiaTech BUY": 0.17
+  },
+  {
+    "question": "Utah vs. Kansas",
+    "date": "2025-11-28",
+    "slug": "cfb-utah-kan-2025-11-28",
+    "Utah BUY": 0.82,
+    "Kansas BUY": 0.2
+  },
+  {
+    "question": "Arizona vs. Arizona State",
+    "date": "2025-11-28",
+    "slug": "cfb-arz-arzst-2025-11-28",
+    "Arizona BUY": 0.55,
+    "ArizonaState BUY": 0.48
+  },
+  {
+    "question": "San Diego State vs. New Mexico",
+    "date": "2025-11-28",
+    "slug": "cfb-sdst-nmx-2025-11-28",
+    "SanDiegoState BUY": 0.54,
+    "NewMexico BUY": 0.49
+  },
+  {
+    "question": "Boise State vs. Utah State",
+    "date": "2025-11-28",
+    "slug": "cfb-boise-utahst-2025-11-28",
+    "BoiseState BUY": 0.63,
+    "UtahState BUY": 0.4
+  },
+  {
+    "question": "Air Force vs. Colorado State",
+    "date": "2025-11-28",
+    "slug": "cfb-airf-colst-2025-11-28",
+    "AirForce BUY": 0.58,
+    "ColoradoState BUY": 0.49
+  },
+  {
+    "question": "Temple vs. North Texas",
+    "date": "2025-11-28",
+    "slug": "cfb-templ-ntx-2025-11-28",
+    "Temple BUY": 0.1,
+    "NorthTexas BUY": 0.91
+  },
+  {
+    "question": "Ohio vs. Buffalo",
+    "date": "2025-11-28",
+    "slug": "cfb-ohio-buf-2025-11-28",
+    "Ohio BUY": 0.71,
+    "Buffalo BUY": 0.31
+  },
+  {
+    "question": "Kent State Golden Flashes vs. Northern Illinois",
+    "date": "2025-11-28",
+    "slug": "cfb-kentst-nill-2025-11-28",
+    "KentStateGoldenFlashes BUY": 0.37,
+    "NorthernIllinois BUY": 0.67
+  },
+  {
+    "question": "Maryland Terrapins vs. Michigan State",
+    "date": "2025-11-29",
+    "slug": "cfb-mary-mst-2025-11-29",
+    "MarylandTerrapins BUY": 0.38,
+    "MichiganState BUY": 0.63
+  },
+  {
+    "question": "Ohio State vs. Michigan",
+    "date": "2025-11-29",
+    "slug": "cfb-ohiost-mich-2025-11-29",
+    "OhioState BUY": 0.79,
+    "Michigan BUY": 0.23
+  },
+  {
+    "question": "Wisconsin Badgers vs. Minnesota",
+    "date": "2025-11-29",
+    "slug": "cfb-wisc-minnst-2025-11-29",
+    "WisconsinBadgers BUY": 0.51,
+    "Minnesota BUY": 0.52
+  },
+  {
+    "question": "Wake Forest vs. Duke",
+    "date": "2025-11-29",
+    "slug": "cfb-wake-duke-2025-11-29",
+    "WakeForest BUY": 0.49,
+    "Duke BUY": 0.54
+  },
+  {
+    "question": "North Carolina vs. NC State",
+    "date": "2025-11-29",
+    "slug": "cfb-ncar-ncst-2025-11-29",
+    "NorthCarolina BUY": 0.3,
+    "NCState BUY": 0.72
+  },
+  {
+    "question": "Penn State vs. Rutgers",
+    "date": "2025-11-29",
+    "slug": "cfb-pennst-rutger-2025-11-29",
+    "PennState BUY": 0.83,
+    "Rutgers BUY": 0.2
+  },
+  {
+    "question": "Boston College vs. Syracuse",
+    "date": "2025-11-29",
+    "slug": "cfb-boscol-syra-2025-11-29",
+    "BostonCollege BUY": 0.61,
+    "Syracuse BUY": 0.43
+  },
+  {
+    "question": "Alabama vs. Auburn",
+    "date": "2025-11-29",
+    "slug": "cfb-ala-aubrn-2025-11-29",
+    "Alabama BUY": 0.69,
+    "Auburn BUY": 0.34
+  },
+  {
+    "question": "LSU vs. Oklahoma",
+    "date": "2025-11-29",
+    "slug": "cfb-lsu-okl-2025-11-29",
+    "LSU BUY": 0.24,
+    "Oklahoma BUY": 0.77
+  },
+  {
+    "question": "Miami vs. Pittsburgh",
+    "date": "2025-11-29",
+    "slug": "cfb-mia-pitt-2025-11-29",
+    "Miami BUY": 0.72,
+    "Pittsburgh BUY": 0.3
+  },
+  {
+    "question": "Notre Dame vs. Stanford",
+    "date": "2025-11-29",
+    "slug": "cfb-nd-stan-2025-11-29",
+    "NotreDame BUY": 0.99,
+    "Stanford BUY": 0.49
+  },
+  {
+    "question": "SMU Mustangs vs. California",
+    "date": "2025-11-29",
+    "slug": "cfb-smu-cah-2025-11-29",
+    "SMUMustangs BUY": 0.84,
+    "California BUY": 0.18
+  },
+  {
+    "question": "Clemson vs. South Carolina",
+    "date": "2025-11-29",
+    "slug": "cfb-clmsn-sc-2025-11-29",
+    "Clemson BUY": 0.45,
+    "SouthCarolina BUY": 0.57
+  },
+  {
+    "question": "Virginia Tech vs. Virginia",
+    "date": "2025-11-29",
+    "slug": "cfb-vtech-vir-2025-11-29",
+    "VirginiaTech BUY": 0.24,
+    "Virginia BUY": 0.78
+  },
+  {
+    "question": "Vanderbilt vs. Tennessee",
+    "date": "2025-11-29",
+    "slug": "cfb-vand-tenn-2025-11-29",
+    "Vanderbilt BUY": 0.44,
+    "Tennessee BUY": 0.57
+  },
+  {
+    "question": "Oregon vs. Washington",
+    "date": "2025-11-29",
+    "slug": "cfb-ore-wash-2025-11-29",
+    "Oregon BUY": 0.71,
+    "Washington BUY": 0.33
+  },
+  {
+    "question": "Oregon State vs. Washington State",
+    "date": "2025-11-29",
+    "slug": "cfb-oregst-washst-2025-11-29",
+    "OregonState BUY": 0.18,
+    "WashingtonState BUY": 0.86
+  },
+  {
+    "question": "UCLA vs. USC",
+    "date": "2025-11-29",
+    "slug": "cfb-ucla-usc-2025-11-29",
+    "UCLA BUY": 0.1,
+    "USC BUY": 0.95
+  },
+  {
+    "question": "Northwestern vs. Illinois",
+    "date": "2025-11-29",
+    "slug": "cfb-nw-ill-2025-11-29",
+    "Northwestern BUY": 0.32,
+    "Illinois BUY": 0.72
+  },
+  {
+    "question": "Florida State vs. Florida Gators",
+    "date": "2025-11-29",
+    "slug": "cfb-flst-fl-2025-11-29",
+    "FloridaState BUY": 0.51,
+    "FloridaGators BUY": 0.52
+  },
+  {
+    "question": "Missouri vs. Arkansas",
+    "date": "2025-11-29",
+    "slug": "cfb-missr-ark-2025-11-29",
+    "Missouri BUY": 0.59,
+    "Arkansas BUY": 0.44
+  },
+  {
+    "question": "Kentucky vs. Louisville",
+    "date": "2025-11-29",
+    "slug": "cfb-uk-lou-2025-11-29",
+    "Kentucky BUY": 0.43,
+    "Louisville BUY": 0.6
+  },
+  {
+    "question": "Iowa State vs. Oklahoma State",
+    "date": "2025-11-29",
+    "slug": "cfb-iowast-okst-2025-11-29",
+    "IowaState BUY": 0.86,
+    "OklahomaState BUY": 0.16
+  },
+  {
+    "question": "Colorado vs. Kansas State",
+    "date": "2025-11-29",
+    "slug": "cfb-col-kanst-2025-11-29",
+    "Colorado BUY": 0.13,
+    "KansasState BUY": 0.9
+  },
+  {
+    "question": "Houston vs. Baylor",
+    "date": "2025-11-29",
+    "slug": "cfb-hou-bayl-2025-11-29",
+    "Houston BUY": 0.47,
+    "Baylor BUY": 0.57
+  },
+  {
+    "question": "UCF vs. BYU",
+    "date": "2025-11-29",
+    "slug": "cfb-ucf-byu-2025-11-29",
+    "UCF BUY": 0.12,
+    "BYU BUY": 0.92
+  },
+  {
+    "question": "Cincinnati vs. TCU",
+    "date": "2025-11-29",
+    "slug": "cfb-cin-tcu-2025-11-29",
+    "Cincinnati BUY": 0.39,
+    "TCU BUY": 0.64
+  },
+  {
+    "question": "Texas Tech Red Raiders vs. West Virginia",
+    "date": "2025-11-29",
+    "slug": "cfb-txtech-wvir-2025-11-29",
+    "TexasTechRedRaiders BUY": 0.94,
+    "WestVirginia BUY": 0.07
+  },
+  {
+    "question": "Middle Tennessee vs. New Mexico State",
+    "date": "2025-11-29",
+    "slug": "cfb-mtnst-nmxst-2025-11-29",
+    "MiddleTennessee BUY": 0.39,
+    "NewMexicoState BUY": 0.64
+  },
+  {
+    "question": "Kennesaw State vs. Liberty",
+    "date": "2025-11-29",
+    "slug": "cfb-kenest-librty-2025-11-29",
+    "KennesawState BUY": 0.55,
+    "Liberty BUY": 0.47
+  },
+  {
+    "question": "Florida International vs. Sam Houston Bearkats",
+    "date": "2025-11-29",
+    "slug": "cfb-flint-smho-2025-11-29",
+    "FloridaInternational BUY": 0.8,
+    "SamHoustonBearkats BUY": 0.23
+  },
+  {
+    "question": "Louisiana Tech vs. Missouri State",
+    "date": "2025-11-29",
+    "slug": "cfb-loutch-msrst-2025-11-29",
+    "LouisianaTech BUY": 0.46,
+    "MissouriState BUY": 0.57
+  },
+  {
+    "question": "UTEP vs. Delaware Blue Hens",
+    "date": "2025-11-29",
+    "slug": "cfb-utep-del-2025-11-29",
+    "UTEP BUY": 0.37,
+    "DelawareBlueHens BUY": 0.65
+  },
+  {
+    "question": "Western Kentucky vs. Jacksonville State",
+    "date": "2025-11-29",
+    "slug": "cfb-wkent-jaxst-2025-11-29",
+    "WesternKentucky BUY": 0.59,
+    "JacksonvilleState BUY": 0.44
+  },
+  {
+    "question": "Fresno State vs. San Jose State",
+    "date": "2025-11-29",
+    "slug": "cfb-frest-sjst-2025-11-29",
+    "FresnoState BUY": 0.57,
+    "SanJoseState BUY": 0.45
+  },
+  {
+    "question": "UNLV vs. Nevada Wolf Pack",
+    "date": "2025-11-29",
+    "slug": "cfb-unlv-nevada-2025-11-29",
+    "UNLV BUY": 0.76,
+    "NevadaWolfPack BUY": 0.27
+  },
+  {
+    "question": "Wyoming vs. Hawaii",
+    "date": "2025-11-29",
+    "slug": "cfb-wyom-hawaii-2025-11-29",
+    "Wyoming BUY": 0.27,
+    "Hawaii BUY": 0.77
+  },
+  {
+    "question": "Arkansas State vs. Appalachian State",
+    "date": "2025-11-29",
+    "slug": "cfb-arkst-applst-2025-11-29",
+    "ArkansasState BUY": 0.45,
+    "AppalachianState BUY": 0.56
+  },
+  {
+    "question": "Troy vs. Southern Miss",
+    "date": "2025-11-29",
+    "slug": "cfb-troy-soumis-2025-11-29",
+    "Troy BUY": 0.33,
+    "SouthernMiss BUY": 0.69
+  },
+  {
+    "question": "Georgia Southern vs. Marshall",
+    "date": "2025-11-29",
+    "slug": "cfb-gas-marsh-2025-11-29",
+    "GeorgiaSouthern BUY": 0.26,
+    "Marshall BUY": 0.77
+  },
+  {
+    "question": "Georgia State vs. Old Dominion",
+    "date": "2025-11-29",
+    "slug": "cfb-gast-old-2025-11-29",
+    "GeorgiaState BUY": 0.06,
+    "OldDominion BUY": 0.976
+  },
+  {
+    "question": "UL Monroe vs. Louisiana",
+    "date": "2025-11-29",
+    "slug": "cfb-lamon-loulaf-2025-11-29",
+    "ULMonroe BUY": 0.26,
+    "Louisiana BUY": 0.81
+  },
+  {
+    "question": "James Madison vs. Coastal Carolina Chanticleers",
+    "date": "2025-11-29",
+    "slug": "cfb-jmad-coast-2025-11-29",
+    "JamesMadison BUY": 0.93,
+    "CoastalCarolinaChanticleers BUY": 0.08
+  },
+  {
+    "question": "South Alabama vs. Texas State",
+    "date": "2025-11-29",
+    "slug": "cfb-sala-txst-2025-11-29",
+    "SouthAlabama BUY": 0.26,
+    "TexasState BUY": 0.75
+  },
+  {
+    "question": "UAB Blazers vs. Tulsa",
+    "date": "2025-11-29",
+    "slug": "cfb-uab-tulsa-2025-11-29",
+    "UABBlazers BUY": 0.27,
+    "Tulsa BUY": 0.74
+  },
+  {
+    "question": "East Carolina vs. Florida Atlantic",
+    "date": "2025-11-29",
+    "slug": "cfb-ecar-flatl-2025-11-29",
+    "EastCarolina BUY": 0.71,
+    "FloridaAtlantic BUY": 0.32
+  },
+  {
+    "question": "Army vs. UTSA Roadrunners",
+    "date": "2025-11-29",
+    "slug": "cfb-army-utsa-2025-11-29",
+    "Army BUY": 0.3,
+    "UTSARoadrunners BUY": 0.74
+  },
+  {
+    "question": "Charlotte 49ers vs. Tulane",
+    "date": "2025-11-29",
+    "slug": "cfb-charlt-tulane-2025-11-29",
+    "Charlotte49ers BUY": 0.054,
+    "Tulane BUY": 0.989
+  },
+  {
+    "question": "Rice vs. South Florida",
+    "date": "2025-11-29",
+    "slug": "cfb-rice-sfl-2025-11-29",
+    "Rice BUY": 0.05,
+    "SouthFlorida BUY": 0.977
+  },
+  {
+    "question": "Ball State vs. Miami (OH)",
+    "date": "2025-11-29",
+    "slug": "cfb-ballst-miaoh-2025-11-29",
+    "BallState BUY": 0.12,
+    "Miami(OH) BUY": 0.91
+  },
+  {
+    "question": "Toledo vs. Central Michigan",
+    "date": "2025-11-29",
+    "slug": "cfb-toledo-cmich-2025-11-29",
+    "Toledo BUY": 0.8,
+    "CentralMichigan BUY": 0.23
+  }
+]
