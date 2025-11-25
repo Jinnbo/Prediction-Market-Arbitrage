@@ -10,6 +10,7 @@ logger = logging.getLogger(__name__)
 
 
 async def main(quiet: bool = False):
+    """Main entry point for the prediction market arbitrage script."""
     if not quiet:
         logging.basicConfig(
             level=logging.INFO,

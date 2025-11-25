@@ -23,7 +23,7 @@
     "question": "fnatic vs Imperial",
     "date": "2025-11-25",
     "slug": "cs2-fnc-imp11-2025-11-25",
-    "fnatic BUY": null,
+    "fnatic BUY": 0.56,
     "Imperial BUY": 0.45,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/cs2-fnc-imp11-2025-11-25",
@@ -34,7 +34,7 @@
     "date": "2025-11-25",
     "slug": "cs2-faze-nip-2025-11-25",
     "FaZe BUY": 0.63,
-    "NIP BUY": 0.38,
+    "NIP BUY": 0.39,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/cs2-faze-nip-2025-11-25",
     "hash": "25eed845bab16b64cfb6e42c1fb6c358955ee6e72676b06d8138c077f80ad51d"
@@ -53,8 +53,8 @@
     "question": "FlyQuest vs Fluxo",
     "date": "2025-11-25",
     "slug": "cs2-fly-fx-2025-11-25",
-    "FlyQuest BUY": 0.6,
-    "Fluxo BUY": 0.41,
+    "FlyQuest BUY": 0.59,
+    "Fluxo BUY": 0.42,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/cs2-fly-fx-2025-11-25",
     "hash": "0c0dc2cd6fb3123c5aeb2d25296e4bb06b769979b696debd3b2cd17f227792a4"

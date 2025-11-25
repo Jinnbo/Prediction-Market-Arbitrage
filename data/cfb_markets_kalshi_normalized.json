@@ -3,7 +3,7 @@
     "question": "Hawaii vs Wyoming",
     "date": "2025-11-29",
     "platform": "kalshi",
-    "Hawaii BUY": 0.74,
+    "Hawaii BUY": 0.75,
     "Wyoming BUY": 0.27,
     "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29WYOHAW",
     "hash": "4894d88fd8bbe4c05b3a103609b293994030453859eee86d4c6d3a650c78c244"
@@ -61,15 +61,6 @@
     "WesternKentucky BUY": 0.55,
     "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29WKUJVST",
     "hash": "b666c71fc89faf05e5655be2b1a6b1e89858040d55b59b6e02aece145c1e7542"
-  },
-  "5d8fd1a85e49b96fb7d7bdecfb88b9f034c9c7a02374d26ee9cd77effae7cc4e": {
-    "question": "LouisianaTech vs MissouriState",
-    "date": "2025-11-29",
-    "platform": "kalshi",
-    "LouisianaTech BUY": 0.44,
-    "MissouriState BUY": 0.58,
-    "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29LTMOSU",
-    "hash": "5d8fd1a85e49b96fb7d7bdecfb88b9f034c9c7a02374d26ee9cd77effae7cc4e"
   },
   "146dcfb535dbb7ca31bb10398eba047990eee8a3eba1fd5e63724e64dd1cee0a": {
     "question": "Minnesota vs WisconsinBadgers",
@@ -179,6 +170,15 @@
     "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29UABTLSA",
     "hash": "90cb3580627347ea0f2fc06b91cfe7f5b83cde447ac655679aa26c932822d52b"
   },
+  "2784585afc3b80d9940e6d07b8ccbc54a2bcb5e51d231386bc0051aa3c4db6af": {
+    "question": "TexasTechRedRaiders vs WestVirginia",
+    "date": "2025-11-29",
+    "platform": "kalshi",
+    "TexasTechRedRaiders BUY": 0.94,
+    "WestVirginia BUY": 0.08,
+    "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29TTUWVU",
+    "hash": "2784585afc3b80d9940e6d07b8ccbc54a2bcb5e51d231386bc0051aa3c4db6af"
+  },
   "d34c297cf0c317a726689677be8fae38f6c85c0882b3ef7508dd20c879b0a64d": {
     "question": "SouthernMiss vs Troy",
     "date": "2025-11-29",
@@ -259,6 +259,15 @@
     "Missouri BUY": 0.58,
     "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29MIZZARK",
     "hash": "23a4024777b2eef94eccf945f3d87d2c5092d216a4ef201eb89e11800e630fc6"
+  },
+  "39631aa02b727a5e85d095b31b55d8b4d858106424053902e086117351e74c5c": {
+    "question": "Miami vs Pittsburgh",
+    "date": "2025-11-29",
+    "platform": "kalshi",
+    "Miami BUY": 0.71,
+    "Pittsburgh BUY": 0.31,
+    "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29MIAPITT",
+    "hash": "39631aa02b727a5e85d095b31b55d8b4d858106424053902e086117351e74c5c"
   },
   "43e4dffd3eca68901068a60d4d3bc0726a02478d7639a11704157130d71d5f66": {
     "question": "MarylandTerrapins vs MichiganState",
@@ -367,6 +376,15 @@
     "KansasState BUY": 0.88,
     "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29COLOKSU",
     "hash": "aacd0ebbc4d71c251df6200ea6d61db7fc22d567a8cafab89bf69a9c0b3fd5d1"
+  },
+  "018add62fb68e3424d52bce2052e361e7e5e310ceba0330bf843bfbbee8bef7a": {
+    "question": "Cincinnati vs TCU",
+    "date": "2025-11-29",
+    "platform": "kalshi",
+    "Cincinnati BUY": 0.4,
+    "TCU BUY": 0.61,
+    "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV29CINTCU",
+    "hash": "018add62fb68e3424d52bce2052e361e7e5e310ceba0330bf843bfbbee8bef7a"
   },
   "10e056d08300aafe4178c8904ba915d6fd3f57eedf2563760b9f35c5da211265": {
     "question": "Charlotte49ers vs Tulane",
@@ -556,14 +574,5 @@
     "WesternMichigan BUY": 0.73,
     "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV25WMUEMU",
     "hash": "78261c06f1adda6a7bca0b660c4aaca4c974a624c349246d62c4b38d8a67844e"
-  },
-  "6e774d1c73aa4af0f7d6c70d1270e54ba37459980778f0ef5f13777ae1a88ef8": {
-    "question": "Bowling vs UMass",
-    "date": "2025-11-25",
-    "platform": "kalshi",
-    "Bowling BUY": 0.85,
-    "UMass BUY": 0.16,
-    "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25NOV25BGSUMASS",
-    "hash": "6e774d1c73aa4af0f7d6c70d1270e54ba37459980778f0ef5f13777ae1a88ef8"
   }
 }

@@ -93,18 +93,18 @@
     "event_title": "StarLadder Major Budapest 2025: FaZe vs. NIP",
     "market_ticker": "KXCSGOGAME-25NOV25FAZENIP-NIP",
     "game_date": "2025-11-25",
-    "yes_bid": 31,
-    "yes_ask": 39,
-    "no_bid": 61,
-    "no_ask": 69
+    "yes_bid": 25,
+    "yes_ask": 40,
+    "no_bid": 60,
+    "no_ask": 75
   },
   {
     "event_title": "StarLadder Major Budapest 2025: FaZe vs. NIP",
     "market_ticker": "KXCSGOGAME-25NOV25FAZENIP-FAZE",
     "game_date": "2025-11-25",
     "yes_bid": 26,
-    "yes_ask": 72,
-    "no_bid": 28,
+    "yes_ask": 75,
+    "no_bid": 25,
     "no_ask": 74
   },
   {
@@ -112,8 +112,8 @@
     "market_ticker": "KXCSGOGAME-25NOV25LGCRED-RED",
     "game_date": "2025-11-25",
     "yes_bid": 23,
-    "yes_ask": 25,
-    "no_bid": 75,
+    "yes_ask": 26,
+    "no_bid": 74,
     "no_ask": 77
   },
   {
@@ -121,8 +121,8 @@
     "market_ticker": "KXCSGOGAME-25NOV25LGCRED-LGC",
     "game_date": "2025-11-25",
     "yes_bid": 76,
-    "yes_ask": 78,
-    "no_bid": 22,
+    "yes_ask": 77,
+    "no_bid": 23,
     "no_ask": 24
   },
   {

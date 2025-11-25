@@ -1,19 +1,10 @@
 [
   {
-    "question": "Legacy vs RED Canids",
-    "date": "2025-11-25",
-    "kalshi": "Legacy|0.74",
-    "polymarket": "REDCanids|0.25",
-    "profit": 0.01,
-    "kalshi_link": "https://kalshi.com/markets/kxcsgogame/counterstrike-2-games/KXCSGOGAME-25NOV25LGCRED",
-    "polymarket_link": "https://polymarket.com/event/cs2-lgc-red9-2025-11-25"
-  },
-  {
     "question": "FaZe vs NIP",
     "date": "2025-11-25",
     "kalshi": "FaZe|0.63",
-    "polymarket": "NIP|0.39",
-    "profit": -0.02,
+    "polymarket": "NIP|0.4",
+    "profit": -0.03,
     "kalshi_link": "https://kalshi.com/markets/kxcsgogame/counterstrike-2-games/KXCSGOGAME-25NOV25FAZENIP",
     "polymarket_link": "https://polymarket.com/event/cs2-faze-nip-2025-11-25"
   },
@@ -36,6 +27,15 @@
     "polymarket_link": "https://polymarket.com/event/cs2-gl1-ra1-2025-11-25"
   },
   {
+    "question": "Imperial vs fnatic",
+    "date": "2025-11-25",
+    "kalshi": "Imperial|0.54",
+    "polymarket": "fnatic|0.56",
+    "profit": -0.1,
+    "kalshi_link": "https://kalshi.com/markets/kxcsgogame/counterstrike-2-games/KXCSGOGAME-25NOV25FNCIMP",
+    "polymarket_link": "https://polymarket.com/event/cs2-fnc-imp11-2025-11-25"
+  },
+  {
     "question": "M80 vs NRG",
     "date": "2025-11-25",
     "kalshi": "M80|0.79",
@@ -47,9 +47,9 @@
   {
     "question": "Fluxo vs FlyQuest",
     "date": "2025-11-25",
-    "kalshi": "Fluxo|0.41",
+    "kalshi": "Fluxo|0.42",
     "polymarket": "FlyQuest|0.72",
-    "profit": -0.13,
+    "profit": -0.14,
     "kalshi_link": "https://kalshi.com/markets/kxcsgogame/counterstrike-2-games/KXCSGOGAME-25NOV25FLYFX",
     "polymarket_link": "https://polymarket.com/event/cs2-fly-fx-2025-11-25"
   },
