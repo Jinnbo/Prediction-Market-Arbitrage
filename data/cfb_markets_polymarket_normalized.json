@@ -3,8 +3,8 @@
     "question": "Bowling vs UMass",
     "date": "2025-11-25",
     "slug": "cfb-bowlgr-umass-2025-11-25",
-    "Bowling BUY": null,
-    "UMass BUY": 0.16,
+    "Bowling BUY": 0.86,
+    "UMass BUY": 0.15,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/cfb-bowlgr-umass-2025-11-25",
     "hash": "6e774d1c73aa4af0f7d6c70d1270e54ba37459980778f0ef5f13777ae1a88ef8"
@@ -14,7 +14,7 @@
     "date": "2025-11-25",
     "slug": "cfb-wmich-emich-2025-11-25",
     "WesternMichigan BUY": 0.73,
-    "EasternMichigan BUY": 0.29,
+    "EasternMichigan BUY": null,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/cfb-wmich-emich-2025-11-25",
     "hash": "18c056864104cf37ce14b395ed7ca6a0aeb6cec4d2fea82e5c913a0f1eabf17f"
@@ -24,7 +24,7 @@
     "date": "2025-11-27",
     "slug": "cfb-navy-mphs-2025-11-27",
     "Navy BUY": 0.37,
-    "Memphis BUY": 0.66,
+    "Memphis BUY": null,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/cfb-navy-mphs-2025-11-27",
     "hash": "08b62b80e5c0fd5eb727f7de162ac2025f1040ae272983d5c33434e6291838b6"
@@ -223,7 +223,7 @@
     "question": "Boston College vs Syracuse",
     "date": "2025-11-29",
     "slug": "cfb-boscol-syra-2025-11-29",
-    "BostonCollege BUY": 0.61,
+    "BostonCollege BUY": 0.6,
     "Syracuse BUY": 0.43,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/cfb-boscol-syra-2025-11-29",
@@ -264,7 +264,7 @@
     "date": "2025-11-29",
     "slug": "cfb-nd-stan-2025-11-29",
     "NotreDame BUY": 0.99,
-    "Stanford BUY": 0.49,
+    "Stanford BUY": 0.48,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/cfb-nd-stan-2025-11-29",
     "hash": "ee984b1403589860e4c863e33816ec86acabc2691f04448fa5c7d7d8cff37106"
@@ -404,7 +404,7 @@
     "date": "2025-11-29",
     "slug": "cfb-hou-bayl-2025-11-29",
     "Houston BUY": 0.47,
-    "Baylor BUY": 0.57,
+    "Baylor BUY": 0.55,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/cfb-hou-bayl-2025-11-29",
     "hash": "e05134c355ada5120b17bdc5334f6621ea48494565eb4aa42ca8a633cc3475d2"
@@ -513,7 +513,7 @@
     "question": "UNLV vs Nevada Wolf Pack",
     "date": "2025-11-29",
     "slug": "cfb-unlv-nevada-2025-11-29",
-    "UNLV BUY": 0.76,
+    "UNLV BUY": 0.75,
     "NevadaWolfPack BUY": 0.27,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/cfb-unlv-nevada-2025-11-29",
@@ -554,7 +554,7 @@
     "date": "2025-11-29",
     "slug": "cfb-gas-marsh-2025-11-29",
     "GeorgiaSouthern BUY": 0.26,
-    "Marshall BUY": 0.77,
+    "Marshall BUY": 0.76,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/cfb-gas-marsh-2025-11-29",
     "hash": "7ae81377678994707fd913ac3b7eba14bb1b733937d3c65a034cadd912ebe55c"
@@ -564,7 +564,7 @@
     "date": "2025-11-29",
     "slug": "cfb-gast-old-2025-11-29",
     "GeorgiaState BUY": 0.06,
-    "OldDominion BUY": 0.976,
+    "OldDominion BUY": 0.977,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/cfb-gast-old-2025-11-29",
     "hash": "634ec2e8e539d00a1d0e22b4f2a60778833a18e97bec24e746b9c38c7d9581b8"
@@ -633,7 +633,7 @@
     "question": "Charlotte 49ers vs Tulane",
     "date": "2025-11-29",
     "slug": "cfb-charlt-tulane-2025-11-29",
-    "Charlotte49ers BUY": 0.054,
+    "Charlotte49ers BUY": 0.053,
     "Tulane BUY": 0.989,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/cfb-charlt-tulane-2025-11-29",
@@ -649,21 +649,21 @@
     "polymarket link": "https://polymarket.com/event/cfb-rice-sfl-2025-11-29",
     "hash": "c7fa0802e721a87cb854aaf47c43d0a13dc7e3f96c9f22d2ae210dbd84c3624b"
   },
-  "86079f89e8c2cc338852340cfe61d8e8e23191aa0e9fc41dab5bcf42512c64e7": {
-    "question": "Ball State vs Miami (OH)",
+  "c6819409f9cd865620d7378a57ed11a30e308e7a4f83e42ef99d8b7047cd48b7": {
+    "question": "Ball State vs Miami",
     "date": "2025-11-29",
     "slug": "cfb-ballst-miaoh-2025-11-29",
     "BallState BUY": 0.12,
     "Miami(OH) BUY": 0.91,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/cfb-ballst-miaoh-2025-11-29",
-    "hash": "86079f89e8c2cc338852340cfe61d8e8e23191aa0e9fc41dab5bcf42512c64e7"
+    "hash": "c6819409f9cd865620d7378a57ed11a30e308e7a4f83e42ef99d8b7047cd48b7"
   },
   "8d6af0ebe0cf705885f4bc031a89f0f13a52dbce6a3c08fee284052528909995": {
     "question": "Toledo vs Central Michigan",
     "date": "2025-11-29",
     "slug": "cfb-toledo-cmich-2025-11-29",
-    "Toledo BUY": 0.8,
+    "Toledo BUY": 0.79,
     "CentralMichigan BUY": 0.23,
     "platform": "polymarket",
     "polymarket link": "https://polymarket.com/event/cfb-toledo-cmich-2025-11-29",

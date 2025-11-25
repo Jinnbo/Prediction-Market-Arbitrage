@@ -3,22 +3,22 @@
     "question": "Bowling vs. UMass",
     "date": "2025-11-25",
     "slug": "cfb-bowlgr-umass-2025-11-25",
-    "Bowling BUY": null,
-    "UMass BUY": 0.16
+    "Bowling BUY": 0.86,
+    "UMass BUY": 0.15
   },
   {
     "question": "Western Michigan vs. Eastern Michigan",
     "date": "2025-11-25",
     "slug": "cfb-wmich-emich-2025-11-25",
     "WesternMichigan BUY": 0.73,
-    "EasternMichigan BUY": 0.29
+    "EasternMichigan BUY": null
   },
   {
     "question": "Navy vs. Memphis",
     "date": "2025-11-27",
     "slug": "cfb-navy-mphs-2025-11-27",
     "Navy BUY": 0.37,
-    "Memphis BUY": 0.66
+    "Memphis BUY": null
   },
   {
     "question": "Iowa vs. Nebraska Cornhuskers",
@@ -157,7 +157,7 @@
     "question": "Boston College vs. Syracuse",
     "date": "2025-11-29",
     "slug": "cfb-boscol-syra-2025-11-29",
-    "BostonCollege BUY": 0.61,
+    "BostonCollege BUY": 0.6,
     "Syracuse BUY": 0.43
   },
   {
@@ -186,7 +186,7 @@
     "date": "2025-11-29",
     "slug": "cfb-nd-stan-2025-11-29",
     "NotreDame BUY": 0.99,
-    "Stanford BUY": 0.49
+    "Stanford BUY": 0.48
   },
   {
     "question": "SMU Mustangs vs. California",
@@ -284,7 +284,7 @@
     "date": "2025-11-29",
     "slug": "cfb-hou-bayl-2025-11-29",
     "Houston BUY": 0.47,
-    "Baylor BUY": 0.57
+    "Baylor BUY": 0.55
   },
   {
     "question": "UCF vs. BYU",
@@ -360,7 +360,7 @@
     "question": "UNLV vs. Nevada Wolf Pack",
     "date": "2025-11-29",
     "slug": "cfb-unlv-nevada-2025-11-29",
-    "UNLV BUY": 0.76,
+    "UNLV BUY": 0.75,
     "NevadaWolfPack BUY": 0.27
   },
   {
@@ -389,14 +389,14 @@
     "date": "2025-11-29",
     "slug": "cfb-gas-marsh-2025-11-29",
     "GeorgiaSouthern BUY": 0.26,
-    "Marshall BUY": 0.77
+    "Marshall BUY": 0.76
   },
   {
     "question": "Georgia State vs. Old Dominion",
     "date": "2025-11-29",
     "slug": "cfb-gast-old-2025-11-29",
     "GeorgiaState BUY": 0.06,
-    "OldDominion BUY": 0.976
+    "OldDominion BUY": 0.977
   },
   {
     "question": "UL Monroe vs. Louisiana",
@@ -444,7 +444,7 @@
     "question": "Charlotte 49ers vs. Tulane",
     "date": "2025-11-29",
     "slug": "cfb-charlt-tulane-2025-11-29",
-    "Charlotte49ers BUY": 0.054,
+    "Charlotte49ers BUY": 0.053,
     "Tulane BUY": 0.989
   },
   {
@@ -465,7 +465,7 @@
     "question": "Toledo vs. Central Michigan",
     "date": "2025-11-29",
     "slug": "cfb-toledo-cmich-2025-11-29",
-    "Toledo BUY": 0.8,
+    "Toledo BUY": 0.79,
     "CentralMichigan BUY": 0.23
   }
 ]

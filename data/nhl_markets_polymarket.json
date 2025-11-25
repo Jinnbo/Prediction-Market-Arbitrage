@@ -1,142 +1,695 @@
 [
   {
-    "question": "Blue Jackets vs. Capitals",
-    "date": "2025-11-24",
-    "slug": "nhl-cbj-wsh-2025-11-24",
-    "BlueJackets BUY": 0.41,
-    "Capitals BUY": 0.6
-  },
-  {
-    "question": "Flyers vs. Lightning",
-    "date": "2025-11-24",
-    "slug": "nhl-phi-tb-2025-11-24",
-    "Flyers BUY": 0.4,
-    "Lightning BUY": 0.61
-  },
-  {
-    "question": "Blues vs. Rangers",
-    "date": "2025-11-24",
-    "slug": "nhl-stl-nyr-2025-11-24",
-    "Blues BUY": 0.44,
-    "Rangers BUY": 0.57
-  },
-  {
-    "question": "Red Wings vs. Devils",
-    "date": "2025-11-24",
-    "slug": "nhl-det-nj-2025-11-24",
-    "RedWings BUY": 0.45,
-    "Devils BUY": 0.56
-  },
-  {
-    "question": "Panthers vs. Predators",
-    "date": "2025-11-24",
-    "slug": "nhl-fla-nsh-2025-11-24",
-    "Panthers BUY": 0.58,
-    "Predators BUY": 0.43
-  },
-  {
-    "question": "Golden Knights vs. Utah",
-    "date": "2025-11-24",
-    "slug": "nhl-las-utah-2025-11-24",
-    "GoldenKnights BUY": 0.53,
-    "Utah BUY": 0.48
-  },
-  {
-    "question": "Senators vs. Kings",
-    "date": "2025-11-24",
-    "slug": "nhl-ott-lak-2025-11-24",
-    "Senators BUY": 0.43,
-    "Kings BUY": 0.58
-  },
-  {
     "question": "Stars vs. Oilers",
     "date": "2025-11-25",
     "slug": "nhl-dal-edm-2025-11-25",
-    "Stars BUY": 0.5,
-    "Oilers BUY": 0.51
+    "Stars BUY": null,
+    "Oilers BUY": 0.57
   },
   {
     "question": "Flyers vs. Panthers",
     "date": "2025-11-26",
     "slug": "nhl-phi-fla-2025-11-26",
     "Flyers BUY": 0.38,
-    "Panthers BUY": 0.67
+    "Panthers BUY": 0.63
   },
   {
     "question": "Maple Leafs vs. Blue Jackets",
     "date": "2025-11-26",
     "slug": "nhl-tor-cbj-2025-11-26",
-    "MapleLeafs BUY": 0.48,
-    "BlueJackets BUY": 0.58
+    "MapleLeafs BUY": 0.46,
+    "BlueJackets BUY": 0.56
   },
   {
     "question": "Flames vs. Lightning",
     "date": "2025-11-26",
     "slug": "nhl-cal-tb-2025-11-26",
-    "Flames BUY": 0.33,
-    "Lightning BUY": 0.7
+    "Flames BUY": 0.41,
+    "Lightning BUY": 0.61
   },
   {
     "question": "Jets vs. Capitals",
     "date": "2025-11-26",
     "slug": "nhl-wpg-wsh-2025-11-26",
-    "Jets BUY": 0.51,
-    "Capitals BUY": 0.55
+    "Jets BUY": 0.44,
+    "Capitals BUY": 0.57
   },
   {
     "question": "Sabres vs. Penguins",
     "date": "2025-11-26",
     "slug": "nhl-buf-pit-2025-11-26",
-    "Sabres BUY": 0.44,
-    "Penguins BUY": 0.63
+    "Sabres BUY": 0.46,
+    "Penguins BUY": 0.56
   },
   {
     "question": "Bruins vs. Islanders",
     "date": "2025-11-26",
     "slug": "nhl-bos-nyi-2025-11-26",
-    "Bruins BUY": 0.46,
-    "Islanders BUY": 0.6
+    "Bruins BUY": 0.42,
+    "Islanders BUY": 0.61
   },
   {
     "question": "Blues vs. Devils",
     "date": "2025-11-26",
     "slug": "nhl-stl-nj-2025-11-26",
-    "Blues BUY": 0.37,
-    "Devils BUY": 0.72
+    "Blues BUY": 0.43,
+    "Devils BUY": 0.62
   },
   {
     "question": "Rangers vs. Hurricanes",
     "date": "2025-11-26",
     "slug": "nhl-nyr-car-2025-11-26",
-    "Rangers BUY": 0.4,
-    "Hurricanes BUY": 0.66
+    "Rangers BUY": 0.41,
+    "Hurricanes BUY": 0.62
   },
   {
     "question": "Predators vs. Red Wings",
     "date": "2025-11-26",
     "slug": "nhl-nsh-det-2025-11-26",
-    "Predators BUY": 0.4,
-    "RedWings BUY": 0.66
+    "Predators BUY": 0.41,
+    "RedWings BUY": 0.61
   },
   {
     "question": "Wild vs. Blackhawks",
     "date": "2025-11-26",
     "slug": "nhl-min-chi-2025-11-26",
-    "Wild BUY": 0.52,
-    "Blackhawks BUY": 0.54
+    "Wild BUY": 0.57,
+    "Blackhawks BUY": 0.44
   },
   {
     "question": "Sharks vs. Avalanche",
     "date": "2025-11-26",
     "slug": "nhl-sj-col-2025-11-26",
-    "Sharks BUY": 0.3,
-    "Avalanche BUY": 0.76
+    "Sharks BUY": 0.25,
+    "Avalanche BUY": 0.77
   },
   {
     "question": "Canadiens vs. Utah",
     "date": "2025-11-26",
     "slug": "nhl-mon-utah-2025-11-26",
-    "Canadiens BUY": 0.48,
-    "Utah BUY": 0.59
+    "Canadiens BUY": 0.43,
+    "Utah BUY": 0.58
+  },
+  {
+    "question": "Stars vs. Kraken",
+    "date": "2025-11-26",
+    "slug": "nhl-dal-sea-2025-11-26",
+    "Stars BUY": 0.55,
+    "Kraken BUY": 0.46
+  },
+  {
+    "question": "Senators vs. Golden Knights",
+    "date": "2025-11-26",
+    "slug": "nhl-ott-las-2025-11-26",
+    "Senators BUY": 0.45,
+    "GoldenKnights BUY": 0.57
+  },
+  {
+    "question": "Canucks vs. Ducks",
+    "date": "2025-11-26",
+    "slug": "nhl-van-ana-2025-11-26",
+    "Canucks BUY": 0.41,
+    "Ducks BUY": 0.61
+  },
+  {
+    "question": "Lightning vs. Red Wings",
+    "date": "2025-11-28",
+    "slug": "nhl-tb-det-2025-11-28",
+    "Lightning BUY": 0.53,
+    "RedWings BUY": 0.54
+  },
+  {
+    "question": "Rangers vs. Bruins",
+    "date": "2025-11-28",
+    "slug": "nhl-nyr-bos-2025-11-28",
+    "Rangers BUY": 0.52,
+    "Bruins BUY": 0.57
+  },
+  {
+    "question": "Avalanche vs. Wild",
+    "date": "2025-11-28",
+    "slug": "nhl-col-min-2025-11-28",
+    "Avalanche BUY": 0.68,
+    "Wild BUY": 0.4
+  },
+  {
+    "question": "Canadiens vs. Golden Knights",
+    "date": "2025-11-28",
+    "slug": "nhl-mon-las-2025-11-28",
+    "Canadiens BUY": 0.46,
+    "GoldenKnights BUY": 0.59
+  },
+  {
+    "question": "Flames vs. Panthers",
+    "date": "2025-11-28",
+    "slug": "nhl-cal-fla-2025-11-28",
+    "Flames BUY": 0.32,
+    "Panthers BUY": 0.75
+  },
+  {
+    "question": "Kings vs. Ducks",
+    "date": "2025-11-28",
+    "slug": "nhl-lak-ana-2025-11-28",
+    "Kings BUY": 0.5,
+    "Ducks BUY": 0.57
+  },
+  {
+    "question": "Senators vs. Blues",
+    "date": "2025-11-28",
+    "slug": "nhl-ott-stl-2025-11-28",
+    "Senators BUY": 0.64,
+    "Blues BUY": 0.42
+  },
+  {
+    "question": "Canucks vs. Sharks",
+    "date": "2025-11-28",
+    "slug": "nhl-van-sj-2025-11-28",
+    "Canucks BUY": 0.49,
+    "Sharks BUY": 0.59
+  },
+  {
+    "question": "Flyers vs. Islanders",
+    "date": "2025-11-28",
+    "slug": "nhl-phi-nyi-2025-11-28",
+    "Flyers BUY": 0.47,
+    "Islanders BUY": 0.6
+  },
+  {
+    "question": "Devils vs. Sabres",
+    "date": "2025-11-28",
+    "slug": "nhl-nj-buf-2025-11-28",
+    "Devils BUY": 0.6,
+    "Sabres BUY": 0.48
+  },
+  {
+    "question": "Maple Leafs vs. Capitals",
+    "date": "2025-11-28",
+    "slug": "nhl-tor-wsh-2025-11-28",
+    "MapleLeafs BUY": 0.42,
+    "Capitals BUY": 0.64
+  },
+  {
+    "question": "Jets vs. Hurricanes",
+    "date": "2025-11-28",
+    "slug": "nhl-wpg-car-2025-11-28",
+    "Jets BUY": 0.47,
+    "Hurricanes BUY": 0.59
+  },
+  {
+    "question": "Penguins vs. Blue Jackets",
+    "date": "2025-11-28",
+    "slug": "nhl-pit-cbj-2025-11-28",
+    "Penguins BUY": 0.52,
+    "BlueJackets BUY": 0.55
+  },
+  {
+    "question": "Predators vs. Blackhawks",
+    "date": "2025-11-28",
+    "slug": "nhl-nsh-chi-2025-11-28",
+    "Predators BUY": 0.45,
+    "Blackhawks BUY": 0.64
+  },
+  {
+    "question": "Utah vs. Stars",
+    "date": "2025-11-28",
+    "slug": "nhl-utah-dal-2025-11-28",
+    "Utah BUY": 0.47,
+    "Stars BUY": 0.59
+  },
+  {
+    "question": "Lightning vs. Rangers",
+    "date": "2025-11-29",
+    "slug": "nhl-tb-nyr-2025-11-29",
+    "Lightning BUY": 0.52,
+    "Rangers BUY": 0.54
+  },
+  {
+    "question": "Canadiens vs. Avalanche",
+    "date": "2025-11-29",
+    "slug": "nhl-mon-col-2025-11-29",
+    "Canadiens BUY": 0.35,
+    "Avalanche BUY": 0.71
+  },
+  {
+    "question": "Oilers vs. Kraken",
+    "date": "2025-11-29",
+    "slug": "nhl-edm-sea-2025-11-29",
+    "Oilers BUY": 0.49,
+    "Kraken BUY": 0.57
+  },
+  {
+    "question": "Jets vs. Predators",
+    "date": "2025-11-29",
+    "slug": "nhl-wpg-nsh-2025-11-29",
+    "Jets BUY": 0.65,
+    "Predators BUY": 0.42
+  },
+  {
+    "question": "Maple Leafs vs. Penguins",
+    "date": "2025-11-29",
+    "slug": "nhl-tor-pit-2025-11-29",
+    "MapleLeafs BUY": 0.47,
+    "Penguins BUY": 0.6
+  },
+  {
+    "question": "Flyers vs. Devils",
+    "date": "2025-11-29",
+    "slug": "nhl-phi-nj-2025-11-29",
+    "Flyers BUY": 0.4,
+    "Devils BUY": 0.64
+  },
+  {
+    "question": "Red Wings vs. Bruins",
+    "date": "2025-11-29",
+    "slug": "nhl-det-bos-2025-11-29",
+    "RedWings BUY": 0.5,
+    "Bruins BUY": 0.57
+  },
+  {
+    "question": "Sabres vs. Wild",
+    "date": "2025-11-29",
+    "slug": "nhl-buf-min-2025-11-29",
+    "Sabres BUY": 0.42,
+    "Wild BUY": 0.65
+  },
+  {
+    "question": "Utah vs. Blues",
+    "date": "2025-11-29",
+    "slug": "nhl-utah-stl-2025-11-29",
+    "Utah BUY": 0.61,
+    "Blues BUY": 0.46
+  },
+  {
+    "question": "Sharks vs. Golden Knights",
+    "date": "2025-11-29",
+    "slug": "nhl-sj-las-2025-11-29",
+    "Sharks BUY": 0.37,
+    "GoldenKnights BUY": 0.67
+  },
+  {
+    "question": "Canucks vs. Kings",
+    "date": "2025-11-29",
+    "slug": "nhl-van-lak-2025-11-29",
+    "Canucks BUY": 0.42,
+    "Kings BUY": 0.64
+  },
+  {
+    "question": "Capitals vs. Islanders",
+    "date": "2025-11-30",
+    "slug": "nhl-wsh-nyi-2025-11-30",
+    "Capitals BUY": 0.51,
+    "Islanders BUY": 0.56
+  },
+  {
+    "question": "Ducks vs. Blackhawks",
+    "date": "2025-11-30",
+    "slug": "nhl-ana-chi-2025-11-30",
+    "Ducks BUY": 0.58,
+    "Blackhawks BUY": 0.51
+  },
+  {
+    "question": "Flames vs. Hurricanes",
+    "date": "2025-11-30",
+    "slug": "nhl-cal-car-2025-11-30",
+    "Flames BUY": 0.31,
+    "Hurricanes BUY": 0.74
+  },
+  {
+    "question": "Senators vs. Stars",
+    "date": "2025-11-30",
+    "slug": "nhl-ott-dal-2025-11-30",
+    "Senators BUY": 0.51,
+    "Stars BUY": 0.56
+  },
+  {
+    "question": "Penguins vs. Flyers",
+    "date": "2025-12-01",
+    "slug": "nhl-pit-phi-2025-12-01",
+    "Penguins BUY": 0.57,
+    "Flyers BUY": 0.52
+  },
+  {
+    "question": "Blue Jackets vs. Devils",
+    "date": "2025-12-01",
+    "slug": "nhl-cbj-nj-2025-12-01",
+    "BlueJackets BUY": 0.49,
+    "Devils BUY": 0.59
+  },
+  {
+    "question": "Jets vs. Sabres",
+    "date": "2025-12-01",
+    "slug": "nhl-wpg-buf-2025-12-01",
+    "Jets BUY": 0.65,
+    "Sabres BUY": 0.42
+  },
+  {
+    "question": "Ducks vs. Blues",
+    "date": "2025-12-01",
+    "slug": "nhl-ana-stl-2025-12-01",
+    "Ducks BUY": 0.55,
+    "Blues BUY": 0.53
+  },
+  {
+    "question": "Utah vs. Sharks",
+    "date": "2025-12-01",
+    "slug": "nhl-utah-sj-2025-12-01",
+    "Utah BUY": 0.64,
+    "Sharks BUY": 0.46
+  },
+  {
+    "question": "Maple Leafs vs. Panthers",
+    "date": "2025-12-02",
+    "slug": "nhl-tor-fla-2025-12-02",
+    "MapleLeafs BUY": 0.42,
+    "Panthers BUY": 0.65
+  },
+  {
+    "question": "Stars vs. Rangers",
+    "date": "2025-12-02",
+    "slug": "nhl-dal-nyr-2025-12-02",
+    "Stars BUY": 0.54,
+    "Rangers BUY": 0.53
+  },
+  {
+    "question": "Lightning vs. Islanders",
+    "date": "2025-12-02",
+    "slug": "nhl-tb-nyi-2025-12-02",
+    "Lightning BUY": 0.5,
+    "Islanders BUY": 0.57
+  },
+  {
+    "question": "Senators vs. Canadiens",
+    "date": "2025-12-02",
+    "slug": "nhl-ott-mon-2025-12-02",
+    "Senators BUY": 0.56,
+    "Canadiens BUY": 0.54
+  },
+  {
+    "question": "Bruins vs. Red Wings",
+    "date": "2025-12-02",
+    "slug": "nhl-bos-det-2025-12-02",
+    "Bruins BUY": 0.5,
+    "RedWings BUY": 0.6
+  },
+  {
+    "question": "Flames vs. Predators",
+    "date": "2025-12-02",
+    "slug": "nhl-cal-nsh-2025-12-02",
+    "Flames BUY": 0.54,
+    "Predators BUY": 0.52
+  },
+  {
+    "question": "Canucks vs. Avalanche",
+    "date": "2025-12-02",
+    "slug": "nhl-van-col-2025-12-02",
+    "Canucks BUY": 0.31,
+    "Avalanche BUY": 0.81
+  },
+  {
+    "question": "Wild vs. Oilers",
+    "date": "2025-12-02",
+    "slug": "nhl-min-edm-2025-12-02",
+    "Wild BUY": 0.57,
+    "Oilers BUY": 0.54
+  },
+  {
+    "question": "Blackhawks vs. Golden Knights",
+    "date": "2025-12-02",
+    "slug": "nhl-chi-las-2025-12-02",
+    "Blackhawks BUY": 0.42,
+    "GoldenKnights BUY": 0.65
+  },
+  {
+    "question": "Capitals vs. Kings",
+    "date": "2025-12-02",
+    "slug": "nhl-wsh-lak-2025-12-02",
+    "Capitals BUY": 0.49,
+    "Kings BUY": 0.56
+  },
+  {
+    "question": "Stars vs. Devils",
+    "date": "2025-12-03",
+    "slug": "nhl-dal-nj-2025-12-03",
+    "Stars BUY": 0.53,
+    "Devils BUY": 0.57
+  },
+  {
+    "question": "Sabres vs. Flyers",
+    "date": "2025-12-03",
+    "slug": "nhl-buf-phi-2025-12-03",
+    "Sabres BUY": 0.45,
+    "Flyers BUY": 0.66
+  },
+  {
+    "question": "Jets vs. Canadiens",
+    "date": "2025-12-03",
+    "slug": "nhl-wpg-mon-2025-12-03",
+    "Jets BUY": 0.62,
+    "Canadiens BUY": 0.48
+  },
+  {
+    "question": "Utah vs. Ducks",
+    "date": "2025-12-03",
+    "slug": "nhl-utah-ana-2025-12-03",
+    "Utah BUY": 0.5,
+    "Ducks BUY": 0.57
+  },
+  {
+    "question": "Capitals vs. Sharks",
+    "date": "2025-12-03",
+    "slug": "nhl-wsh-sj-2025-12-03",
+    "Capitals BUY": 0.64,
+    "Sharks BUY": 0.47
+  },
+  {
+    "question": "Predators vs. Panthers",
+    "date": "2025-12-04",
+    "slug": "nhl-nsh-fla-2025-12-04",
+    "Predators BUY": 0.34,
+    "Panthers BUY": 0.75
+  },
+  {
+    "question": "Red Wings vs. Blue Jackets",
+    "date": "2025-12-04",
+    "slug": "nhl-det-cbj-2025-12-04",
+    "RedWings BUY": 0.53,
+    "BlueJackets BUY": 0.6
+  },
+  {
+    "question": "Penguins vs. Lightning",
+    "date": "2025-12-04",
+    "slug": "nhl-pit-tb-2025-12-04",
+    "Penguins BUY": 0.48,
+    "Lightning BUY": 0.62
+  },
+  {
+    "question": "Rangers vs. Senators",
+    "date": "2025-12-04",
+    "slug": "nhl-nyr-ott-2025-12-04",
+    "Rangers BUY": 0.51,
+    "Senators BUY": 0.61
+  },
+  {
+    "question": "Avalanche vs. Islanders",
+    "date": "2025-12-04",
+    "slug": "nhl-col-nyi-2025-12-04",
+    "Avalanche BUY": 0.68,
+    "Islanders BUY": 0.44
+  },
+  {
+    "question": "Maple Leafs vs. Hurricanes",
+    "date": "2025-12-04",
+    "slug": "nhl-tor-car-2025-12-04",
+    "MapleLeafs BUY": 0.36,
+    "Hurricanes BUY": 0.71
+  },
+  {
+    "question": "Blues vs. Bruins",
+    "date": "2025-12-04",
+    "slug": "nhl-stl-bos-2025-12-04",
+    "Blues BUY": 0.39,
+    "Bruins BUY": 0.72
+  },
+  {
+    "question": "Kraken vs. Oilers",
+    "date": "2025-12-04",
+    "slug": "nhl-sea-edm-2025-12-04",
+    "Kraken BUY": 0.54,
+    "Oilers BUY": 0.57
+  },
+  {
+    "question": "Wild vs. Flames",
+    "date": "2025-12-04",
+    "slug": "nhl-min-cal-2025-12-04",
+    "Wild BUY": 0.59,
+    "Flames BUY": 0.58
+  },
+  {
+    "question": "Blackhawks vs. Kings",
+    "date": "2025-12-06",
+    "slug": "nhl-chi-lak-2025-12-07",
+    "Blackhawks BUY": 0.46,
+    "Kings BUY": 0.9
+  },
+  {
+    "question": "Sabres vs. Jets",
+    "date": "2025-12-05",
+    "slug": "nhl-buf-wpg-2025-12-06",
+    "Sabres BUY": 0.84,
+    "Jets BUY": 0.91
+  },
+  {
+    "question": "Golden Knights vs. Devils",
+    "date": "2025-12-05",
+    "slug": "nhl-las-nj-2025-12-06",
+    "GoldenKnights BUY": 0.87,
+    "Devils BUY": 0.9
+  },
+  {
+    "question": "Sharks vs. Stars",
+    "date": "2025-12-05",
+    "slug": "nhl-sj-dal-2025-12-06",
+    "Sharks BUY": 0.92,
+    "Stars BUY": 0.92
+  },
+  {
+    "question": "Utah vs. Canucks",
+    "date": "2025-12-05",
+    "slug": "nhl-utah-van-2025-12-06",
+    "Utah BUY": 0.87,
+    "Canucks BUY": 0.87
+  },
+  {
+    "question": "Capitals vs. Ducks",
+    "date": "2025-12-05",
+    "slug": "nhl-wsh-ana-2025-12-06",
+    "Capitals BUY": 0.94,
+    "Ducks BUY": 0.95
+  },
+  {
+    "question": "Avalanche vs. Rangers",
+    "date": "2025-12-06",
+    "slug": "nhl-col-nyr-2025-12-06",
+    "Avalanche BUY": 0.73,
+    "Rangers BUY": 0.54
+  },
+  {
+    "question": "Blue Jackets vs. Panthers",
+    "date": "2025-12-06",
+    "slug": "nhl-cbj-fla-2025-12-06",
+    "BlueJackets BUY": 0.44,
+    "Panthers BUY": 0.67
+  },
+  {
+    "question": "Canadiens vs. Maple Leafs",
+    "date": "2025-12-06",
+    "slug": "nhl-mon-tor-2025-12-07",
+    "Canadiens BUY": 0.91,
+    "MapleLeafs BUY": 0.91
+  },
+  {
+    "question": "Islanders vs. Lightning",
+    "date": "2025-12-06",
+    "slug": "nhl-nyi-tb-2025-12-07",
+    "Islanders BUY": 0.91,
+    "Lightning BUY": 0.94
+  },
+  {
+    "question": "Blues vs. Senators",
+    "date": "2025-12-06",
+    "slug": "nhl-stl-ott-2025-12-07",
+    "Blues BUY": 0.95,
+    "Senators BUY": 0.93
+  },
+  {
+    "question": "Predators vs. Hurricanes",
+    "date": "2025-12-06",
+    "slug": "nhl-nsh-car-2025-12-07",
+    "Predators BUY": 0.38,
+    "Hurricanes BUY": 0.97
+  },
+  {
+    "question": "Utah vs. Flames",
+    "date": "2025-12-06",
+    "slug": "nhl-utah-cal-2025-12-07",
+    "Utah BUY": 0.98,
+    "Flames BUY": 0.93
+  },
+  {
+    "question": "Devils vs. Bruins",
+    "date": "2025-12-06",
+    "slug": "nhl-nj-bos-2025-12-07",
+    "Devils BUY": 0.97,
+    "Bruins BUY": 0.87
+  },
+  {
+    "question": "Red Wings vs. Kraken",
+    "date": "2025-12-06",
+    "slug": "nhl-det-sea-2025-12-07",
+    "RedWings BUY": 0.93,
+    "Kraken BUY": 0.94
+  },
+  {
+    "question": "Wild vs. Canucks",
+    "date": "2025-12-06",
+    "slug": "nhl-min-van-2025-12-07",
+    "Wild BUY": 0.87,
+    "Canucks BUY": 0.89
+  },
+  {
+    "question": "Jets vs. Oilers",
+    "date": "2025-12-06",
+    "slug": "nhl-wpg-edm-2025-12-07",
+    "Jets BUY": 0.91,
+    "Oilers BUY": 0.91
+  },
+  {
+    "question": "Avalanche vs. Flyers",
+    "date": "2025-12-07",
+    "slug": "nhl-col-phi-2025-12-07",
+    "Avalanche BUY": 0.8,
+    "Flyers BUY": 0.49
+  },
+  {
+    "question": "Islanders vs. Panthers",
+    "date": "2025-12-07",
+    "slug": "nhl-nyi-fla-2025-12-07",
+    "Islanders BUY": 0.49,
+    "Panthers BUY": 0.63
+  },
+  {
+    "question": "Sharks vs. Hurricanes",
+    "date": "2025-12-07",
+    "slug": "nhl-sj-car-2025-12-07",
+    "Sharks BUY": 0.38,
+    "Hurricanes BUY": 0.77
+  },
+  {
+    "question": "Penguins vs. Stars",
+    "date": "2025-12-07",
+    "slug": "nhl-pit-dal-2025-12-07",
+    "Penguins BUY": 0.47,
+    "Stars BUY": 0.64
+  },
+  {
+    "question": "Blue Jackets vs. Capitals",
+    "date": "2025-12-07",
+    "slug": "nhl-cbj-wsh-2025-12-08",
+    "BlueJackets BUY": 0.91,
+    "Capitals BUY": 0.93
+  },
+  {
+    "question": "Golden Knights vs. Rangers",
+    "date": "2025-12-07",
+    "slug": "nhl-las-nyr-2025-12-08",
+    "GoldenKnights BUY": 0.93,
+    "Rangers BUY": 0.96
+  },
+  {
+    "question": "Blues vs. Canadiens",
+    "date": "2025-12-07",
+    "slug": "nhl-stl-mon-2025-12-08",
+    "Blues BUY": 0.95,
+    "Canadiens BUY": 0.88
   }
 ]

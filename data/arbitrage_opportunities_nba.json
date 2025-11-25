@@ -18,33 +18,6 @@
     "polymarket_link": "https://polymarket.com/event/nba-mem-nop-2025-11-26"
   },
   {
-    "question": "Celtics vs Pistons",
-    "date": "2025-11-26",
-    "kalshi": "Celtics|0.34",
-    "polymarket": "Pistons|0.67",
-    "profit": -0.01,
-    "kalshi_link": "https://kalshi.com/markets/kxnbagame/professional-basketball-game/KXNBAGAME-25NOV26DETBOS",
-    "polymarket_link": "https://polymarket.com/event/nba-det-bos-2025-11-26"
-  },
-  {
-    "question": "Hawks vs Wizards",
-    "date": "2025-11-25",
-    "kalshi": "Hawks|0.82",
-    "polymarket": "Wizards|0.2",
-    "profit": -0.02,
-    "kalshi_link": "https://kalshi.com/markets/kxnbagame/professional-basketball-game/KXNBAGAME-25NOV25ATLWAS",
-    "polymarket_link": "https://polymarket.com/event/nba-atl-was-2025-11-25"
-  },
-  {
-    "question": "Kings vs Suns",
-    "date": "2025-11-26",
-    "kalshi": "Kings|0.4",
-    "polymarket": "Suns|0.62",
-    "profit": -0.02,
-    "kalshi_link": "https://kalshi.com/markets/kxnbagame/professional-basketball-game/KXNBAGAME-25NOV26PHXSAC",
-    "polymarket_link": "https://polymarket.com/event/nba-phx-sac-2025-11-26"
-  },
-  {
     "question": "Clippers vs Lakers",
     "date": "2025-11-25",
     "kalshi": "Clippers|0.32",
@@ -54,22 +27,31 @@
     "polymarket_link": "https://polymarket.com/event/nba-lac-lal-2025-11-25"
   },
   {
-    "question": "76ers vs Magic",
-    "date": "2025-11-25",
-    "kalshi": "76ers|0.48",
-    "polymarket": "Magic|0.54",
+    "question": "Rockets vs Warriors",
+    "date": "2025-11-26",
+    "kalshi": "Rockets|0.54",
+    "polymarket": "Warriors|0.48",
     "profit": -0.02,
-    "kalshi_link": "https://kalshi.com/markets/kxnbagame/professional-basketball-game/KXNBAGAME-25NOV25ORLPHI",
-    "polymarket_link": "https://polymarket.com/event/nba-orl-phi-2025-11-25"
+    "kalshi_link": "https://kalshi.com/markets/kxnbagame/professional-basketball-game/KXNBAGAME-25NOV26HOUGSW",
+    "polymarket_link": "https://polymarket.com/event/nba-hou-gsw-2025-11-26"
   },
   {
-    "question": "Thunder vs Timberwolves",
+    "question": "Kings vs Suns",
     "date": "2025-11-26",
-    "kalshi": "Thunder|0.82",
-    "polymarket": "Timberwolves|0.2",
+    "kalshi": "Kings|0.33",
+    "polymarket": "Suns|0.69",
     "profit": -0.02,
-    "kalshi_link": "https://kalshi.com/markets/kxnbagame/professional-basketball-game/KXNBAGAME-25NOV26MINOKC",
-    "polymarket_link": "https://polymarket.com/event/nba-min-okc-2025-11-26"
+    "kalshi_link": "https://kalshi.com/markets/kxnbagame/professional-basketball-game/KXNBAGAME-25NOV26PHXSAC",
+    "polymarket_link": "https://polymarket.com/event/nba-phx-sac-2025-11-26"
+  },
+  {
+    "question": "Bucks vs Heat",
+    "date": "2025-11-26",
+    "kalshi": "Bucks|0.28",
+    "polymarket": "Heat|0.75",
+    "profit": -0.03,
+    "kalshi_link": "https://kalshi.com/markets/kxnbagame/professional-basketball-game/KXNBAGAME-25NOV26MILMIA",
+    "polymarket_link": "https://polymarket.com/event/nba-mil-mia-2025-11-26"
   },
   {
     "question": "Pacers vs Raptors",
@@ -81,30 +63,30 @@
     "polymarket_link": "https://polymarket.com/event/nba-ind-tor-2025-11-26"
   },
   {
-    "question": "Rockets vs Warriors",
-    "date": "2025-11-26",
-    "kalshi": "Rockets|0.55",
-    "polymarket": "Warriors|0.48",
-    "profit": -0.03,
-    "kalshi_link": "https://kalshi.com/markets/kxnbagame/professional-basketball-game/KXNBAGAME-25NOV26HOUGSW",
-    "polymarket_link": "https://polymarket.com/event/nba-hou-gsw-2025-11-26"
-  },
-  {
-    "question": "Bucks vs Heat",
-    "date": "2025-11-26",
-    "kalshi": "Bucks|0.28",
-    "polymarket": "Heat|0.76",
-    "profit": -0.04,
-    "kalshi_link": "https://kalshi.com/markets/kxnbagame/professional-basketball-game/KXNBAGAME-25NOV26MILMIA",
-    "polymarket_link": "https://polymarket.com/event/nba-mil-mia-2025-11-26"
-  },
-  {
     "question": "Spurs vs Trail Blazers",
     "date": "2025-11-26",
-    "kalshi": "Spurs|0.59",
-    "polymarket": "TrailBlazers|0.52",
-    "profit": -0.11,
+    "kalshi": "Spurs|0.5",
+    "polymarket": "TrailBlazers|0.53",
+    "profit": -0.03,
     "kalshi_link": "https://kalshi.com/markets/kxnbagame/professional-basketball-game/KXNBAGAME-25NOV26SASPOR",
     "polymarket_link": "https://polymarket.com/event/nba-sas-por-2025-11-26"
+  },
+  {
+    "question": "Thunder vs Timberwolves",
+    "date": "2025-11-26",
+    "kalshi": "Thunder|0.83",
+    "polymarket": "Timberwolves|0.2",
+    "profit": -0.03,
+    "kalshi_link": "https://kalshi.com/markets/kxnbagame/professional-basketball-game/KXNBAGAME-25NOV26MINOKC",
+    "polymarket_link": "https://polymarket.com/event/nba-min-okc-2025-11-26"
+  },
+  {
+    "question": "Celtics vs Pistons",
+    "date": "2025-11-26",
+    "kalshi": "Celtics|0.36",
+    "polymarket": "Pistons|0.68",
+    "profit": -0.04,
+    "kalshi_link": "https://kalshi.com/markets/kxnbagame/professional-basketball-game/KXNBAGAME-25NOV26DETBOS",
+    "polymarket_link": "https://polymarket.com/event/nba-det-bos-2025-11-26"
   }
 ]

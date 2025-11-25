@@ -1,0 +1,146 @@
+[
+  {
+    "event_title": "StarLadder Major Budapest 2025: M80 vs. NRG",
+    "market_ticker": "KXCSGOGAME-25NOV25M80NRG-NRG",
+    "game_date": "2025-11-25",
+    "yes_bid": 25,
+    "yes_ask": 50,
+    "no_bid": 50,
+    "no_ask": 75
+  },
+  {
+    "event_title": "StarLadder Major Budapest 2025: M80 vs. NRG",
+    "market_ticker": "KXCSGOGAME-25NOV25M80NRG-M80",
+    "game_date": "2025-11-25",
+    "yes_bid": 25,
+    "yes_ask": 79,
+    "no_bid": 21,
+    "no_ask": 75
+  },
+  {
+    "event_title": "StarLadder Major Budapest 2025: GamerLegion vs. Rare Atom",
+    "market_ticker": "KXCSGOGAME-25NOV25GLRA-RA",
+    "game_date": "2025-11-25",
+    "yes_bid": 14,
+    "yes_ask": 39,
+    "no_bid": 61,
+    "no_ask": 86
+  },
+  {
+    "event_title": "StarLadder Major Budapest 2025: GamerLegion vs. Rare Atom",
+    "market_ticker": "KXCSGOGAME-25NOV25GLRA-GL",
+    "game_date": "2025-11-25",
+    "yes_bid": 28,
+    "yes_ask": 87,
+    "no_bid": 13,
+    "no_ask": 72
+  },
+  {
+    "event_title": "StarLadder Major Budapest 2025: FlyQuest vs. Fluxo",
+    "market_ticker": "KXCSGOGAME-25NOV25FLYFX-FX",
+    "game_date": "2025-11-25",
+    "yes_bid": 25,
+    "yes_ask": 55,
+    "no_bid": 45,
+    "no_ask": 75
+  },
+  {
+    "event_title": "StarLadder Major Budapest 2025: FlyQuest vs. Fluxo",
+    "market_ticker": "KXCSGOGAME-25NOV25FLYFX-FLY",
+    "game_date": "2025-11-25",
+    "yes_bid": 25,
+    "yes_ask": 72,
+    "no_bid": 28,
+    "no_ask": 75
+  },
+  {
+    "event_title": "StarLadder Major Budapest 2025: The Huns Esports vs. Lynn Vision",
+    "market_ticker": "KXCSGOGAME-25NOV25THELVG-THE",
+    "game_date": "2025-11-25",
+    "yes_bid": 25,
+    "yes_ask": 50,
+    "no_bid": 50,
+    "no_ask": 75
+  },
+  {
+    "event_title": "StarLadder Major Budapest 2025: The Huns Esports vs. Lynn Vision",
+    "market_ticker": "KXCSGOGAME-25NOV25THELVG-LVG",
+    "game_date": "2025-11-25",
+    "yes_bid": 25,
+    "yes_ask": 84,
+    "no_bid": 16,
+    "no_ask": 75
+  },
+  {
+    "event_title": "StarLadder Major Budapest 2025: fnatic vs. Imperial",
+    "market_ticker": "KXCSGOGAME-25NOV25FNCIMP-IMP",
+    "game_date": "2025-11-25",
+    "yes_bid": 25,
+    "yes_ask": 54,
+    "no_bid": 46,
+    "no_ask": 75
+  },
+  {
+    "event_title": "StarLadder Major Budapest 2025: fnatic vs. Imperial",
+    "market_ticker": "KXCSGOGAME-25NOV25FNCIMP-FNC",
+    "game_date": "2025-11-25",
+    "yes_bid": 25,
+    "yes_ask": 69,
+    "no_bid": 31,
+    "no_ask": 75
+  },
+  {
+    "event_title": "StarLadder Major Budapest 2025: FaZe vs. NIP",
+    "market_ticker": "KXCSGOGAME-25NOV25FAZENIP-NIP",
+    "game_date": "2025-11-25",
+    "yes_bid": 31,
+    "yes_ask": 39,
+    "no_bid": 61,
+    "no_ask": 69
+  },
+  {
+    "event_title": "StarLadder Major Budapest 2025: FaZe vs. NIP",
+    "market_ticker": "KXCSGOGAME-25NOV25FAZENIP-FAZE",
+    "game_date": "2025-11-25",
+    "yes_bid": 26,
+    "yes_ask": 72,
+    "no_bid": 28,
+    "no_ask": 74
+  },
+  {
+    "event_title": "StarLadder Major Budapest 2025: Legacy vs. RED Canids",
+    "market_ticker": "KXCSGOGAME-25NOV25LGCRED-RED",
+    "game_date": "2025-11-25",
+    "yes_bid": 23,
+    "yes_ask": 25,
+    "no_bid": 75,
+    "no_ask": 77
+  },
+  {
+    "event_title": "StarLadder Major Budapest 2025: Legacy vs. RED Canids",
+    "market_ticker": "KXCSGOGAME-25NOV25LGCRED-LGC",
+    "game_date": "2025-11-25",
+    "yes_bid": 76,
+    "yes_ask": 78,
+    "no_bid": 22,
+    "no_ask": 24
+  },
+  {
+    "event_title": "StarLadder Major Budapest 2025: B8 vs. PARIVISION",
+    "market_ticker": "KXCSGOGAME-25NOV25B8PRV-PRV",
+    "game_date": "2025-11-25",
+    "yes_bid": 52,
+    "yes_ask": 63,
+    "no_bid": 37,
+    "no_ask": 48
+  },
+  {
+    "event_title": "StarLadder Major Budapest 2025: B8 vs. PARIVISION",
+    "market_ticker": "KXCSGOGAME-25NOV25B8PRV-B8",
+    "game_date": "2025-11-25",
+    "yes_bid": 36,
+    "yes_ask": 48,
+    "no_bid": 52,
+    "no_ask": 64
+  }
+]

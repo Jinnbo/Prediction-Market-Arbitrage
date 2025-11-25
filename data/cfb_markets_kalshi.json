@@ -360,24 +360,6 @@
     "no_ask": 25
   },
   {
-    "event_title": "Texas Tech at West Virginia",
-    "market_ticker": "KXNCAAFGAME-25NOV29TTUWVU-WVU",
-    "game_date": "2025-11-29",
-    "yes_bid": 7,
-    "yes_ask": 8,
-    "no_bid": 92,
-    "no_ask": 93
-  },
-  {
-    "event_title": "Texas Tech at West Virginia",
-    "market_ticker": "KXNCAAFGAME-25NOV29TTUWVU-TTU",
-    "game_date": "2025-11-29",
-    "yes_bid": 93,
-    "yes_ask": 94,
-    "no_bid": 6,
-    "no_ask": 7
-  },
-  {
     "event_title": "Troy at Southern Miss",
     "market_ticker": "KXNCAAFGAME-25NOV29TROYUSM-USM",
     "game_date": "2025-11-29",
@@ -540,24 +522,6 @@
     "no_ask": 58
   },
   {
-    "event_title": "Miami (FL) at Pittsburgh",
-    "market_ticker": "KXNCAAFGAME-25NOV29MIAPITT-PITT",
-    "game_date": "2025-11-29",
-    "yes_bid": 29,
-    "yes_ask": 31,
-    "no_bid": 69,
-    "no_ask": 71
-  },
-  {
-    "event_title": "Miami (FL) at Pittsburgh",
-    "market_ticker": "KXNCAAFGAME-25NOV29MIAPITT-MIA",
-    "game_date": "2025-11-29",
-    "yes_bid": 70,
-    "yes_ask": 71,
-    "no_bid": 29,
-    "no_ask": 30
-  },
-  {
     "event_title": "Maryland at Michigan St.",
     "market_ticker": "KXNCAAFGAME-25NOV29MDMSU-MSU",
     "game_date": "2025-11-29",
@@ -706,18 +670,18 @@
     "market_ticker": "KXNCAAFGAME-25NOV29FRESSJSU-SJSU",
     "game_date": "2025-11-29",
     "yes_bid": 43,
-    "yes_ask": 45,
-    "no_bid": 55,
+    "yes_ask": 44,
+    "no_bid": 56,
     "no_ask": 57
   },
   {
     "event_title": "Fresno St. at San Jose St.",
     "market_ticker": "KXNCAAFGAME-25NOV29FRESSJSU-FRES",
     "game_date": "2025-11-29",
-    "yes_bid": 55,
+    "yes_bid": 56,
     "yes_ask": 57,
     "no_bid": 43,
-    "no_ask": 45
+    "no_ask": 44
   },
   {
     "event_title": "Florida International at Sam Houston",
@@ -772,24 +736,6 @@
     "yes_ask": 13,
     "no_bid": 87,
     "no_ask": 88
-  },
-  {
-    "event_title": "Cincinnati at TCU",
-    "market_ticker": "KXNCAAFGAME-25NOV29CINTCU-TCU",
-    "game_date": "2025-11-29",
-    "yes_bid": 60,
-    "yes_ask": 61,
-    "no_bid": 39,
-    "no_ask": 40
-  },
-  {
-    "event_title": "Cincinnati at TCU",
-    "market_ticker": "KXNCAAFGAME-25NOV29CINTCU-CIN",
-    "game_date": "2025-11-29",
-    "yes_bid": 39,
-    "yes_ask": 40,
-    "no_bid": 60,
-    "no_ask": 61
   },
   {
     "event_title": "Charlotte at Tulane",
@@ -1164,10 +1110,10 @@
     "event_title": "Iowa at Nebraska",
     "market_ticker": "KXNCAAFGAME-25NOV28IOWANEB-IOWA",
     "game_date": "2025-11-28",
-    "yes_bid": 67,
+    "yes_bid": 68,
     "yes_ask": 69,
     "no_bid": 31,
-    "no_ask": 33
+    "no_ask": 32
   },
   {
     "event_title": "Navy at Memphis",
@@ -1204,5 +1150,23 @@
     "yes_ask": 29,
     "no_bid": 71,
     "no_ask": 72
+  },
+  {
+    "event_title": "Bowling Green at UMass",
+    "market_ticker": "KXNCAAFGAME-25NOV25BGSUMASS-MASS",
+    "game_date": "2025-11-25",
+    "yes_bid": 15,
+    "yes_ask": 16,
+    "no_bid": 84,
+    "no_ask": 85
+  },
+  {
+    "event_title": "Bowling Green at UMass",
+    "market_ticker": "KXNCAAFGAME-25NOV25BGSUMASS-BGSU",
+    "game_date": "2025-11-25",
+    "yes_bid": 84,
+    "yes_ask": 85,
+    "no_bid": 15,
+    "no_ask": 16
   }
 ]

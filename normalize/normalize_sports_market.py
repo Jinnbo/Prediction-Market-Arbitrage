@@ -9,6 +9,8 @@ from typing import Any
 from .constants import (
     CFB_KALSHI_BASE_URL,
     CFB_TEAM_MAPPING,
+    CS2_KALSHI_BASE_URL,
+    CS2_TEAM_MAPPING,
     NBA_KALSHI_BASE_URL,
     NBA_TEAM_MAPPING,
     NFL_KALSHI_BASE_URL,
@@ -42,6 +44,12 @@ SPORT_CONFIG: dict[str, dict[str, Any]] = {
         "kalshi_url": CFB_KALSHI_BASE_URL,
         "polymarket_url": POLYMARKET_URL,
         "output_prefix": "cfb",
+    },
+    "cs2": {
+        "team_map": CS2_TEAM_MAPPING,
+        "kalshi_url": CS2_KALSHI_BASE_URL,
+        "polymarket_url": POLYMARKET_URL,
+        "output_prefix": "cs2",
     },
 }
 
@@ -160,7 +168,28 @@ class NormalizeSportsMarket:
         """Normalize Polymarket market data to standard format."""
         for market in self.polymarket_markets:
             if "question" in market:
-                market["question"] = market["question"].replace(" vs. ", " vs ")
+                question = market["question"]
+                # Clean up CS2 questions: remove "Counter-Strike:" prefix and "(BO1/BO3)" suffix
+                if "Counter-Strike:" in question:
+                    question = question.split("Counter-Strike:")[-1].strip()
+                if "(" in question:
+                    question = question.split("(")[0].strip()
+                question = question.replace(" vs. ", " vs ")
+                market["question"] = question
+
+                # Normalize BUY keys to remove spaces (match Kalshi format)
+                buy_keys_to_update = {}
+                for key in list(market.keys()):
+                    if key.endswith(" BUY") and " " in key:
+                        team_name = key.replace(" BUY", "")
+                        normalized_team_name = team_name.replace(" ", "")
+                        if normalized_team_name != team_name:
+                            buy_keys_to_update[key] = f"{normalized_team_name} BUY"
+
+                # Update BUY keys
+                for old_key, new_key in buy_keys_to_update.items():
+                    if old_key in market:
+                        market[new_key] = market.pop(old_key)
 
             market["platform"] = "polymarket"
             market["polymarket link"] = f"{self.polymarket_base_url}{market['slug']}"

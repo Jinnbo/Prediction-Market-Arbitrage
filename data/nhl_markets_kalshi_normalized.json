@@ -1,10 +1,46 @@
 {
+  "667892761f309a53b6ee7f3a11d4bff942a1aa943fd2b8960122407deebbf986": {
+    "question": "Canucks vs Ducks",
+    "date": "2025-11-26",
+    "platform": "kalshi",
+    "Canucks BUY": 0.42,
+    "Ducks BUY": 0.62,
+    "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26VANANA",
+    "hash": "667892761f309a53b6ee7f3a11d4bff942a1aa943fd2b8960122407deebbf986"
+  },
+  "2a5f1cf6734cc5dd96e130c60d15ae9144b34a887bac3cfe6c34c3367aafc487": {
+    "question": "Golden Knights vs Senators",
+    "date": "2025-11-26",
+    "platform": "kalshi",
+    "GoldenKnights BUY": 0.57,
+    "Senators BUY": 0.45,
+    "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26OTTVGK",
+    "hash": "2a5f1cf6734cc5dd96e130c60d15ae9144b34a887bac3cfe6c34c3367aafc487"
+  },
+  "f53bc468f5a8cbf409d94d7c6cbebf078d26391774d211157eca4bbb17e6ad3d": {
+    "question": "Kraken vs Stars",
+    "date": "2025-11-26",
+    "platform": "kalshi",
+    "Kraken BUY": 0.47,
+    "Stars BUY": 0.56,
+    "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26DALSEA",
+    "hash": "f53bc468f5a8cbf409d94d7c6cbebf078d26391774d211157eca4bbb17e6ad3d"
+  },
+  "0d79911622d175279c96c0ba918c5383b215c603ebb5f02e9329434e3e82ca2b": {
+    "question": "Canadiens vs Utah",
+    "date": "2025-11-26",
+    "platform": "kalshi",
+    "Canadiens BUY": 0.44,
+    "Utah BUY": 0.59,
+    "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26MTLUTA",
+    "hash": "0d79911622d175279c96c0ba918c5383b215c603ebb5f02e9329434e3e82ca2b"
+  },
   "1381f6b1e40e28b39745c932100690376f63fb388adc3b0a19c52caea99c37ba": {
     "question": "Avalanche vs Sharks",
     "date": "2025-11-26",
     "platform": "kalshi",
-    "Avalanche BUY": 0.78,
-    "Sharks BUY": 0.32,
+    "Avalanche BUY": 0.75,
+    "Sharks BUY": 0.26,
     "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26SJCOL",
     "hash": "1381f6b1e40e28b39745c932100690376f63fb388adc3b0a19c52caea99c37ba"
   },
@@ -12,8 +48,8 @@
     "question": "Blackhawks vs Wild",
     "date": "2025-11-26",
     "platform": "kalshi",
-    "Blackhawks BUY": 0.55,
-    "Wild BUY": 0.54,
+    "Blackhawks BUY": 0.45,
+    "Wild BUY": 0.57,
     "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26MINCHI",
     "hash": "0778679991122c3fc7f436aa3d45db9cad5ecd6f5888922100bb639817ec32b5"
   },
@@ -21,8 +57,8 @@
     "question": "Capitals vs Jets",
     "date": "2025-11-26",
     "platform": "kalshi",
-    "Capitals BUY": 0.57,
-    "Jets BUY": 0.52,
+    "Capitals BUY": 0.58,
+    "Jets BUY": 0.44,
     "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26WPGWSH",
     "hash": "c3c107674a1ffed2cc43068c1c3c425ce423b27d41502ef58bcfa0d3ab878a57"
   },
@@ -30,8 +66,8 @@
     "question": "Blue Jackets vs Maple Leafs",
     "date": "2025-11-26",
     "platform": "kalshi",
-    "BlueJackets BUY": 0.6,
-    "MapleLeafs BUY": 0.5,
+    "BlueJackets BUY": 0.57,
+    "MapleLeafs BUY": 0.47,
     "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26TORCBJ",
     "hash": "37900c18d08700b9f72373bfb1b4ce2fdf7657bf7d3984005775e0d2e1991e71"
   },
@@ -39,8 +75,8 @@
     "question": "Blues vs Devils",
     "date": "2025-11-26",
     "platform": "kalshi",
-    "Blues BUY": 0.39,
-    "Devils BUY": 0.72,
+    "Blues BUY": 0.44,
+    "Devils BUY": 0.6,
     "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26STLNJ",
     "hash": "1d18fb56df563b754e3b5c3b6dcf3264f0a3fb2cbe24108ddaac4efef70e2e39"
   },
@@ -48,8 +84,8 @@
     "question": "Flyers vs Panthers",
     "date": "2025-11-26",
     "platform": "kalshi",
-    "Flyers BUY": 0.4,
-    "Panthers BUY": 0.68,
+    "Flyers BUY": 0.39,
+    "Panthers BUY": 0.63,
     "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26PHIFLA",
     "hash": "0a0e4e70e02c78e1746318eef5e22b83b86a72fb4768ab4af8599241b71877fc"
   },
@@ -57,7 +93,7 @@
     "question": "Hurricanes vs Rangers",
     "date": "2025-11-26",
     "platform": "kalshi",
-    "Hurricanes BUY": 0.68,
+    "Hurricanes BUY": 0.63,
     "Rangers BUY": 0.42,
     "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26NYRCAR",
     "hash": "5b738165380096053af8caffce537368552e9c596608f793dc04a88c5c6c66ed"
@@ -66,8 +102,8 @@
     "question": "Predators vs Red Wings",
     "date": "2025-11-26",
     "platform": "kalshi",
-    "Predators BUY": 0.42,
-    "RedWings BUY": 0.68,
+    "Predators BUY": 0.41,
+    "RedWings BUY": 0.63,
     "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26NSHDET",
     "hash": "f6a16c9a1bd01d6f3c7a142c0c5d97ce0510971d04f320f756861660f989c84a"
   },
@@ -75,8 +111,8 @@
     "question": "Flames vs Lightning",
     "date": "2025-11-26",
     "platform": "kalshi",
-    "Flames BUY": 0.34,
-    "Lightning BUY": 0.71,
+    "Flames BUY": 0.41,
+    "Lightning BUY": 0.61,
     "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26CGYTB",
     "hash": "f31b745021a40c5ab657b9cb22939707717d793e9bf8048a3135fbef4463566a"
   },
@@ -84,8 +120,8 @@
     "question": "Penguins vs Sabres",
     "date": "2025-11-26",
     "platform": "kalshi",
-    "Penguins BUY": 0.65,
-    "Sabres BUY": 0.46,
+    "Penguins BUY": 0.57,
+    "Sabres BUY": 0.43,
     "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26BUFPIT",
     "hash": "e9428728d84652a258facab51adfe2531e3a4db56e972343058fe53f98c2af08"
   },
@@ -93,8 +129,8 @@
     "question": "Bruins vs Islanders",
     "date": "2025-11-26",
     "platform": "kalshi",
-    "Bruins BUY": 0.48,
-    "Islanders BUY": 0.62,
+    "Bruins BUY": 0.45,
+    "Islanders BUY": 0.58,
     "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV26BOSNYI",
     "hash": "f10b42cc91c695b9f0d76ab30dc952f2590491dfc99ae481db9306a009de2126"
   },
@@ -102,72 +138,9 @@
     "question": "Oilers vs Stars",
     "date": "2025-11-25",
     "platform": "kalshi",
-    "Oilers BUY": 0.52,
-    "Stars BUY": 0.51,
+    "Oilers BUY": 0.55,
+    "Stars BUY": 0.45,
     "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV25DALEDM",
     "hash": "426495826ccc41ed15d7c39df458b2c78326131b806e92bfdb42bdd569a8f88e"
-  },
-  "cdb56c2f748acaa98b0a4d3e72e87cd2dc2ae3c74c4f589a1155cf008667d435": {
-    "question": "Golden Knights vs Utah",
-    "date": "2025-11-24",
-    "platform": "kalshi",
-    "GoldenKnights BUY": 0.53,
-    "Utah BUY": 0.49,
-    "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV24VGKUTA",
-    "hash": "cdb56c2f748acaa98b0a4d3e72e87cd2dc2ae3c74c4f589a1155cf008667d435"
-  },
-  "3295a558ba4bf94cd798b0c66b86699d524d066ae3cb24022c43dd7c9284de9c": {
-    "question": "Kings vs Senators",
-    "date": "2025-11-24",
-    "platform": "kalshi",
-    "Kings BUY": 0.59,
-    "Senators BUY": 0.43,
-    "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV24OTTLA",
-    "hash": "3295a558ba4bf94cd798b0c66b86699d524d066ae3cb24022c43dd7c9284de9c"
-  },
-  "a8c53992c6d389e4e902e7ace576cc3a47dda4b00de6c2089d778971de0fffee": {
-    "question": "Panthers vs Predators",
-    "date": "2025-11-24",
-    "platform": "kalshi",
-    "Panthers BUY": 0.59,
-    "Predators BUY": 0.42,
-    "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV24FLANSH",
-    "hash": "a8c53992c6d389e4e902e7ace576cc3a47dda4b00de6c2089d778971de0fffee"
-  },
-  "e240f967e54c92e5067cd895e2bc5c79275d5c5679b71cb7bc81e3ae57f70889": {
-    "question": "Blues vs Rangers",
-    "date": "2025-11-24",
-    "platform": "kalshi",
-    "Blues BUY": 0.43,
-    "Rangers BUY": 0.57,
-    "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV24STLNYR",
-    "hash": "e240f967e54c92e5067cd895e2bc5c79275d5c5679b71cb7bc81e3ae57f70889"
-  },
-  "b5eb62a5193f7d514f1749439db9103efc33e83388aaca06038cf83181ec7ae1": {
-    "question": "Flyers vs Lightning",
-    "date": "2025-11-24",
-    "platform": "kalshi",
-    "Flyers BUY": 0.41,
-    "Lightning BUY": 0.61,
-    "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV24PHITB",
-    "hash": "b5eb62a5193f7d514f1749439db9103efc33e83388aaca06038cf83181ec7ae1"
-  },
-  "1e9ea2b68d94bf325e48d07dca9958a84bdfa3b4895b8fef905d1b9dd32d3673": {
-    "question": "Devils vs Red Wings",
-    "date": "2025-11-24",
-    "platform": "kalshi",
-    "Devils BUY": 0.57,
-    "RedWings BUY": 0.45,
-    "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV24DETNJ",
-    "hash": "1e9ea2b68d94bf325e48d07dca9958a84bdfa3b4895b8fef905d1b9dd32d3673"
-  },
-  "c2f25ffb95b19c32678b0715f868fdac1ce9d0b52fa18fcdfa7e4c23c73141fe": {
-    "question": "Blue Jackets vs Capitals",
-    "date": "2025-11-24",
-    "platform": "kalshi",
-    "BlueJackets BUY": 0.41,
-    "Capitals BUY": 0.61,
-    "kalshi link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV24CBJWSH",
-    "hash": "c2f25ffb95b19c32678b0715f868fdac1ce9d0b52fa18fcdfa7e4c23c73141fe"
   }
 }

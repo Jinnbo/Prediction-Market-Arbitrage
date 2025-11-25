@@ -247,8 +247,8 @@
     "market_ticker": "KXNFLGAME-25DEC04DALDET-DAL",
     "game_date": "2025-12-04",
     "yes_bid": 22,
-    "yes_ask": 34,
-    "no_bid": 66,
+    "yes_ask": 36,
+    "no_bid": 64,
     "no_ask": 78
   },
   {
@@ -336,18 +336,18 @@
     "event_title": "Minnesota at Seattle",
     "market_ticker": "KXNFLGAME-25NOV30MINSEA-MIN",
     "game_date": "2025-11-30",
-    "yes_bid": 17,
+    "yes_bid": 18,
     "yes_ask": 19,
     "no_bid": 81,
-    "no_ask": 83
+    "no_ask": 82
   },
   {
     "event_title": "San Francisco at Cleveland",
     "market_ticker": "KXNFLGAME-25NOV30SFCLE-SF",
     "game_date": "2025-11-30",
     "yes_bid": 70,
-    "yes_ask": 72,
-    "no_bid": 28,
+    "yes_ask": 73,
+    "no_bid": 27,
     "no_ask": 30
   },
   {
@@ -463,8 +463,8 @@
     "market_ticker": "KXNFLGAME-25NOV30ARITB-ARI",
     "game_date": "2025-11-30",
     "yes_bid": 40,
-    "yes_ask": 42,
-    "no_bid": 58,
+    "yes_ask": 43,
+    "no_bid": 57,
     "no_ask": 60
   },
   {
@@ -507,18 +507,18 @@
     "event_title": "Kansas City at Dallas",
     "market_ticker": "KXNFLGAME-25NOV27KCDAL-KC",
     "game_date": "2025-11-27",
-    "yes_bid": 61,
+    "yes_bid": 60,
     "yes_ask": 62,
     "no_bid": 38,
-    "no_ask": 39
+    "no_ask": 40
   },
   {
     "event_title": "Kansas City at Dallas",
     "market_ticker": "KXNFLGAME-25NOV27KCDAL-DAL",
     "game_date": "2025-11-27",
     "yes_bid": 38,
-    "yes_ask": 39,
-    "no_bid": 61,
+    "yes_ask": 40,
+    "no_bid": 60,
     "no_ask": 62
   },
   {

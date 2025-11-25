@@ -4,20 +4,20 @@
     "date": "2025-11-28",
     "slug": "nfl-chi-phi-2025-11-28",
     "Bears BUY": 0.27,
-    "Eagles BUY": 0.74
+    "Eagles BUY": null
   },
   {
     "question": "Chiefs vs. Cowboys",
     "date": "2025-11-27",
     "slug": "nfl-kc-dal-2025-11-27",
-    "Chiefs BUY": 0.62,
-    "Cowboys BUY": 0.39
+    "Chiefs BUY": null,
+    "Cowboys BUY": null
   },
   {
     "question": "Packers vs. Lions",
     "date": "2025-11-27",
     "slug": "nfl-gb-det-2025-11-27",
-    "Packers BUY": null,
+    "Packers BUY": 0.44,
     "Lions BUY": 0.58
   },
   {
@@ -38,7 +38,7 @@
     "question": "49ers vs. Browns",
     "date": "2025-11-30",
     "slug": "nfl-sf-cle-2025-11-30",
-    "49ers BUY": 0.75,
+    "49ers BUY": 0.74,
     "Browns BUY": 0.45
   },
   {
@@ -129,7 +129,7 @@
     "question": "Steelers vs. Ravens",
     "date": "2025-12-07",
     "slug": "nfl-pit-bal-2025-12-07",
-    "Steelers BUY": 0.97,
+    "Steelers BUY": 0.93,
     "Ravens BUY": 0.87
   },
   {

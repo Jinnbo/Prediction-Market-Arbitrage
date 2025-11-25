@@ -1,14 +1,5 @@
 [
   {
-    "question": "Giants vs Patriots",
-    "date": "2025-12-01",
-    "kalshi": "Giants|0.24",
-    "polymarket": "Patriots|0.77",
-    "profit": -0.01,
-    "kalshi_link": "https://kalshi.com/markets/kxnflgame/professional-football-game/KXNFLGAME-25DEC01NYGNE",
-    "polymarket_link": "https://polymarket.com/event/nfl-nyg-ne-2025-12-01"
-  },
-  {
     "question": "Bills vs Steelers",
     "date": "2025-11-30",
     "kalshi": "Bills|0.65",
@@ -18,15 +9,6 @@
     "polymarket_link": "https://polymarket.com/event/nfl-buf-pit-2025-11-30"
   },
   {
-    "question": "Cowboys vs Lions",
-    "date": "2025-12-04",
-    "kalshi": "Cowboys|0.34",
-    "polymarket": "Lions|0.67",
-    "profit": -0.01,
-    "kalshi_link": "https://kalshi.com/markets/kxnflgame/professional-football-game/KXNFLGAME-25DEC04DALDET",
-    "polymarket_link": "https://polymarket.com/event/nfl-dal-det-2025-12-04"
-  },
-  {
     "question": "Falcons vs Jets",
     "date": "2025-11-30",
     "kalshi": "Falcons|0.57",
@@ -34,6 +16,15 @@
     "profit": -0.01,
     "kalshi_link": "https://kalshi.com/markets/kxnflgame/professional-football-game/KXNFLGAME-25NOV30ATLNYJ",
     "polymarket_link": "https://polymarket.com/event/nfl-atl-nyj-2025-11-30"
+  },
+  {
+    "question": "Giants vs Patriots",
+    "date": "2025-12-01",
+    "kalshi": "Giants|0.24",
+    "polymarket": "Patriots|0.77",
+    "profit": -0.01,
+    "kalshi_link": "https://kalshi.com/markets/kxnflgame/professional-football-game/KXNFLGAME-25DEC01NYGNE",
+    "polymarket_link": "https://polymarket.com/event/nfl-nyg-ne-2025-12-01"
   },
   {
     "question": "Buccaneers vs Cardinals",
@@ -63,15 +54,6 @@
     "polymarket_link": "https://polymarket.com/event/nfl-min-sea-2025-11-30"
   },
   {
-    "question": "Bears vs Eagles",
-    "date": "2025-11-28",
-    "kalshi": "Bears|0.28",
-    "polymarket": "Eagles|0.74",
-    "profit": -0.02,
-    "kalshi_link": "https://kalshi.com/markets/kxnflgame/professional-football-game/KXNFLGAME-25NOV28CHIPHI",
-    "polymarket_link": "https://polymarket.com/event/nfl-chi-phi-2025-11-28"
-  },
-  {
     "question": "Buccaneers vs Saints",
     "date": "2025-12-07",
     "kalshi": "Buccaneers|0.63",
@@ -79,6 +61,15 @@
     "profit": -0.03,
     "kalshi_link": "https://kalshi.com/markets/kxnflgame/professional-football-game/KXNFLGAME-25DEC07NOTB",
     "polymarket_link": "https://polymarket.com/event/nfl-no-tb-2025-12-07"
+  },
+  {
+    "question": "Cowboys vs Lions",
+    "date": "2025-12-04",
+    "kalshi": "Cowboys|0.36",
+    "polymarket": "Lions|0.67",
+    "profit": -0.03,
+    "kalshi_link": "https://kalshi.com/markets/kxnflgame/professional-football-game/KXNFLGAME-25DEC04DALDET",
+    "polymarket_link": "https://polymarket.com/event/nfl-dal-det-2025-12-04"
   },
   {
     "question": "Bengals vs Bills",
@@ -92,9 +83,9 @@
   {
     "question": "49ers vs Browns",
     "date": "2025-11-30",
-    "kalshi": "49ers|0.75",
+    "kalshi": "49ers|0.74",
     "polymarket": "Browns|0.31",
-    "profit": -0.06,
+    "profit": -0.05,
     "kalshi_link": "https://kalshi.com/markets/kxnflgame/professional-football-game/KXNFLGAME-25NOV30SFCLE",
     "polymarket_link": "https://polymarket.com/event/nfl-sf-cle-2025-11-30"
   },

@@ -47,8 +47,25 @@ class Polymarket:
                 questions.append(question)
                 clob_token_ids = json.loads(market.get("clobTokenIds", "[]"))
                 try:
-                    team1, team2 = question.replace(" ", "").split("vs.")
-                except ValueError:
+                    # Handle both "vs." and " vs " formats
+                    # First try "vs." format (traditional sports)
+                    if " vs " in question:
+                        # CS2 format: "Counter-Strike: Team1 vs Team2 (BO1)"
+                        # Remove prefix and suffix, then split
+                        clean_question = question
+                        if "Counter-Strike:" in clean_question:
+                            clean_question = clean_question.split("Counter-Strike:")[
+                                -1
+                            ].strip()
+                        if "(" in clean_question:
+                            clean_question = clean_question.split("(")[0].strip()
+                        team1, team2 = clean_question.split(" vs ", 1)
+                        team1 = team1.strip()
+                        team2 = team2.strip()
+                    else:
+                        # Traditional format: "Team1 vs. Team2"
+                        team1, team2 = question.replace(" ", "").split("vs.")
+                except (ValueError, IndexError):
                     continue
 
                 for i, token in enumerate(clob_token_ids):

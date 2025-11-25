@@ -3,45 +3,45 @@
     "event_title": "San Antonio vs Portland",
     "market_ticker": "KXNBAGAME-25NOV26SASPOR-SAS",
     "game_date": "2025-11-26",
-    "yes_bid": 58,
-    "yes_ask": 59,
-    "no_bid": 41,
-    "no_ask": 42
+    "yes_bid": 24,
+    "yes_ask": 50,
+    "no_bid": 50,
+    "no_ask": 76
   },
   {
     "event_title": "San Antonio vs Portland",
     "market_ticker": "KXNBAGAME-25NOV26SASPOR-POR",
     "game_date": "2025-11-26",
-    "yes_bid": 29,
-    "yes_ask": 52,
-    "no_bid": 48,
-    "no_ask": 71
+    "yes_bid": 26,
+    "yes_ask": 55,
+    "no_bid": 45,
+    "no_ask": 74
   },
   {
     "event_title": "Phoenix vs Sacramento",
     "market_ticker": "KXNBAGAME-25NOV26PHXSAC-SAC",
     "game_date": "2025-11-26",
-    "yes_bid": 29,
-    "yes_ask": 40,
-    "no_bid": 60,
-    "no_ask": 71
+    "yes_bid": 31,
+    "yes_ask": 33,
+    "no_bid": 67,
+    "no_ask": 69
   },
   {
     "event_title": "Phoenix vs Sacramento",
     "market_ticker": "KXNBAGAME-25NOV26PHXSAC-PHX",
     "game_date": "2025-11-26",
-    "yes_bid": 62,
-    "yes_ask": 65,
-    "no_bid": 35,
-    "no_ask": 38
+    "yes_bid": 68,
+    "yes_ask": 69,
+    "no_bid": 31,
+    "no_ask": 32
   },
   {
     "event_title": "Houston vs Golden State",
     "market_ticker": "KXNBAGAME-25NOV26HOUGSW-HOU",
     "game_date": "2025-11-26",
     "yes_bid": 52,
-    "yes_ask": 55,
-    "no_bid": 45,
+    "yes_ask": 54,
+    "no_bid": 46,
     "no_ask": 48
   },
   {
@@ -76,8 +76,8 @@
     "market_ticker": "KXNBAGAME-25NOV26MINOKC-OKC",
     "game_date": "2025-11-26",
     "yes_bid": 81,
-    "yes_ask": 82,
-    "no_bid": 18,
+    "yes_ask": 83,
+    "no_bid": 17,
     "no_ask": 19
   },
   {
@@ -102,19 +102,19 @@
     "event_title": "Milwaukee vs Miami",
     "market_ticker": "KXNBAGAME-25NOV26MILMIA-MIA",
     "game_date": "2025-11-26",
-    "yes_bid": 61,
-    "yes_ask": 76,
-    "no_bid": 24,
-    "no_ask": 39
+    "yes_bid": 62,
+    "yes_ask": 75,
+    "no_bid": 25,
+    "no_ask": 38
   },
   {
     "event_title": "Indiana vs Toronto",
     "market_ticker": "KXNBAGAME-25NOV26INDTOR-TOR",
     "game_date": "2025-11-26",
-    "yes_bid": 69,
+    "yes_bid": 72,
     "yes_ask": 84,
     "no_bid": 16,
-    "no_ask": 31
+    "no_ask": 28
   },
   {
     "event_title": "Indiana vs Toronto",
@@ -147,10 +147,10 @@
     "event_title": "Detroit vs Boston",
     "market_ticker": "KXNBAGAME-25NOV26DETBOS-DET",
     "game_date": "2025-11-26",
-    "yes_bid": 64,
-    "yes_ask": 67,
-    "no_bid": 33,
-    "no_ask": 36
+    "yes_bid": 65,
+    "yes_ask": 68,
+    "no_bid": 32,
+    "no_ask": 35
   },
   {
     "event_title": "Detroit vs Boston",
@@ -184,8 +184,8 @@
     "market_ticker": "KXNBAGAME-25NOV25ORLPHI-PHI",
     "game_date": "2025-11-25",
     "yes_bid": 46,
-    "yes_ask": 48,
-    "no_bid": 52,
+    "yes_ask": 47,
+    "no_bid": 53,
     "no_ask": 54
   },
   {
@@ -202,17 +202,17 @@
     "market_ticker": "KXNBAGAME-25NOV25ATLWAS-WAS",
     "game_date": "2025-11-25",
     "yes_bid": 18,
-    "yes_ask": 20,
-    "no_bid": 80,
+    "yes_ask": 19,
+    "no_bid": 81,
     "no_ask": 82
   },
   {
     "event_title": "Atlanta vs Washington",
     "market_ticker": "KXNBAGAME-25NOV25ATLWAS-ATL",
     "game_date": "2025-11-25",
-    "yes_bid": 80,
+    "yes_bid": 81,
     "yes_ask": 82,
     "no_bid": 18,
-    "no_ask": 20
+    "no_ask": 19
   }
 ]

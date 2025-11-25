@@ -1,0 +1,82 @@
+{
+  "f7a297f06e17e45ba6e4e98e773417465a4d72b35d722577fa6f1361ddb69019": {
+    "question": "B8 vs PARIVISION",
+    "date": "2025-11-25",
+    "slug": "cs2-b8-prv-2025-11-25",
+    "B8 BUY": 0.44,
+    "PARIVISION BUY": 0.57,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-b8-prv-2025-11-25",
+    "hash": "f7a297f06e17e45ba6e4e98e773417465a4d72b35d722577fa6f1361ddb69019"
+  },
+  "6b138949951cade3818206acffaf1c5451ef71cf0cbaccdb6ea8b4dcfb316c6f": {
+    "question": "Legacy vs RED Canids",
+    "date": "2025-11-25",
+    "slug": "cs2-lgc-red9-2025-11-25",
+    "Legacy BUY": 0.74,
+    "REDCanids BUY": 0.27,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-lgc-red9-2025-11-25",
+    "hash": "6b138949951cade3818206acffaf1c5451ef71cf0cbaccdb6ea8b4dcfb316c6f"
+  },
+  "46bb773b8613bb2dbb470fdf8cddb54fc06ab390e338e101eadd9f1854a2c6dc": {
+    "question": "fnatic vs Imperial",
+    "date": "2025-11-25",
+    "slug": "cs2-fnc-imp11-2025-11-25",
+    "fnatic BUY": null,
+    "Imperial BUY": 0.45,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-fnc-imp11-2025-11-25",
+    "hash": "46bb773b8613bb2dbb470fdf8cddb54fc06ab390e338e101eadd9f1854a2c6dc"
+  },
+  "25eed845bab16b64cfb6e42c1fb6c358955ee6e72676b06d8138c077f80ad51d": {
+    "question": "FaZe vs NIP",
+    "date": "2025-11-25",
+    "slug": "cs2-faze-nip-2025-11-25",
+    "FaZe BUY": 0.63,
+    "NIP BUY": 0.38,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-faze-nip-2025-11-25",
+    "hash": "25eed845bab16b64cfb6e42c1fb6c358955ee6e72676b06d8138c077f80ad51d"
+  },
+  "b989dce8535e7a6dc45a64dda4d2a4796c8f6f81189ae8ff944e068ca4d541a6": {
+    "question": "GamerLegion vs Rare Atom",
+    "date": "2025-11-25",
+    "slug": "cs2-gl1-ra1-2025-11-25",
+    "GamerLegion BUY": 0.78,
+    "RareAtom BUY": 0.23,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-gl1-ra1-2025-11-25",
+    "hash": "b989dce8535e7a6dc45a64dda4d2a4796c8f6f81189ae8ff944e068ca4d541a6"
+  },
+  "0c0dc2cd6fb3123c5aeb2d25296e4bb06b769979b696debd3b2cd17f227792a4": {
+    "question": "FlyQuest vs Fluxo",
+    "date": "2025-11-25",
+    "slug": "cs2-fly-fx-2025-11-25",
+    "FlyQuest BUY": 0.6,
+    "Fluxo BUY": 0.41,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-fly-fx-2025-11-25",
+    "hash": "0c0dc2cd6fb3123c5aeb2d25296e4bb06b769979b696debd3b2cd17f227792a4"
+  },
+  "762c7c2e76d2c37c67dbe4368c0f3156dea6ad4e9c5fb5123a82619b196ed216": {
+    "question": "The Huns Esports vs Lynn Vision",
+    "date": "2025-11-25",
+    "slug": "cs2-the9-lvg-2025-11-25",
+    "TheHunsEsports BUY": 0.32,
+    "LynnVision BUY": 0.69,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-the9-lvg-2025-11-25",
+    "hash": "762c7c2e76d2c37c67dbe4368c0f3156dea6ad4e9c5fb5123a82619b196ed216"
+  },
+  "dc877f7a174659514a8cd5ddee91aa498f80537cbcd6ffe596b8f5c972433d44": {
+    "question": "M80 vs NRG",
+    "date": "2025-11-25",
+    "slug": "cs2-m80-nrg-2025-11-25",
+    "M80 BUY": 0.67,
+    "NRG BUY": 0.34,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-m80-nrg-2025-11-25",
+    "hash": "dc877f7a174659514a8cd5ddee91aa498f80537cbcd6ffe596b8f5c972433d44"
+  }
+}

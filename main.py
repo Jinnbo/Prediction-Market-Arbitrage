@@ -4,7 +4,7 @@ import argparse
 import asyncio
 import logging
 
-from sports import cfb, nba, nfl, nhl
+from sports import cfb, cs2, nba, nfl, nhl
 
 logger = logging.getLogger(__name__)
 
@@ -20,7 +20,7 @@ async def main(quiet: bool = False):
     else:
         logging.disable(logging.CRITICAL)
 
-    await asyncio.gather(cfb(), nba(), nfl(), nhl())
+    await asyncio.gather(cfb(), cs2(), nba(), nfl(), nhl())
 
 
 if __name__ == "__main__":
