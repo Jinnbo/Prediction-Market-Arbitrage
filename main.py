@@ -21,7 +21,8 @@ async def main(quiet: bool = False):
     else:
         logging.disable(logging.CRITICAL)
 
-    await asyncio.gather(cfb(), cs2(), nba(), nfl(), nhl())
+    # await asyncio.gather(cfb(), cs2(), nba(), nfl(), nhl())
+    await asyncio.gather(nba(), nfl())
 
 
 if __name__ == "__main__":

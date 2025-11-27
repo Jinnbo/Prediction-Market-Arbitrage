@@ -1,10 +1,11 @@
 """Normalizes sports market data from different prediction market platforms."""
 
 import hashlib
-import json
 import os
 from collections import defaultdict
 from typing import Any
+
+from utils import save_to_json
 
 from .constants import (
     CFB_KALSHI_BASE_URL,
@@ -82,13 +83,13 @@ class NormalizeSportsMarket:
         normalized_polymarket = self._normalize_polymarket_markets()
 
         if save:
-            self._save_to_json(
+            save_to_json(
                 normalized_kalshi,
                 path=os.path.join(
                     output_dir, f"{self.output_prefix}_markets_kalshi_normalized.json"
                 ),
             )
-            self._save_to_json(
+            save_to_json(
                 normalized_polymarket,
                 path=os.path.join(
                     output_dir,
@@ -198,12 +199,6 @@ class NormalizeSportsMarket:
             self.polymarket_markets
         )
         return self.polymarket_markets
-
-    def _save_to_json(self, data: list[dict], path: str) -> None:
-        """Save data to JSON file."""
-        with open(path, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2)
-        print(f"Saved {len(data)} markets to {path}")
 
     def _create_hash_and_save_as_map(self, data: list[dict]) -> dict:
         """Create hash for each entry and return as dictionary map."""

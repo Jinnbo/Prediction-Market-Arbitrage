@@ -2,16 +2,22 @@
 
 import datetime
 import json
+import os
 from datetime import datetime as dt
 from typing import Any
 
 from dateutil import tz
 
 
-def save_to_json(data: Any, path: str) -> None:
-    """Save data to JSON file."""
-    with open(path, "w") as f:
+def save_to_json(data: Any, path: str) -> bool:
+    """Save data to JSON file if SAVE env var is truthy. Returns True when saved."""
+    should_save = os.getenv("SAVE") in {"1", "true", "True"}
+    if not should_save:
+        return False
+
+    with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
+    return True
 
 
 def utc_to_est(utc_date_str: str | None) -> str | None:
