@@ -4,7 +4,7 @@ import logging
 import os
 from typing import Any
 
-from supabase import write_sports_arbitrage_to_supabase
+from supabase_client import write_sports_arbitrage_to_supabase
 from utils import save_to_json
 
 logger = logging.getLogger(__name__)
@@ -228,10 +228,8 @@ class ArbitrageSportsCalculator:
                     "profit": round(profit, 4),
                     "kalshi_link": kalshi_link,
                     "polymarket_link": polymarket_link,
+                    "sport": self.sport,
                 }
-                write_sports_arbitrage_to_supabase(
-                    opportunity=opportunity, sport=self.sport
-                )
                 opportunities.append(opportunity)
 
         # Sort by profit (descending) - most profitable first
@@ -239,6 +237,9 @@ class ArbitrageSportsCalculator:
 
         self.opportunities = opportunities
         logger.info("Found %d profitable arbitrage opportunities", len(opportunities))
+
+        # Write to Supabase
+        write_sports_arbitrage_to_supabase(opportunities)
 
         # Save results
         self._save_to_json()

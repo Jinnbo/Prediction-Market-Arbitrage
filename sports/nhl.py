@@ -8,7 +8,7 @@ from arbitrage import ArbitrageSportsCalculator
 from kalshi import Kalshi
 from normalize import NormalizeSportsMarket
 from polymarket import Polymarket
-from supabase import truncate_table
+from supabase_client import delete_by_sport
 
 logger = logging.getLogger(__name__)
 
@@ -41,10 +41,14 @@ async def nhl():
             polymarket_markets=polymarket,
             sport="nhl",
         )
-        truncate_table("nhl")
+        delete_by_sport("nhl")
         arbitrage_calculator.calculate()
 
         script_elapsed_time = time.time() - script_start_time
         logger.info(
             "Script completed successfully in %.2f seconds", script_elapsed_time
         )
+
+        # Wait 30 seconds before next iteration to prevent rate limiting
+        logger.info("Waiting 30 seconds before next iteration...")
+        await asyncio.sleep(30)

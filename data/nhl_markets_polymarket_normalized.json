@@ -1,0 +1,982 @@
+{
+  "55a47cbfce5d1d734d9775f1db06bfbda9b75f20b368e9bb5437802a3bb6c62d": {
+    "question": "Capitals vs Islanders",
+    "date": "2025-11-30",
+    "slug": "nhl-wsh-nyi-2025-11-30",
+    "Capitals BUY": 0.55,
+    "Islanders BUY": 0.46,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-wsh-nyi-2025-11-30",
+    "hash": "55a47cbfce5d1d734d9775f1db06bfbda9b75f20b368e9bb5437802a3bb6c62d"
+  },
+  "be23683ad2c2dff17e1cf218ee9d9d76f5f2f3d9e88057d073c8c1bf6dab9ca9": {
+    "question": "Ducks vs Blackhawks",
+    "date": "2025-11-30",
+    "slug": "nhl-ana-chi-2025-11-30",
+    "Ducks BUY": 0.54,
+    "Blackhawks BUY": 0.47,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-ana-chi-2025-11-30",
+    "hash": "be23683ad2c2dff17e1cf218ee9d9d76f5f2f3d9e88057d073c8c1bf6dab9ca9"
+  },
+  "d3f2f981f7ce13341ab74713d0b18f47c04f34c035dfcc3d8febfa6ceae81ff1": {
+    "question": "Flames vs Hurricanes",
+    "date": "2025-11-30",
+    "slug": "nhl-cal-car-2025-11-30",
+    "Flames BUY": 0.32,
+    "Hurricanes BUY": 0.69,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-cal-car-2025-11-30",
+    "hash": "d3f2f981f7ce13341ab74713d0b18f47c04f34c035dfcc3d8febfa6ceae81ff1"
+  },
+  "705e221a37926d9d5d82914aa3fc29280f10f0e51a4d7ac2bce1e23c104b25ef": {
+    "question": "Senators vs Stars",
+    "date": "2025-11-30",
+    "slug": "nhl-ott-dal-2025-11-30",
+    "Senators BUY": 0.43,
+    "Stars BUY": 0.58,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-ott-dal-2025-11-30",
+    "hash": "705e221a37926d9d5d82914aa3fc29280f10f0e51a4d7ac2bce1e23c104b25ef"
+  },
+  "19df7c30a382c394a2f0b57f307c3bbabd2f71ad9a79769cae2b248949913066": {
+    "question": "Penguins vs Flyers",
+    "date": "2025-12-01",
+    "slug": "nhl-pit-phi-2025-12-01",
+    "Penguins BUY": 0.5,
+    "Flyers BUY": 0.52,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-pit-phi-2025-12-01",
+    "hash": "19df7c30a382c394a2f0b57f307c3bbabd2f71ad9a79769cae2b248949913066"
+  },
+  "957841b2f9204b361437c39d648525a1fe32233b32be0ed72491f31b3ae4faab": {
+    "question": "Blue Jackets vs Devils",
+    "date": "2025-12-01",
+    "slug": "nhl-cbj-nj-2025-12-01",
+    "BlueJackets BUY": 0.41,
+    "Devils BUY": 0.61,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-cbj-nj-2025-12-01",
+    "hash": "957841b2f9204b361437c39d648525a1fe32233b32be0ed72491f31b3ae4faab"
+  },
+  "4fe64e861c997bb1e3f707e49d00452581ceb5d4014fb6039251ac40bcdb6e0d": {
+    "question": "Jets vs Sabres",
+    "date": "2025-12-01",
+    "slug": "nhl-wpg-buf-2025-12-01",
+    "Jets BUY": 0.53,
+    "Sabres BUY": 0.51,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-wpg-buf-2025-12-01",
+    "hash": "4fe64e861c997bb1e3f707e49d00452581ceb5d4014fb6039251ac40bcdb6e0d"
+  },
+  "8dba2ffb37009f928c72e55d3fb4cd47f8c2e8439713187c663788337e0e7830": {
+    "question": "Ducks vs Blues",
+    "date": "2025-12-01",
+    "slug": "nhl-ana-stl-2025-12-01",
+    "Ducks BUY": 0.52,
+    "Blues BUY": 0.52,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-ana-stl-2025-12-01",
+    "hash": "8dba2ffb37009f928c72e55d3fb4cd47f8c2e8439713187c663788337e0e7830"
+  },
+  "7aed53fe2f5ba39c0937e045e4daeb9f762f0e234524838de4618832665f98c4": {
+    "question": "Utah vs Sharks",
+    "date": "2025-12-01",
+    "slug": "nhl-utah-sj-2025-12-01",
+    "Utah BUY": 0.61,
+    "Sharks BUY": 0.44,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-utah-sj-2025-12-01",
+    "hash": "7aed53fe2f5ba39c0937e045e4daeb9f762f0e234524838de4618832665f98c4"
+  },
+  "984a62ffdb555b686c5ab012686249c22a40616ac2bd8ac3978230c898a486dd": {
+    "question": "Maple Leafs vs Panthers",
+    "date": "2025-12-02",
+    "slug": "nhl-tor-fla-2025-12-02",
+    "MapleLeafs BUY": 0.36,
+    "Panthers BUY": 0.69,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-tor-fla-2025-12-02",
+    "hash": "984a62ffdb555b686c5ab012686249c22a40616ac2bd8ac3978230c898a486dd"
+  },
+  "cae464489d69cf8e4cf7def20516c9b0df7d7d909584a2f3cce68a2afaaee8cd": {
+    "question": "Stars vs Rangers",
+    "date": "2025-12-02",
+    "slug": "nhl-dal-nyr-2025-12-02",
+    "Stars BUY": 0.54,
+    "Rangers BUY": 0.55,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-dal-nyr-2025-12-02",
+    "hash": "cae464489d69cf8e4cf7def20516c9b0df7d7d909584a2f3cce68a2afaaee8cd"
+  },
+  "0d3d70560a1a2cc1cd0382a9e1255f58b3dcb1e0664fdffb9931cabf8e06e61e": {
+    "question": "Lightning vs Islanders",
+    "date": "2025-12-13",
+    "slug": "nhl-tb-nyi-2025-12-13",
+    "Lightning BUY": 0.96,
+    "Islanders BUY": 0.48,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-tb-nyi-2025-12-13",
+    "hash": "0d3d70560a1a2cc1cd0382a9e1255f58b3dcb1e0664fdffb9931cabf8e06e61e"
+  },
+  "6e5e0e6a998f3933d1fc164adb614a1d20fbffc350a1359d86834611a9f3a799": {
+    "question": "Senators vs Canadiens",
+    "date": "2025-12-02",
+    "slug": "nhl-ott-mon-2025-12-02",
+    "Senators BUY": 0.54,
+    "Canadiens BUY": 0.54,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-ott-mon-2025-12-02",
+    "hash": "6e5e0e6a998f3933d1fc164adb614a1d20fbffc350a1359d86834611a9f3a799"
+  },
+  "283dc6c82b3d65e87eaa097b95812816159d0d46a071ad6b612ee29a31efbf8f": {
+    "question": "Bruins vs Red Wings",
+    "date": "2025-12-02",
+    "slug": "nhl-bos-det-2025-12-02",
+    "Bruins BUY": 0.51,
+    "RedWings BUY": 0.59,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-bos-det-2025-12-02",
+    "hash": "283dc6c82b3d65e87eaa097b95812816159d0d46a071ad6b612ee29a31efbf8f"
+  },
+  "385ae14b6c168866e4ac70a66dbaccac9eba4b197a65aeb2c78a9672dd3bee33": {
+    "question": "Flames vs Predators",
+    "date": "2025-12-02",
+    "slug": "nhl-cal-nsh-2025-12-02",
+    "Flames BUY": 0.54,
+    "Predators BUY": 0.55,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-cal-nsh-2025-12-02",
+    "hash": "385ae14b6c168866e4ac70a66dbaccac9eba4b197a65aeb2c78a9672dd3bee33"
+  },
+  "59a642e5cd949f14731ee750bfc5012810cf4cc1f5921636938426ef135fb3ff": {
+    "question": "Canucks vs Avalanche",
+    "date": "2025-12-02",
+    "slug": "nhl-van-col-2025-12-02",
+    "Canucks BUY": 0.31,
+    "Avalanche BUY": 0.79,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-van-col-2025-12-02",
+    "hash": "59a642e5cd949f14731ee750bfc5012810cf4cc1f5921636938426ef135fb3ff"
+  },
+  "b5665dda5780c6c28ae3c9ee34d768f1d2714cdc134eeabe3e55a7509e1bdcce": {
+    "question": "Wild vs Oilers",
+    "date": "2025-12-02",
+    "slug": "nhl-min-edm-2025-12-02",
+    "Wild BUY": 0.55,
+    "Oilers BUY": 0.52,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-min-edm-2025-12-02",
+    "hash": "b5665dda5780c6c28ae3c9ee34d768f1d2714cdc134eeabe3e55a7509e1bdcce"
+  },
+  "37f068238790a3d1ef9ff7ca40558ac7740c1b1b665322016e7b4c8c6913ecd2": {
+    "question": "Blackhawks vs Golden Knights",
+    "date": "2025-12-02",
+    "slug": "nhl-chi-las-2025-12-02",
+    "Blackhawks BUY": 0.34,
+    "GoldenKnights BUY": 0.7,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-chi-las-2025-12-02",
+    "hash": "37f068238790a3d1ef9ff7ca40558ac7740c1b1b665322016e7b4c8c6913ecd2"
+  },
+  "8b8a1fb12d75bb6b4ce361d5a6484ef9007e23d33674dee502e4ff4ffc84f032": {
+    "question": "Capitals vs Kings",
+    "date": "2025-12-02",
+    "slug": "nhl-wsh-lak-2025-12-02",
+    "Capitals BUY": 0.49,
+    "Kings BUY": 0.55,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-wsh-lak-2025-12-02",
+    "hash": "8b8a1fb12d75bb6b4ce361d5a6484ef9007e23d33674dee502e4ff4ffc84f032"
+  },
+  "96ae5f78ca3086902020f2caf5da42c3721de565be7a1393a03e8483b42cda67": {
+    "question": "Stars vs Devils",
+    "date": "2025-12-03",
+    "slug": "nhl-dal-nj-2025-12-03",
+    "Stars BUY": 0.57,
+    "Devils BUY": 0.56,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-dal-nj-2025-12-03",
+    "hash": "96ae5f78ca3086902020f2caf5da42c3721de565be7a1393a03e8483b42cda67"
+  },
+  "a6f849a6066ddcc78afd89f5965c4c1685d2d7dad7361782e5e6f13dfe7f8b96": {
+    "question": "Sabres vs Flyers",
+    "date": "2025-12-03",
+    "slug": "nhl-buf-phi-2025-12-03",
+    "Sabres BUY": 0.47,
+    "Flyers BUY": 0.61,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-buf-phi-2025-12-03",
+    "hash": "a6f849a6066ddcc78afd89f5965c4c1685d2d7dad7361782e5e6f13dfe7f8b96"
+  },
+  "832542409347234681625fe15bf842b09b9256b24f4c9f01ddd89752534d1366": {
+    "question": "Jets vs Canadiens",
+    "date": "2025-12-03",
+    "slug": "nhl-wpg-mon-2025-12-03",
+    "Jets BUY": 0.61,
+    "Canadiens BUY": 0.52,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-wpg-mon-2025-12-03",
+    "hash": "832542409347234681625fe15bf842b09b9256b24f4c9f01ddd89752534d1366"
+  },
+  "7027593472bffaddd688a2d6acfeaa5e870e14c9ccd0e489bfaebd8e7562a221": {
+    "question": "Utah vs Ducks",
+    "date": "2025-12-03",
+    "slug": "nhl-utah-ana-2025-12-03",
+    "Utah BUY": 0.51,
+    "Ducks BUY": 0.6,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-utah-ana-2025-12-03",
+    "hash": "7027593472bffaddd688a2d6acfeaa5e870e14c9ccd0e489bfaebd8e7562a221"
+  },
+  "b6172b7508ad5a37d8b2da59eaa117212f2a8fe78cd459f8bba941fdb21e35b1": {
+    "question": "Capitals vs Sharks",
+    "date": "2025-12-03",
+    "slug": "nhl-wsh-sj-2025-12-03",
+    "Capitals BUY": 0.57,
+    "Sharks BUY": 0.54,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-wsh-sj-2025-12-03",
+    "hash": "b6172b7508ad5a37d8b2da59eaa117212f2a8fe78cd459f8bba941fdb21e35b1"
+  },
+  "e96e123d91995690243f90c250f2b7e9e4ea814b77fdce372c219f14958561a3": {
+    "question": "Predators vs Panthers",
+    "date": "2025-12-04",
+    "slug": "nhl-nsh-fla-2025-12-04",
+    "Predators BUY": 0.3,
+    "Panthers BUY": 0.73,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-nsh-fla-2025-12-04",
+    "hash": "e96e123d91995690243f90c250f2b7e9e4ea814b77fdce372c219f14958561a3"
+  },
+  "8b7cd5c2d10cece7a1f0997b04b0646e575ea37d3d45a851ff25ba5118e491c4": {
+    "question": "Red Wings vs Blue Jackets",
+    "date": "2025-12-04",
+    "slug": "nhl-det-cbj-2025-12-04",
+    "RedWings BUY": 0.54,
+    "BlueJackets BUY": 0.6,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-det-cbj-2025-12-04",
+    "hash": "8b7cd5c2d10cece7a1f0997b04b0646e575ea37d3d45a851ff25ba5118e491c4"
+  },
+  "bd7aa0518701f29fc950fc492ae5de154e8b7da49622d3924ba785b74886f811": {
+    "question": "Penguins vs Lightning",
+    "date": "2025-12-04",
+    "slug": "nhl-pit-tb-2025-12-04",
+    "Penguins BUY": 0.48,
+    "Lightning BUY": 0.67,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-pit-tb-2025-12-04",
+    "hash": "bd7aa0518701f29fc950fc492ae5de154e8b7da49622d3924ba785b74886f811"
+  },
+  "e9f0b15809b13c63cb89d77165b9aed0798f2b891c095a464a62c0db06a572c8": {
+    "question": "Rangers vs Senators",
+    "date": "2025-12-04",
+    "slug": "nhl-nyr-ott-2025-12-04",
+    "Rangers BUY": 0.71,
+    "Senators BUY": 0.61,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-nyr-ott-2025-12-04",
+    "hash": "e9f0b15809b13c63cb89d77165b9aed0798f2b891c095a464a62c0db06a572c8"
+  },
+  "ab0367b7d168ac5b437699f213ff3d5a8713a2589dca8bee6e50eff895ad516b": {
+    "question": "Avalanche vs Islanders",
+    "date": "2025-12-04",
+    "slug": "nhl-col-nyi-2025-12-04",
+    "Avalanche BUY": 0.62,
+    "Islanders BUY": 0.45,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-col-nyi-2025-12-04",
+    "hash": "ab0367b7d168ac5b437699f213ff3d5a8713a2589dca8bee6e50eff895ad516b"
+  },
+  "7c97478da2c6d73dec1a5e5032b511e36b8ffaba25cdf6d653659560b1798c1c": {
+    "question": "Maple Leafs vs Hurricanes",
+    "date": "2025-12-04",
+    "slug": "nhl-tor-car-2025-12-04",
+    "MapleLeafs BUY": 0.35,
+    "Hurricanes BUY": 0.71,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-tor-car-2025-12-04",
+    "hash": "7c97478da2c6d73dec1a5e5032b511e36b8ffaba25cdf6d653659560b1798c1c"
+  },
+  "b7041ada9f3073175bf55fefc66fbc5fbd458405b3bde7fe973a4696d139528a": {
+    "question": "Blues vs Bruins",
+    "date": "2025-12-04",
+    "slug": "nhl-stl-bos-2025-12-04",
+    "Blues BUY": 0.3,
+    "Bruins BUY": 0.78,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-stl-bos-2025-12-04",
+    "hash": "b7041ada9f3073175bf55fefc66fbc5fbd458405b3bde7fe973a4696d139528a"
+  },
+  "e9209e24faa42ad6ac69e915ab50cd426199158242a7d1e4df2e069693a218dc": {
+    "question": "Kraken vs Oilers",
+    "date": "2025-12-04",
+    "slug": "nhl-sea-edm-2025-12-04",
+    "Kraken BUY": 0.57,
+    "Oilers BUY": 0.56,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-sea-edm-2025-12-04",
+    "hash": "e9209e24faa42ad6ac69e915ab50cd426199158242a7d1e4df2e069693a218dc"
+  },
+  "1c16c3718a6ab613855a403cefa02da13dba2fa6f91f4c2181a7eee607a216c0": {
+    "question": "Wild vs Flames",
+    "date": "2025-12-04",
+    "slug": "nhl-min-cal-2025-12-04",
+    "Wild BUY": 0.62,
+    "Flames BUY": 0.45,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-min-cal-2025-12-04",
+    "hash": "1c16c3718a6ab613855a403cefa02da13dba2fa6f91f4c2181a7eee607a216c0"
+  },
+  "11d343315b44b913ab41170db42c33987b3f5b43a470e1f73a91db92bfbba0b9": {
+    "question": "Blackhawks vs Kings",
+    "date": "2025-12-06",
+    "slug": "nhl-chi-lak-2025-12-07",
+    "Blackhawks BUY": 0.29,
+    "Kings BUY": 0.87,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-chi-lak-2025-12-07",
+    "hash": "11d343315b44b913ab41170db42c33987b3f5b43a470e1f73a91db92bfbba0b9"
+  },
+  "e55e59f184e0cb09146d57bf13b2e97ddb4ea9f9d8318fdc7ce77ae2076306bb": {
+    "question": "Sabres vs Jets",
+    "date": "2025-12-05",
+    "slug": "nhl-buf-wpg-2025-12-06",
+    "Sabres BUY": 0.87,
+    "Jets BUY": 0.87,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-buf-wpg-2025-12-06",
+    "hash": "e55e59f184e0cb09146d57bf13b2e97ddb4ea9f9d8318fdc7ce77ae2076306bb"
+  },
+  "2a269f1ab7e1f366f60ef3e887d07962ffd775a9e1779e44531146e141d27018": {
+    "question": "Golden Knights vs Devils",
+    "date": "2025-12-05",
+    "slug": "nhl-las-nj-2025-12-06",
+    "GoldenKnights BUY": 0.86,
+    "Devils BUY": 0.86,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-las-nj-2025-12-06",
+    "hash": "2a269f1ab7e1f366f60ef3e887d07962ffd775a9e1779e44531146e141d27018"
+  },
+  "8a8cb874ba39300b8636e696712c3792f3a691b6d65028e7fed185e7eb517dfa": {
+    "question": "Sharks vs Stars",
+    "date": "2025-12-05",
+    "slug": "nhl-sj-dal-2025-12-06",
+    "Sharks BUY": 0.86,
+    "Stars BUY": 0.87,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-sj-dal-2025-12-06",
+    "hash": "8a8cb874ba39300b8636e696712c3792f3a691b6d65028e7fed185e7eb517dfa"
+  },
+  "46746de15be2f2248ac336e83b84f1799aa3f4d57eaa9c7939c0834e4bf5d505": {
+    "question": "Utah vs Canucks",
+    "date": "2025-12-05",
+    "slug": "nhl-utah-van-2025-12-06",
+    "Utah BUY": 0.96,
+    "Canucks BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-utah-van-2025-12-06",
+    "hash": "46746de15be2f2248ac336e83b84f1799aa3f4d57eaa9c7939c0834e4bf5d505"
+  },
+  "e59aebfe4a2a5de753149bf74abc01ddedb42d1d37f8d59943e70af93ccd5ac9": {
+    "question": "Capitals vs Ducks",
+    "date": "2025-12-05",
+    "slug": "nhl-wsh-ana-2025-12-06",
+    "Capitals BUY": 0.87,
+    "Ducks BUY": 0.87,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-wsh-ana-2025-12-06",
+    "hash": "e59aebfe4a2a5de753149bf74abc01ddedb42d1d37f8d59943e70af93ccd5ac9"
+  },
+  "6a471dc1e2498f651b6988aea01bd0716cdd8f31c0a7e00289059b969e9a1713": {
+    "question": "Avalanche vs Rangers",
+    "date": "2025-12-06",
+    "slug": "nhl-col-nyr-2025-12-06",
+    "Avalanche BUY": 0.83,
+    "Rangers BUY": 0.35,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-col-nyr-2025-12-06",
+    "hash": "6a471dc1e2498f651b6988aea01bd0716cdd8f31c0a7e00289059b969e9a1713"
+  },
+  "1bc5062d742c07629146c400348f26bfb1af0243791d5e6d368c0f9f438921ca": {
+    "question": "Blue Jackets vs Panthers",
+    "date": "2025-12-06",
+    "slug": "nhl-cbj-fla-2025-12-06",
+    "BlueJackets BUY": 0.44,
+    "Panthers BUY": 0.69,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-cbj-fla-2025-12-06",
+    "hash": "1bc5062d742c07629146c400348f26bfb1af0243791d5e6d368c0f9f438921ca"
+  },
+  "b8c655ae3218a9f0a3a398002c034f2bd8bc868f5f8a43926e15c72b0ea38b61": {
+    "question": "Canadiens vs Maple Leafs",
+    "date": "2025-12-06",
+    "slug": "nhl-mon-tor-2025-12-07",
+    "Canadiens BUY": 0.96,
+    "MapleLeafs BUY": 0.95,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-mon-tor-2025-12-07",
+    "hash": "b8c655ae3218a9f0a3a398002c034f2bd8bc868f5f8a43926e15c72b0ea38b61"
+  },
+  "8c66c49427c54b16f11c5ed78de7d2a104fa5e7c1717add9f1814c5caf88169f": {
+    "question": "Islanders vs Lightning",
+    "date": "2025-12-06",
+    "slug": "nhl-nyi-tb-2025-12-07",
+    "Islanders BUY": 0.96,
+    "Lightning BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-nyi-tb-2025-12-07",
+    "hash": "8c66c49427c54b16f11c5ed78de7d2a104fa5e7c1717add9f1814c5caf88169f"
+  },
+  "78d373932c8f0ef440e2a1231e6888a2e3f22fe65184e8f18f4f2913c38d85b9": {
+    "question": "Blues vs Senators",
+    "date": "2025-12-06",
+    "slug": "nhl-stl-ott-2025-12-07",
+    "Blues BUY": 0.95,
+    "Senators BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-stl-ott-2025-12-07",
+    "hash": "78d373932c8f0ef440e2a1231e6888a2e3f22fe65184e8f18f4f2913c38d85b9"
+  },
+  "5e52441d7c0d72f36adb3ab596fbadec84da7a5a75dc5e8f9119ba8993556977": {
+    "question": "Predators vs Hurricanes",
+    "date": "2025-12-06",
+    "slug": "nhl-nsh-car-2025-12-07",
+    "Predators BUY": 0.2,
+    "Hurricanes BUY": 0.87,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-nsh-car-2025-12-07",
+    "hash": "5e52441d7c0d72f36adb3ab596fbadec84da7a5a75dc5e8f9119ba8993556977"
+  },
+  "6e2ef02380e8c386ce0926f775449d41f520cbff79b1ed34b810508c09f110e5": {
+    "question": "Utah vs Flames",
+    "date": "2025-12-06",
+    "slug": "nhl-utah-cal-2025-12-07",
+    "Utah BUY": 0.96,
+    "Flames BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-utah-cal-2025-12-07",
+    "hash": "6e2ef02380e8c386ce0926f775449d41f520cbff79b1ed34b810508c09f110e5"
+  },
+  "1a555940af4b3af526187c1eac6478fbc14312971fccae6f792e1a9392de21e9": {
+    "question": "Devils vs Bruins",
+    "date": "2025-12-06",
+    "slug": "nhl-nj-bos-2025-12-07",
+    "Devils BUY": 0.96,
+    "Bruins BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-nj-bos-2025-12-07",
+    "hash": "1a555940af4b3af526187c1eac6478fbc14312971fccae6f792e1a9392de21e9"
+  },
+  "2461335bc5dc6dfbb484b1a16bb2333a0940688e08214d80c5f43908caf155c6": {
+    "question": "Red Wings vs Kraken",
+    "date": "2025-12-06",
+    "slug": "nhl-det-sea-2025-12-07",
+    "RedWings BUY": 0.95,
+    "Kraken BUY": 0.86,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-det-sea-2025-12-07",
+    "hash": "2461335bc5dc6dfbb484b1a16bb2333a0940688e08214d80c5f43908caf155c6"
+  },
+  "00f2dadd1dcc0e324e9d82be5aeb5b5a8d76394c15911412f2c105b68cd1fecc": {
+    "question": "Wild vs Canucks",
+    "date": "2025-12-06",
+    "slug": "nhl-min-van-2025-12-07",
+    "Wild BUY": 0.96,
+    "Canucks BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-min-van-2025-12-07",
+    "hash": "00f2dadd1dcc0e324e9d82be5aeb5b5a8d76394c15911412f2c105b68cd1fecc"
+  },
+  "d8ba3401a9bf8f4452ead7dde42cc3deb18f584bb520404132e99f10bea7f34a": {
+    "question": "Jets vs Oilers",
+    "date": "2025-12-06",
+    "slug": "nhl-wpg-edm-2025-12-07",
+    "Jets BUY": 0.87,
+    "Oilers BUY": 0.87,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-wpg-edm-2025-12-07",
+    "hash": "d8ba3401a9bf8f4452ead7dde42cc3deb18f584bb520404132e99f10bea7f34a"
+  },
+  "d4a89bed1047065bcb9f5bd41903fbf13675d2f6d2a4bb7b38db0ce5722d37de": {
+    "question": "Avalanche vs Flyers",
+    "date": "2025-12-07",
+    "slug": "nhl-col-phi-2025-12-07",
+    "Avalanche BUY": 0.77,
+    "Flyers BUY": 0.35,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-col-phi-2025-12-07",
+    "hash": "d4a89bed1047065bcb9f5bd41903fbf13675d2f6d2a4bb7b38db0ce5722d37de"
+  },
+  "ed7fac6f52ede8b6c01c3e7e5af4ffd4c37405f7d86f7b56d1b73f4691aa1fa6": {
+    "question": "Islanders vs Panthers",
+    "date": "2025-12-07",
+    "slug": "nhl-nyi-fla-2025-12-07",
+    "Islanders BUY": 0.51,
+    "Panthers BUY": 0.62,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-nyi-fla-2025-12-07",
+    "hash": "ed7fac6f52ede8b6c01c3e7e5af4ffd4c37405f7d86f7b56d1b73f4691aa1fa6"
+  },
+  "4566bdad781c54eaca0aae7a70c13409c51302ee85df32edb197a223fff59d95": {
+    "question": "Sharks vs Hurricanes",
+    "date": "2025-12-07",
+    "slug": "nhl-sj-car-2025-12-07",
+    "Sharks BUY": 0.34,
+    "Hurricanes BUY": 0.78,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-sj-car-2025-12-07",
+    "hash": "4566bdad781c54eaca0aae7a70c13409c51302ee85df32edb197a223fff59d95"
+  },
+  "11b7477e3a5dd195674ffda5eb193489000ca078924835d932fb218ee6e39e39": {
+    "question": "Penguins vs Stars",
+    "date": "2025-12-07",
+    "slug": "nhl-pit-dal-2025-12-07",
+    "Penguins BUY": 0.47,
+    "Stars BUY": 0.66,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-pit-dal-2025-12-07",
+    "hash": "11b7477e3a5dd195674ffda5eb193489000ca078924835d932fb218ee6e39e39"
+  },
+  "b0fb3e06ebb1c46d4aa129aef9cb030168091334356d59d0df6cdc7b966e64bd": {
+    "question": "Blue Jackets vs Capitals",
+    "date": "2025-12-07",
+    "slug": "nhl-cbj-wsh-2025-12-08",
+    "BlueJackets BUY": 0.96,
+    "Capitals BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-cbj-wsh-2025-12-08",
+    "hash": "b0fb3e06ebb1c46d4aa129aef9cb030168091334356d59d0df6cdc7b966e64bd"
+  },
+  "1e3b84f402452cc6f3b2796be28f6c2ad0d6099eb2d9a6931686c88e0fa9e036": {
+    "question": "Golden Knights vs Rangers",
+    "date": "2025-12-07",
+    "slug": "nhl-las-nyr-2025-12-08",
+    "GoldenKnights BUY": 0.96,
+    "Rangers BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-las-nyr-2025-12-08",
+    "hash": "1e3b84f402452cc6f3b2796be28f6c2ad0d6099eb2d9a6931686c88e0fa9e036"
+  },
+  "a042df38b1fb91c713bb21b74fb999877bd97cb700fa0fe7ee05fcb504a8be34": {
+    "question": "Blues vs Canadiens",
+    "date": "2025-12-07",
+    "slug": "nhl-stl-mon-2025-12-08",
+    "Blues BUY": 0.96,
+    "Canadiens BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-stl-mon-2025-12-08",
+    "hash": "a042df38b1fb91c713bb21b74fb999877bd97cb700fa0fe7ee05fcb504a8be34"
+  },
+  "3a903a3752683657396e473128259706ccc90f4578fa3adaeb5a2ad83abecb40": {
+    "question": "Blackhawks vs Ducks",
+    "date": "2025-12-07",
+    "slug": "nhl-chi-ana-2025-12-08",
+    "Blackhawks BUY": 0.97,
+    "Ducks BUY": 0.97,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-chi-ana-2025-12-08",
+    "hash": "3a903a3752683657396e473128259706ccc90f4578fa3adaeb5a2ad83abecb40"
+  },
+  "03ef6a3ced5aa2fcd62153ba221688917fa7057e90c277b10131678a7a914825": {
+    "question": "Lightning vs Maple Leafs",
+    "date": "2025-12-08",
+    "slug": "nhl-tb-tor-2025-12-09",
+    "Lightning BUY": 0.97,
+    "MapleLeafs BUY": 0.97,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-tb-tor-2025-12-09",
+    "hash": "03ef6a3ced5aa2fcd62153ba221688917fa7057e90c277b10131678a7a914825"
+  },
+  "615a5f782057f5de874a6239d803c9755a1cb42f942e936aed84b7b39b031a34": {
+    "question": "Kings vs Utah",
+    "date": "2025-12-08",
+    "slug": "nhl-lak-utah-2025-12-09",
+    "Kings BUY": 0.96,
+    "Utah BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-lak-utah-2025-12-09",
+    "hash": "615a5f782057f5de874a6239d803c9755a1cb42f942e936aed84b7b39b031a34"
+  },
+  "5bd215e217403a6faee77610463467d2c9476f5fbd447716b146c345bf009493": {
+    "question": "Sabres vs Flames",
+    "date": "2025-12-08",
+    "slug": "nhl-buf-cal-2025-12-09",
+    "Sabres BUY": 0.96,
+    "Flames BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-buf-cal-2025-12-09",
+    "hash": "5bd215e217403a6faee77610463467d2c9476f5fbd447716b146c345bf009493"
+  },
+  "70e221fc9f8b4a30e3894de8d91b4cda8c35d5c8f5844fad4ad5228a5f21e902": {
+    "question": "Wild vs Kraken",
+    "date": "2025-12-08",
+    "slug": "nhl-min-sea-2025-12-09",
+    "Wild BUY": 0.96,
+    "Kraken BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-min-sea-2025-12-09",
+    "hash": "70e221fc9f8b4a30e3894de8d91b4cda8c35d5c8f5844fad4ad5228a5f21e902"
+  },
+  "8d5fef8990d80b362081189bb11e7b2966f03c96aeccd5d0da12824b0fcadfb1": {
+    "question": "Red Wings vs Canucks",
+    "date": "2025-12-08",
+    "slug": "nhl-det-van-2025-12-09",
+    "RedWings BUY": 0.96,
+    "Canucks BUY": 0.97,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-det-van-2025-12-09",
+    "hash": "8d5fef8990d80b362081189bb11e7b2966f03c96aeccd5d0da12824b0fcadfb1"
+  },
+  "95a8701be21269a348d7859e2df1ae313b8fc57fcb533c450f823e4b607988d2": {
+    "question": "Ducks vs Penguins",
+    "date": "2025-12-09",
+    "slug": "nhl-ana-pit-2025-12-10",
+    "Ducks BUY": 0.96,
+    "Penguins BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-ana-pit-2025-12-10",
+    "hash": "95a8701be21269a348d7859e2df1ae313b8fc57fcb533c450f823e4b607988d2"
+  },
+  "076e24d3eb8b94f2e8d296b0d58284223bf808d25e2c42b8ab92eb6d076d7a20": {
+    "question": "Bruins vs Blues",
+    "date": "2025-12-09",
+    "slug": "nhl-bos-stl-2025-12-10",
+    "Bruins BUY": 0.96,
+    "Blues BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-bos-stl-2025-12-10",
+    "hash": "076e24d3eb8b94f2e8d296b0d58284223bf808d25e2c42b8ab92eb6d076d7a20"
+  },
+  "d3a8ae48d8bdc533133a20a395b3fbcc975e574dc556522c996c0bc5a6fbe37a": {
+    "question": "Sharks vs Flyers",
+    "date": "2025-12-09",
+    "slug": "nhl-sj-phi-2025-12-10",
+    "Sharks BUY": 0.53,
+    "Flyers BUY": 0.97,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-sj-phi-2025-12-10",
+    "hash": "d3a8ae48d8bdc533133a20a395b3fbcc975e574dc556522c996c0bc5a6fbe37a"
+  },
+  "c658130855e73c45d3183f0ba82073d3fd99bff06d9c83dda209f336137f0938": {
+    "question": "Devils vs Senators",
+    "date": "2025-12-09",
+    "slug": "nhl-nj-ott-2025-12-10",
+    "Devils BUY": 0.97,
+    "Senators BUY": 0.97,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-nj-ott-2025-12-10",
+    "hash": "c658130855e73c45d3183f0ba82073d3fd99bff06d9c83dda209f336137f0938"
+  },
+  "06d02bfe74d8146b919a90bfa31dd30aa0a73f63a784df2e3969353207224389": {
+    "question": "Golden Knights vs Islanders",
+    "date": "2025-12-09",
+    "slug": "nhl-las-nyi-2025-12-10",
+    "GoldenKnights BUY": 0.97,
+    "Islanders BUY": 0.97,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-las-nyi-2025-12-10",
+    "hash": "06d02bfe74d8146b919a90bfa31dd30aa0a73f63a784df2e3969353207224389"
+  },
+  "8a4ead6f5266010b6b9d3b38fcb61aea5022f87df1888d9e08d94e87e511b881": {
+    "question": "Lightning vs Canadiens",
+    "date": "2025-12-09",
+    "slug": "nhl-tb-mon-2025-12-10",
+    "Lightning BUY": 0.96,
+    "Canadiens BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-tb-mon-2025-12-10",
+    "hash": "8a4ead6f5266010b6b9d3b38fcb61aea5022f87df1888d9e08d94e87e511b881"
+  },
+  "82cbf235626ad6aacf9ef4b464bb772047162ef77483bd5357b721b29b84179f": {
+    "question": "Blue Jackets vs Hurricanes",
+    "date": "2025-12-09",
+    "slug": "nhl-cbj-car-2025-12-10",
+    "BlueJackets BUY": 0.95,
+    "Hurricanes BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-cbj-car-2025-12-10",
+    "hash": "82cbf235626ad6aacf9ef4b464bb772047162ef77483bd5357b721b29b84179f"
+  },
+  "ea765061e35c79d184be4009ebc0de3964c15d54b961ee7a03e9eebb2ff6f2ae": {
+    "question": "Stars vs Jets",
+    "date": "2025-12-09",
+    "slug": "nhl-dal-wpg-2025-12-10",
+    "Stars BUY": 0.96,
+    "Jets BUY": 0.95,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-dal-wpg-2025-12-10",
+    "hash": "ea765061e35c79d184be4009ebc0de3964c15d54b961ee7a03e9eebb2ff6f2ae"
+  },
+  "86a5f832cf61a1781342f0c87dcb88375cdffb61142e7e3e0749a6e5c3e972be": {
+    "question": "Sabres vs Oilers",
+    "date": "2025-12-09",
+    "slug": "nhl-buf-edm-2025-12-10",
+    "Sabres BUY": 0.96,
+    "Oilers BUY": 0.95,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-buf-edm-2025-12-10",
+    "hash": "86a5f832cf61a1781342f0c87dcb88375cdffb61142e7e3e0749a6e5c3e972be"
+  },
+  "16bdea20c314a3abf799328005e19bb3eb1c36c7c6e2e4c96374a14b6c7096d2": {
+    "question": "Avalanche vs Predators",
+    "date": "2025-12-09",
+    "slug": "nhl-col-nsh-2025-12-10",
+    "Avalanche BUY": 0.96,
+    "Predators BUY": 0.95,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-col-nsh-2025-12-10",
+    "hash": "16bdea20c314a3abf799328005e19bb3eb1c36c7c6e2e4c96374a14b6c7096d2"
+  },
+  "ef73dd0bb663ed61812ba19f90ec76f70a072f1345b0fd949736e1021107ad43": {
+    "question": "Rangers vs Blackhawks",
+    "date": "2025-12-10",
+    "slug": "nhl-nyr-chi-2025-12-11",
+    "Rangers BUY": 0.96,
+    "Blackhawks BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-nyr-chi-2025-12-11",
+    "hash": "ef73dd0bb663ed61812ba19f90ec76f70a072f1345b0fd949736e1021107ad43"
+  },
+  "c1cdb7644c91955e0637b172787edbad9e4d796492037a163c83844e8e523ad0": {
+    "question": "Red Wings vs Flames",
+    "date": "2025-12-10",
+    "slug": "nhl-det-cal-2025-12-11",
+    "RedWings BUY": 0.96,
+    "Flames BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-det-cal-2025-12-11",
+    "hash": "c1cdb7644c91955e0637b172787edbad9e4d796492037a163c83844e8e523ad0"
+  },
+  "5e8f679f39b2bffe2fbd12c144bd7f494b2fef2446fcdb8de0ea6856aea411d0": {
+    "question": "Panthers vs Utah",
+    "date": "2025-12-10",
+    "slug": "nhl-fla-utah-2025-12-11",
+    "Panthers BUY": 0.96,
+    "Utah BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-fla-utah-2025-12-11",
+    "hash": "5e8f679f39b2bffe2fbd12c144bd7f494b2fef2446fcdb8de0ea6856aea411d0"
+  },
+  "9a5eee713ea57a9d4330a2745abdbecef2d6579d5247d6f02c943db63e68123d": {
+    "question": "Kings vs Kraken",
+    "date": "2025-12-10",
+    "slug": "nhl-lak-sea-2025-12-11",
+    "Kings BUY": 0.96,
+    "Kraken BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-lak-sea-2025-12-11",
+    "hash": "9a5eee713ea57a9d4330a2745abdbecef2d6579d5247d6f02c943db63e68123d"
+  },
+  "6a22ad2f1174f8513f3f434b5d565dd34472b5cc85b6e71152feb14b1388534d": {
+    "question": "Hurricanes vs Capitals",
+    "date": "2025-12-11",
+    "slug": "nhl-car-wsh-2025-12-12",
+    "Hurricanes BUY": 0.96,
+    "Capitals BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-car-wsh-2025-12-12",
+    "hash": "6a22ad2f1174f8513f3f434b5d565dd34472b5cc85b6e71152feb14b1388534d"
+  },
+  "c292278ebf3049aac898ec344d32cd17b762664a2b20b437ec3700e238e3e999": {
+    "question": "Senators vs Blue Jackets",
+    "date": "2025-12-11",
+    "slug": "nhl-ott-cbj-2025-12-12",
+    "Senators BUY": 0.96,
+    "BlueJackets BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-ott-cbj-2025-12-12",
+    "hash": "c292278ebf3049aac898ec344d32cd17b762664a2b20b437ec3700e238e3e999"
+  },
+  "8f55c9d73f3aeba322f08b86f4d324c24b3233acb1cbc637151af490c19794ab": {
+    "question": "Sharks vs Maple Leafs",
+    "date": "2025-12-11",
+    "slug": "nhl-sj-tor-2025-12-12",
+    "Sharks BUY": 0.94,
+    "MapleLeafs BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-sj-tor-2025-12-12",
+    "hash": "8f55c9d73f3aeba322f08b86f4d324c24b3233acb1cbc637151af490c19794ab"
+  },
+  "7832fa716ffffb1fd150ecf7cadb791031423e1a44ad624fd7b648dcd182402f": {
+    "question": "Canadiens vs Penguins",
+    "date": "2025-12-11",
+    "slug": "nhl-mon-pit-2025-12-12",
+    "Canadiens BUY": 0.96,
+    "Penguins BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-mon-pit-2025-12-12",
+    "hash": "7832fa716ffffb1fd150ecf7cadb791031423e1a44ad624fd7b648dcd182402f"
+  },
+  "99df39fa84e7376af37a8beafce303ef8e00ccfa7aff130a88b4c5489ec61d12": {
+    "question": "Golden Knights vs Flyers",
+    "date": "2025-12-11",
+    "slug": "nhl-las-phi-2025-12-12",
+    "GoldenKnights BUY": 0.96,
+    "Flyers BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-las-phi-2025-12-12",
+    "hash": "99df39fa84e7376af37a8beafce303ef8e00ccfa7aff130a88b4c5489ec61d12"
+  },
+  "03e20c1a192747783b0b24fae553dac2d907af13dadec464de0d45ae6a837b2a": {
+    "question": "Ducks vs Islanders",
+    "date": "2025-12-11",
+    "slug": "nhl-ana-nyi-2025-12-12",
+    "Ducks BUY": 0.96,
+    "Islanders BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-ana-nyi-2025-12-12",
+    "hash": "03e20c1a192747783b0b24fae553dac2d907af13dadec464de0d45ae6a837b2a"
+  },
+  "5fc7e9a2e9792a0f09b5bfeedabe059f72633de6d08973d9dea1155f7df4dc28": {
+    "question": "Lightning vs Devils",
+    "date": "2025-12-11",
+    "slug": "nhl-tb-nj-2025-12-12",
+    "Lightning BUY": 0.95,
+    "Devils BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-tb-nj-2025-12-12",
+    "hash": "5fc7e9a2e9792a0f09b5bfeedabe059f72633de6d08973d9dea1155f7df4dc28"
+  },
+  "382ce1f1e0072acbda6d19e89bb298db4ee2695060c0744320edb324e419f719": {
+    "question": "Stars vs Wild",
+    "date": "2025-12-11",
+    "slug": "nhl-dal-min-2025-12-12",
+    "Stars BUY": 0.96,
+    "Wild BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-dal-min-2025-12-12",
+    "hash": "382ce1f1e0072acbda6d19e89bb298db4ee2695060c0744320edb324e419f719"
+  },
+  "423bbaacfe67acf31343950486b3eab18c3c0c7d6d01182f5e2afa5f3751b205": {
+    "question": "Bruins vs Jets",
+    "date": "2025-12-11",
+    "slug": "nhl-bos-wpg-2025-12-12",
+    "Bruins BUY": 0.94,
+    "Jets BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-bos-wpg-2025-12-12",
+    "hash": "423bbaacfe67acf31343950486b3eab18c3c0c7d6d01182f5e2afa5f3751b205"
+  },
+  "b17d6501a682358e489a011969290efb205680742cd1254547b88b8eb2b2afd3": {
+    "question": "Blues vs Predators",
+    "date": "2025-12-11",
+    "slug": "nhl-stl-nsh-2025-12-12",
+    "Blues BUY": 0.96,
+    "Predators BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-stl-nsh-2025-12-12",
+    "hash": "b17d6501a682358e489a011969290efb205680742cd1254547b88b8eb2b2afd3"
+  },
+  "705bdf1958ca19357b7b536675b5bb028ff09fac1c2e26f46a81bb4a634f732d": {
+    "question": "Panthers vs Avalanche",
+    "date": "2025-12-11",
+    "slug": "nhl-fla-col-2025-12-12",
+    "Panthers BUY": 0.53,
+    "Avalanche BUY": 0.97,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-fla-col-2025-12-12",
+    "hash": "705bdf1958ca19357b7b536675b5bb028ff09fac1c2e26f46a81bb4a634f732d"
+  },
+  "5b03e9f8f344deefdda2bab11cb00eeca54f014b0ca66576864ab9bdb842391d": {
+    "question": "Red Wings vs Oilers",
+    "date": "2025-12-11",
+    "slug": "nhl-det-edm-2025-12-12",
+    "RedWings BUY": 0.96,
+    "Oilers BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-det-edm-2025-12-12",
+    "hash": "5b03e9f8f344deefdda2bab11cb00eeca54f014b0ca66576864ab9bdb842391d"
+  },
+  "98fe8648cdf3fe49ffca651c34401a8ce6af53eb93cd84e1f0c98599d6ed86a6": {
+    "question": "Sabres vs Canucks",
+    "date": "2025-12-11",
+    "slug": "nhl-buf-van-2025-12-12",
+    "Sabres BUY": 0.96,
+    "Canucks BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-buf-van-2025-12-12",
+    "hash": "98fe8648cdf3fe49ffca651c34401a8ce6af53eb93cd84e1f0c98599d6ed86a6"
+  },
+  "89a11f041fd6faccf61595fb802eb8db2e7ed8278084de9c57e4c088c04935b9": {
+    "question": "Blackhawks vs Blues",
+    "date": "2025-12-12",
+    "slug": "nhl-chi-stl-2025-12-13",
+    "Blackhawks BUY": 0.96,
+    "Blues BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-chi-stl-2025-12-13",
+    "hash": "89a11f041fd6faccf61595fb802eb8db2e7ed8278084de9c57e4c088c04935b9"
+  },
+  "708c9545b95a2bfe732abda4991021807d130b9e558958067c728a3b98c3e1b6": {
+    "question": "Kraken vs Utah",
+    "date": "2025-12-12",
+    "slug": "nhl-sea-utah-2025-12-13",
+    "Kraken BUY": 0.53,
+    "Utah BUY": 0.97,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-sea-utah-2025-12-13",
+    "hash": "708c9545b95a2bfe732abda4991021807d130b9e558958067c728a3b98c3e1b6"
+  },
+  "28375a59ef80b21962a22b9896e9059f84141aad101ac5836c4604723852a1eb": {
+    "question": "Ducks vs Devils",
+    "date": "2025-12-13",
+    "slug": "nhl-ana-nj-2025-12-13",
+    "Ducks BUY": 0.55,
+    "Devils BUY": 0.73,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-ana-nj-2025-12-13",
+    "hash": "28375a59ef80b21962a22b9896e9059f84141aad101ac5836c4604723852a1eb"
+  },
+  "d3891bd292b9d92ce78cc04c8c19b5c090afeef87a0ed55e0b36164b9e3ea027": {
+    "question": "Senators vs Wild",
+    "date": "2025-12-13",
+    "slug": "nhl-ott-min-2025-12-13",
+    "Senators BUY": 0.72,
+    "Wild BUY": 0.73,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-ott-min-2025-12-13",
+    "hash": "d3891bd292b9d92ce78cc04c8c19b5c090afeef87a0ed55e0b36164b9e3ea027"
+  },
+  "9ec7f39be6164b3031f9c31065db639e72329efafa229473c77f179bdac13cbb": {
+    "question": "Sharks vs Penguins",
+    "date": "2025-12-13",
+    "slug": "nhl-sj-pit-2025-12-13",
+    "Sharks BUY": 0.41,
+    "Penguins BUY": 0.73,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-sj-pit-2025-12-13",
+    "hash": "9ec7f39be6164b3031f9c31065db639e72329efafa229473c77f179bdac13cbb"
+  },
+  "59b56b3fff3747ec5cc0a3182f20e897de72edb5e27da40a7a42e450952bbe33": {
+    "question": "Golden Knights vs Blue Jackets",
+    "date": "2025-12-13",
+    "slug": "nhl-las-cbj-2025-12-14",
+    "GoldenKnights BUY": 0.96,
+    "BlueJackets BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-las-cbj-2025-12-14",
+    "hash": "59b56b3fff3747ec5cc0a3182f20e897de72edb5e27da40a7a42e450952bbe33"
+  },
+  "a0e1a951876d7a864a53d63e0b12cc9621e1d9d7f816c036457f47583af6381e": {
+    "question": "Capitals vs Jets",
+    "date": "2025-12-13",
+    "slug": "nhl-wsh-wpg-2025-12-14",
+    "Capitals BUY": 0.95,
+    "Jets BUY": 0.96,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-wsh-wpg-2025-12-14",
+    "hash": "a0e1a951876d7a864a53d63e0b12cc9621e1d9d7f816c036457f47583af6381e"
+  },
+  "b96b9fc9e6eaeed60ce663ebb651c6a99ca6e8f1a6cf86480404b99a2b14f79c": {
+    "question": "Oilers vs Maple Leafs",
+    "date": "2025-12-13",
+    "slug": "nhl-edm-tor-2025-12-14",
+    "Oilers BUY": 0.97,
+    "MapleLeafs BUY": 0.97,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/nhl-edm-tor-2025-12-14",
+    "hash": "b96b9fc9e6eaeed60ce663ebb651c6a99ca6e8f1a6cf86480404b99a2b14f79c"
+  }
+}

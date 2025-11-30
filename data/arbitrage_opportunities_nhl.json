@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Blackhawks vs Ducks",
+    "date": "2025-11-30",
+    "kalshi": "Blackhawks|0.48",
+    "polymarket": "Ducks|0.54",
+    "profit": -0.02,
+    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV30ANACHI",
+    "polymarket_link": "https://polymarket.com/event/nhl-ana-chi-2025-11-30",
+    "sport": "nhl"
+  },
+  {
+    "question": "Capitals vs Islanders",
+    "date": "2025-11-30",
+    "kalshi": "Capitals|0.55",
+    "polymarket": "Islanders|0.47",
+    "profit": -0.02,
+    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV30WSHNYI",
+    "polymarket_link": "https://polymarket.com/event/nhl-wsh-nyi-2025-11-30",
+    "sport": "nhl"
+  },
+  {
+    "question": "Flames vs Hurricanes",
+    "date": "2025-11-30",
+    "kalshi": "Flames|0.32",
+    "polymarket": "Hurricanes|0.7",
+    "profit": -0.02,
+    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25NOV30CGYCAR",
+    "polymarket_link": "https://polymarket.com/event/nhl-cal-car-2025-11-30",
+    "sport": "nhl"
+  },
+  {
+    "question": "Flyers vs Penguins",
+    "date": "2025-12-01",
+    "kalshi": "Flyers|0.53",
+    "polymarket": "Penguins|0.5",
+    "profit": -0.03,
+    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25DEC01PITPHI",
+    "polymarket_link": "https://polymarket.com/event/nhl-pit-phi-2025-12-01",
+    "sport": "nhl"
+  },
+  {
+    "question": "Sharks vs Utah",
+    "date": "2025-12-01",
+    "kalshi": "Sharks|0.44",
+    "polymarket": "Utah|0.59",
+    "profit": -0.03,
+    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25DEC01UTASJ",
+    "polymarket_link": "https://polymarket.com/event/nhl-utah-sj-2025-12-01",
+    "sport": "nhl"
+  },
+  {
+    "question": "Blues vs Ducks",
+    "date": "2025-12-01",
+    "kalshi": "Blues|0.53",
+    "polymarket": "Ducks|0.52",
+    "profit": -0.05,
+    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25DEC01ANASTL",
+    "polymarket_link": "https://polymarket.com/event/nhl-ana-stl-2025-12-01",
+    "sport": "nhl"
+  },
+  {
+    "question": "Maple Leafs vs Panthers",
+    "date": "2025-12-02",
+    "kalshi": "MapleLeafs|0.37",
+    "polymarket": "Panthers|0.69",
+    "profit": -0.06,
+    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25DEC02TORFLA",
+    "polymarket_link": "https://polymarket.com/event/nhl-tor-fla-2025-12-02",
+    "sport": "nhl"
+  },
+  {
+    "question": "Oilers vs Wild",
+    "date": "2025-12-02",
+    "kalshi": "Oilers|0.52",
+    "polymarket": "Wild|0.56",
+    "profit": -0.08,
+    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25DEC02MINEDM",
+    "polymarket_link": "https://polymarket.com/event/nhl-min-edm-2025-12-02",
+    "sport": "nhl"
+  },
+  {
+    "question": "Canadiens vs Senators",
+    "date": "2025-12-02",
+    "kalshi": "Canadiens|0.55",
+    "polymarket": "Senators|0.54",
+    "profit": -0.09,
+    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25DEC02OTTMTL",
+    "polymarket_link": "https://polymarket.com/event/nhl-ott-mon-2025-12-02",
+    "sport": "nhl"
+  },
+  {
+    "question": "Avalanche vs Canucks",
+    "date": "2025-12-02",
+    "kalshi": "Avalanche|0.78",
+    "polymarket": "Canucks|0.31",
+    "profit": -0.09,
+    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25DEC02VANCOL",
+    "polymarket_link": "https://polymarket.com/event/nhl-van-col-2025-12-02",
+    "sport": "nhl"
+  },
+  {
+    "question": "Rangers vs Stars",
+    "date": "2025-12-02",
+    "kalshi": "Rangers|0.56",
+    "polymarket": "Stars|0.54",
+    "profit": -0.1,
+    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25DEC02DALNYR",
+    "polymarket_link": "https://polymarket.com/event/nhl-dal-nyr-2025-12-02",
+    "sport": "nhl"
+  },
+  {
+    "question": "Flames vs Predators",
+    "date": "2025-12-02",
+    "kalshi": "Flames|0.55",
+    "polymarket": "Predators|0.55",
+    "profit": -0.1,
+    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25DEC02CGYNSH",
+    "polymarket_link": "https://polymarket.com/event/nhl-cal-nsh-2025-12-02",
+    "sport": "nhl"
+  },
+  {
+    "question": "Bruins vs Red Wings",
+    "date": "2025-12-02",
+    "kalshi": "Bruins|0.52",
+    "polymarket": "RedWings|0.59",
+    "profit": -0.11,
+    "kalshi_link": "https://kalshi.com/markets/kxnhlgame/nhl-game/KXNHLGAME-25DEC02BOSDET",
+    "polymarket_link": "https://polymarket.com/event/nhl-bos-det-2025-12-02",
+    "sport": "nhl"
+  }
+]

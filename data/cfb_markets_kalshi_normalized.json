@@ -1,0 +1,65 @@
+{
+  "aeb31e21a85b246a62b0d813493f73240e397d5a65fac7df5b4d2a1a822f8d4d": {
+    "question": "Indiana vs OhioState",
+    "date": "2025-12-06",
+    "platform": "kalshi",
+    "Indiana BUY": 0.35,
+    "OhioState BUY": 0.73,
+    "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25DEC06INDOSU",
+    "hash": "aeb31e21a85b246a62b0d813493f73240e397d5a65fac7df5b4d2a1a822f8d4d"
+  },
+  "2c6ee41e5d3802ab90e4a28b022caaee1000029c9c277f38de8c9fc2df035b59": {
+    "question": "Duke vs Virginia",
+    "date": "2025-12-06",
+    "platform": "kalshi",
+    "Duke BUY": 0.45,
+    "Virginia BUY": 0.63,
+    "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25DEC06DUKEUVA",
+    "hash": "2c6ee41e5d3802ab90e4a28b022caaee1000029c9c277f38de8c9fc2df035b59"
+  },
+  "9cd79e7347833d08af927599f5e8e0c5aa803387987a9d278b328156697fdedf": {
+    "question": "Alabama vs Georgia",
+    "date": "2025-12-06",
+    "platform": "kalshi",
+    "Alabama BUY": 0.51,
+    "Georgia BUY": 0.61,
+    "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25DEC06UGAALA",
+    "hash": "9cd79e7347833d08af927599f5e8e0c5aa803387987a9d278b328156697fdedf"
+  },
+  "2fdbd50f6c01d348612874a556024b99a403464f5506801fffd84ceca11becc9": {
+    "question": "BYU vs TexasTechRedRaiders",
+    "date": "2025-12-06",
+    "platform": "kalshi",
+    "BYU BUY": 0.23,
+    "TexasTechRedRaiders BUY": 0.8,
+    "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25DEC06BYUTTU",
+    "hash": "2fdbd50f6c01d348612874a556024b99a403464f5506801fffd84ceca11becc9"
+  },
+  "629f4bf68a37fd5f50d09699dc740d590a80752d96b3546a93a9a852604c6195": {
+    "question": "NorthTexas vs Tulane",
+    "date": "2025-12-05",
+    "platform": "kalshi",
+    "NorthTexas BUY": 0.65,
+    "Tulane BUY": 0.54,
+    "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25DEC05UNTTULN",
+    "hash": "629f4bf68a37fd5f50d09699dc740d590a80752d96b3546a93a9a852604c6195"
+  },
+  "833e37525f91323f71b5098a7c3552f515d8367f47a1a19f9a13ebaf5935da04": {
+    "question": "JamesMadison vs Troy",
+    "date": "2025-12-05",
+    "platform": "kalshi",
+    "JamesMadison BUY": 0.92,
+    "Troy BUY": 0.1,
+    "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25DEC05TROYJMU",
+    "hash": "833e37525f91323f71b5098a7c3552f515d8367f47a1a19f9a13ebaf5935da04"
+  },
+  "5bca99f4db549d91b9936e6dc9397b7e3ffd8316c3ae359951098cb465b678a6": {
+    "question": "JacksonvilleState vs KennesawState",
+    "date": "2025-12-05",
+    "platform": "kalshi",
+    "JacksonvilleState BUY": 0.61,
+    "KennesawState BUY": 0.63,
+    "kalshi link": "https://kalshi.com/markets/kxncaafgame/college-football-game/KXNCAAFGAME-25DEC05KENNJVST",
+    "hash": "5bca99f4db549d91b9936e6dc9397b7e3ffd8316c3ae359951098cb465b678a6"
+  }
+}

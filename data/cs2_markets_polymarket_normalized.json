@@ -1,0 +1,132 @@
+{
+  "588a41db150e2d5c308927486b3819d34d1689b21eb6f89c9e7e437fac16c0b6": {
+    "question": "QWENTRY vs Team Novaq",
+    "date": "2025-11-30",
+    "slug": "cs2-qwe-nvq-2025-11-30",
+    "QWENTRY BUY": null,
+    "TeamNovaq BUY": 0.85,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-qwe-nvq-2025-11-30",
+    "hash": "588a41db150e2d5c308927486b3819d34d1689b21eb6f89c9e7e437fac16c0b6"
+  },
+  "83c47ef7a465b78f75e45e60ff9a25e46482108a94e803ef3a83d26c8ff9fa9f": {
+    "question": "AMKAL ESPORTS vs MOUZ NXT",
+    "date": "2025-11-30",
+    "slug": "cs2-amk-mouzn-2025-11-30",
+    "AMKALESPORTS BUY": 0.46,
+    "MOUZNXT BUY": null,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-amk-mouzn-2025-11-30",
+    "hash": "83c47ef7a465b78f75e45e60ff9a25e46482108a94e803ef3a83d26c8ff9fa9f"
+  },
+  "85809362a9da09947aced4bcf0339eeb0379881e94bdf9ee7694b90ed19aa0d5": {
+    "question": "Sakura Esports vs MIBR fe",
+    "date": "2025-11-30",
+    "slug": "cs2-se-mibrf-2025-11-30",
+    "SakuraEsports BUY": 0.58,
+    "MIBRfe BUY": 0.55,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-se-mibrf-2025-11-30",
+    "hash": "85809362a9da09947aced4bcf0339eeb0379881e94bdf9ee7694b90ed19aa0d5"
+  },
+  "e706900288fa81142f501da8839837f44b928ec4ef18e335293375c86f22a251": {
+    "question": "kONO.ECF vs FORZE Reload",
+    "date": "2025-11-30",
+    "slug": "cs2-ecf-forzer-2025-11-30",
+    "kONO.ECF BUY": 0.54,
+    "FORZEReload BUY": 0.52,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-ecf-forzer-2025-11-30",
+    "hash": "e706900288fa81142f501da8839837f44b928ec4ef18e335293375c86f22a251"
+  },
+  "31ada226b081a705f67d45cc7467c6a2372e3ffdc117baac5760099d3859088d": {
+    "question": "Eternal Fire vs Nuclear TigeRES",
+    "date": "2025-12-01",
+    "slug": "cs2-ef1-ntr-2025-12-01",
+    "EternalFire BUY": 0.34,
+    "NuclearTigeRES BUY": 0.77,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-ef1-ntr-2025-12-01",
+    "hash": "31ada226b081a705f67d45cc7467c6a2372e3ffdc117baac5760099d3859088d"
+  },
+  "ae173b7452762daa594abd517760684394f2c253a3b7f152da95c85e122d2b7d": {
+    "question": "Passion UA vs 3DMAX",
+    "date": "2025-11-30",
+    "slug": "cs2-pssnua-3dmax-2025-11-30",
+    "3DMAX BUY": 0.59,
+    "PassionUA BUY": 0.42,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-pssnua-3dmax-2025-11-30",
+    "hash": "ae173b7452762daa594abd517760684394f2c253a3b7f152da95c85e122d2b7d"
+  },
+  "9c75bc071ff1bc22fe1e5fdc7afbcbf87479884105e84022001f0b346c2496d9": {
+    "question": "M80 vs TYLOO",
+    "date": "2025-11-30",
+    "slug": "cs2-m80-tyloo-2025-11-30",
+    "M80 BUY": 0.55,
+    "TYLOO BUY": 0.46,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-m80-tyloo-2025-11-30",
+    "hash": "9c75bc071ff1bc22fe1e5fdc7afbcbf87479884105e84022001f0b346c2496d9"
+  },
+  "d7cc59ec53d8fd1099483c6b2f56b77ed987a3b9aa2241d63071ee52c181b99d": {
+    "question": "fnatic vs Imperial",
+    "date": "2025-11-30",
+    "slug": "cs2-fnc-imp11-2025-11-30",
+    "fnatic BUY": 0.56,
+    "Imperial BUY": 0.45,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-fnc-imp11-2025-11-30",
+    "hash": "d7cc59ec53d8fd1099483c6b2f56b77ed987a3b9aa2241d63071ee52c181b99d"
+  },
+  "5c69661c7de9a18878b7b21c50cf961e77817a8ce2278c4faa26cc614e522e57": {
+    "question": "PARIVISION vs Aurora Gaming",
+    "date": "2025-11-30",
+    "slug": "cs2-prv-aur1-2025-11-30",
+    "PARIVISION BUY": 0.41,
+    "AuroraGaming BUY": 0.6,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-prv-aur1-2025-11-30",
+    "hash": "5c69661c7de9a18878b7b21c50cf961e77817a8ce2278c4faa26cc614e522e57"
+  },
+  "37bfbe0ffec936a4cdf22b5794d398ec80e5efb5104192633c7f1a5d20d70825": {
+    "question": "MIBR vs Liquid",
+    "date": "2025-11-30",
+    "slug": "cs2-mibr-tl1-2025-11-30",
+    "MIBR BUY": 0.28,
+    "Liquid BUY": 0.73,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-mibr-tl1-2025-11-30",
+    "hash": "37bfbe0ffec936a4cdf22b5794d398ec80e5efb5104192633c7f1a5d20d70825"
+  },
+  "d78e95158e24619d43112486a1ebbcf71243cea00001d1d128e1a9b7d6c08ce1": {
+    "question": "FaZe vs NIP",
+    "date": "2025-11-30",
+    "slug": "cs2-faze-nip-2025-11-30",
+    "FaZe BUY": 0.57,
+    "NIP BUY": 0.44,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-faze-nip-2025-11-30",
+    "hash": "d78e95158e24619d43112486a1ebbcf71243cea00001d1d128e1a9b7d6c08ce1"
+  },
+  "099d80ff86707a9979aa22e6620ab23ffb6ccee3490b5e7d596e58fce624303d": {
+    "question": "FlyQuest vs Astralis",
+    "date": "2025-11-30",
+    "slug": "cs2-fly-ast10-2025-11-30",
+    "FlyQuest BUY": 0.35,
+    "Astralis BUY": 0.66,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-fly-ast10-2025-11-30",
+    "hash": "099d80ff86707a9979aa22e6620ab23ffb6ccee3490b5e7d596e58fce624303d"
+  },
+  "025d1810917761f664c4d393cca7a430eebeb995a518b183022b24c0d899eddd": {
+    "question": "Natus Vincere vs B8",
+    "date": "2025-11-30",
+    "slug": "cs2-navi-b8-2025-11-30",
+    "B8 BUY": 0.36,
+    "NatusVincere BUY": 0.66,
+    "platform": "polymarket",
+    "polymarket link": "https://polymarket.com/event/cs2-navi-b8-2025-11-30",
+    "hash": "025d1810917761f664c4d393cca7a430eebeb995a518b183022b24c0d899eddd"
+  }
+}

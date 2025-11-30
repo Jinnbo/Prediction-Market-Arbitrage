@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Imperial vs fnatic",
+    "date": "2025-11-30",
+    "kalshi": "Imperial|0.45",
+    "polymarket": "fnatic|0.57",
+    "profit": -0.02,
+    "kalshi_link": "https://kalshi.com/markets/kxcsgogame/counterstrike-2-games/KXCSGOGAME-25NOV30IMPFNC",
+    "polymarket_link": "https://polymarket.com/event/cs2-fnc-imp11-2025-11-30",
+    "sport": "cs2"
+  },
+  {
+    "question": "FaZe vs NIP",
+    "date": "2025-11-30",
+    "kalshi": "FaZe|0.59",
+    "polymarket": "NIP|0.44",
+    "profit": -0.03,
+    "kalshi_link": "https://kalshi.com/markets/kxcsgogame/counterstrike-2-games/KXCSGOGAME-25NOV30NIPFAZE",
+    "polymarket_link": "https://polymarket.com/event/cs2-faze-nip-2025-11-30",
+    "sport": "cs2"
+  },
+  {
+    "question": "M80 vs TYLOO",
+    "date": "2025-11-30",
+    "kalshi": "M80|0.58",
+    "polymarket": "TYLOO|0.46",
+    "profit": -0.04,
+    "kalshi_link": "https://kalshi.com/markets/kxcsgogame/counterstrike-2-games/KXCSGOGAME-25NOV30TYLOOM80",
+    "polymarket_link": "https://polymarket.com/event/cs2-m80-tyloo-2025-11-30",
+    "sport": "cs2"
+  }
+]

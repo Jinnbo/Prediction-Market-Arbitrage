@@ -1,0 +1,93 @@
+[
+  {
+    "question": "Counter-Strike: QWENTRY vs Team Novaq (BO3)",
+    "date": "2025-11-30",
+    "slug": "cs2-qwe-nvq-2025-11-30",
+    "QWENTRY BUY": null,
+    "Team Novaq BUY": 0.85
+  },
+  {
+    "question": "Counter-Strike: AMKAL ESPORTS vs MOUZ NXT (BO3)",
+    "date": "2025-11-30",
+    "slug": "cs2-amk-mouzn-2025-11-30",
+    "AMKAL ESPORTS BUY": 0.46,
+    "MOUZ NXT BUY": null
+  },
+  {
+    "question": "Counter-Strike: Sakura Esports vs MIBR fe (BO3)",
+    "date": "2025-11-30",
+    "slug": "cs2-se-mibrf-2025-11-30",
+    "Sakura Esports BUY": 0.58,
+    "MIBR fe BUY": 0.55
+  },
+  {
+    "question": "Counter-Strike: kONO.ECF vs FORZE Reload (BO3)",
+    "date": "2025-11-30",
+    "slug": "cs2-ecf-forzer-2025-11-30",
+    "kONO.ECF BUY": 0.54,
+    "FORZE Reload BUY": 0.52
+  },
+  {
+    "question": "Counter-Strike: Eternal Fire vs Nuclear TigeRES (BO3)",
+    "date": "2025-12-01",
+    "slug": "cs2-ef1-ntr-2025-12-01",
+    "Eternal Fire BUY": 0.34,
+    "Nuclear TigeRES BUY": 0.77
+  },
+  {
+    "question": "Counter-Strike: Passion UA vs 3DMAX (BO1)",
+    "date": "2025-11-30",
+    "slug": "cs2-pssnua-3dmax-2025-11-30",
+    "Passion UA BUY": 0.42,
+    "3DMAX BUY": 0.59
+  },
+  {
+    "question": "Counter-Strike: M80 vs TYLOO (BO1)",
+    "date": "2025-11-30",
+    "slug": "cs2-m80-tyloo-2025-11-30",
+    "M80 BUY": 0.55,
+    "TYLOO BUY": 0.46
+  },
+  {
+    "question": "Counter-Strike: fnatic vs Imperial (BO1)",
+    "date": "2025-11-30",
+    "slug": "cs2-fnc-imp11-2025-11-30",
+    "fnatic BUY": 0.56,
+    "Imperial BUY": 0.45
+  },
+  {
+    "question": "Counter-Strike: PARIVISION vs Aurora Gaming (BO1)",
+    "date": "2025-11-30",
+    "slug": "cs2-prv-aur1-2025-11-30",
+    "PARIVISION BUY": 0.41,
+    "Aurora Gaming BUY": 0.6
+  },
+  {
+    "question": "Counter-Strike: MIBR vs Liquid (BO3)",
+    "date": "2025-11-30",
+    "slug": "cs2-mibr-tl1-2025-11-30",
+    "MIBR BUY": 0.28,
+    "Liquid BUY": 0.73
+  },
+  {
+    "question": "Counter-Strike: FaZe vs NIP (BO3)",
+    "date": "2025-11-30",
+    "slug": "cs2-faze-nip-2025-11-30",
+    "FaZe BUY": 0.57,
+    "NIP BUY": 0.44
+  },
+  {
+    "question": "Counter-Strike: FlyQuest vs Astralis (BO3)",
+    "date": "2025-11-30",
+    "slug": "cs2-fly-ast10-2025-11-30",
+    "FlyQuest BUY": 0.35,
+    "Astralis BUY": 0.66
+  },
+  {
+    "question": "Counter-Strike: Natus Vincere vs B8 (BO3)",
+    "date": "2025-11-30",
+    "slug": "cs2-navi-b8-2025-11-30",
+    "Natus Vincere BUY": 0.66,
+    "B8 BUY": 0.36
+  }
+]
